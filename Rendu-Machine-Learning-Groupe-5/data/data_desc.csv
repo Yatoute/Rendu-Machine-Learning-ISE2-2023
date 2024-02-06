@@ -1,0 +1,47 @@
+Variable;Type;NonNull;Description
+OSEBuildingID;int64;3376;Identifiant de la propireté
+DataYear;int64;3376;Année d'enrégistrement
+BuildingType;object;3376;Type de bâtiment
+PrimaryPropertyType;object;3376;Utilisation principale d’un bien
+PropertyName;object;3376;Nom de la proprieté
+Address;object;3376;Adresse postale de la propriété
+City;object;3376;Ville de la propriété
+State;float64;3360;État de la propriété
+ZipCode;object;3376;Code postal
+TaxParcelIdentificationNumber;int64;3376;Numéro d'identification fiscal
+CouncilDistrictCode;object;3376;Code du district du conseil municipal
+Neighborhood;float64;3376;quartier
+Latitude;float64;3376;Latitude
+Longitude;int64;3376;Longitude
+YearBuilt;float64;3368;Année de construction de la propriété
+NumberofBuildings;int64;3376;Nombre de bâtiments inclus dans le rapport de la propriété
+NumberofFloors;int64;3376;Nombre d’étages déclarés dans Portfolio Manager
+PropertyGFATotal;int64;3376;Surface de plancher brute totale du bâtiment et du parking
+PropertyGFAParking;object;3376;Espace total en pieds carrés de tous les types de stationnement
+PropertyGFABuilding(s);object;3376;Surface totale en pieds carrés entre les surfaces extérieures des murs d’enceinte d’un bâtiment
+ListOfAllPropertyUseTypes;float64;3367;Toutes les utilisations des biens immobiliers déclarées dans Portfolio Manager
+LargestPropertyUseType;object;3356;La plus grande utilisation d’un bien
+LargestPropertyUseTypeGFA;float64;3356;La surface de plancher brute (GFA) de la plus grande utilisation de la propriété
+SecondLargestPropertyUseType;object;1679;La deuxième plus grande utilisation d’une propriété
+SecondLargestPropertyUseTypeGFA;float64;1679;La surface de plancher brute (SPB) de la deuxième utilisation en importance de la propriété
+ThirdLargestPropertyUseType;object;596;La troisième plus grande utilisation d’un bien
+ThirdLargestPropertyUseTypeGFA;float64;596;La surface de plancher brute (SPB) de la troisième plus grande utilisation de la propriété
+YearsENERGYSTARCertified;object;119;Depuis que la propriété a reçu la certification ENERGY STAR
+ENERGYSTARScore;float64;2533;Une cote de 1 à 100 calculée par l’EPA qui évalue la performance énergétique globale d’une propriété
+SiteEUI(kBtu/sf);object;3369;L’intensité de consommation d’énergie du site (IUE)
+SiteEUIWN(kBtu/sf);float64;3370;L’intensité de consommation d’énergie du site normalisée en fonction des conditions météorologiques (WN)
+SourceEUI(kBtu/sf);float64;3367;L’intensité de consommation d’énergie à la source (IUE)
+SourceEUIWN(kBtu/sf);float64;3367;L’intensité de consommation d’énergie de la source normalisée en fonction des conditions météorologiques (IUE)
+SiteEnergyUse(kBtu);float64;3371;La quantité annuelle d’énergie consommée par la propriété à partir de toutes les sources d’énergie
+SiteEnergyUseWN(kBtu);float64;3370;La quantité annuelle d’énergie consommée par la propriété à partir de toutes les sources d’énergie
+SteamUse(kBtu);float64;3367;La quantité annuelle de vapeur urbaine consommée par la propriété sur le site
+Electricity(kWh);float64;3367;La quantité annuelle d’électricité consommée par la propriété sur place
+Electricity(kBtu);float64;3367;La quantité annuelle d’électricité consommée par la propriété sur place
+NaturalGas(therms);float64;3367;La quantité annuelle de gaz naturel fournie par les services publics consommée par la propriété
+NaturalGas(kBtu);float64;3367;La quantité annuelle de gaz naturel fournie par les services publics consommée par la propriété
+DefaultData;bool;3376;La propriété utilisait des données par défaut pour au moins une caractéristique de propriété
+Comments;float64;0;Commentaires
+ComplianceStatus;object;3376;Si une propriété a satisfait aux exigences en matière d’analyse comparative énergétique pour l’année de déclaration en cours
+Outlier;object;32;Si une propriété est une valeur aberrante élevée ou faible (O/N)
+TotalGHGEmissions;float64;3367;La quantité totale d’émissions de gaz à effet de serre
+GHGEmissionsIntensity;float64;3367;Émissions totales de gaz à effet de serre divisées par la surface de plancher brute de la propriété

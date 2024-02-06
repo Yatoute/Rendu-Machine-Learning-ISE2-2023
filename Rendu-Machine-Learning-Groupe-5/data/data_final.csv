@@ -1,0 +1,1666 @@
+OSEBuildingID,BuildingType,Neighborhood,YearBuilt,NumberofBuildings,NumberofFloors,PropertyGFAParking,PropertyGFABuilding(s),LargestPropertyUseType,LargestPropertyUseTypeGFA,SecondLargestPropertyUseType,SecondLargestPropertyUseTypeGFA,ThirdLargestPropertyUseType,ThirdLargestPropertyUseTypeGFA,ComplianceStatus,ENERGYSTARScore,Outlier,SiteEnergyUse(kBtu)
+1,NonResidential,DOWNTOWN,1927,1.0,12,0,88434,Hotel,88434.0,,,,,Compliant,60.0,,7226362.5
+2,NonResidential,DOWNTOWN,1996,1.0,11,15064,88502,Hotel,83880.0,Parking,15064.0,Restaurant,4622.0,Compliant,61.0,,8387933.0
+3,NonResidential,DOWNTOWN,1969,1.0,41,196718,759392,Hotel,756493.0,,,,,Compliant,43.0,,72587024.0
+5,NonResidential,DOWNTOWN,1926,1.0,10,0,61320,Hotel,61320.0,,,,,Compliant,56.0,,6794584.0
+8,NonResidential,DOWNTOWN,1980,1.0,18,62000,113580,Hotel,123445.0,Parking,68009.0,Swimming Pool,0.0,Compliant,75.0,,14172606.0
+9,Nonresidential COS,DOWNTOWN,1999,1.0,2,37198,60090,Police Station,88830.0,,,,,Compliant,,,12086616.0
+10,NonResidential,DOWNTOWN,1926,1.0,11,0,83008,Hotel,81352.0,,,,,Compliant,27.0,,5758795.0
+11,NonResidential,DOWNTOWN,1926,1.0,8,0,102761,Other - Entertainment/Public Assembly,102761.0,,,,,Compliant,,,6298131.5
+12,NonResidential,DOWNTOWN,1904,1.0,15,0,163984,Hotel,163984.0,,,,,Compliant,43.0,,13723820.0
+15,NonResidential,DOWNTOWN,1969,1.0,11,19279,133884,Hotel,133884.0,,,,,Compliant,30.0,,16016644.0
+16,NonResidential,DOWNTOWN,1998,1.0,25,61161,272015,Hotel,336640.0,,,,,Compliant,36.0,,26941110.0
+17,NonResidential,DOWNTOWN,1928,1.0,9,0,65009,Hotel,65009.0,,,,,Compliant,48.0,,6596057.5
+18,NonResidential,DOWNTOWN,1980,1.0,33,57600,258352,Hotel,295511.0,Parking,57600.0,,,Compliant,58.0,,22325364.0
+19,NonResidential,DOWNTOWN,1922,1.0,11,25200,66990,Hotel,67390.0,Parking,25200.0,,,Compliant,35.0,,10750010.0
+21,Nonresidential COS,DOWNTOWN,2004,1.0,11,57000,355000,Library,364913.0,Parking,49000.0,Data Center,1074.0,Compliant,,,18588860.0
+22,NonResidential,DOWNTOWN,1930,1.0,6,0,103911,Fitness Center/Health Club/Gym,90000.0,Office,40000.0,Swimming Pool,0.0,Compliant,,,9956396.0
+23,NonResidential,DOWNTOWN,1983,1.0,28,85000,331281,Hotel,348329.0,Parking,85000.0,,,Compliant,31.0,,33556756.0
+24,NonResidential,DOWNTOWN,1907,1.0,5,0,57452,Social/Meeting Hall,16442.0,Restaurant,15505.0,Office,9741.0,Compliant,,,7606084.5
+25,NonResidential,DOWNTOWN,1916,1.0,10,0,104352,Hotel,104352.0,,,,,Compliant,39.0,,10154608.0
+26,NonResidential,DOWNTOWN,1916,1.0,10,0,540360,Courthouse,537150.0,,,,,Compliant,76.0,,44984468.0
+27,NonResidential,DOWNTOWN,1985,1.0,19,0,385274,Other,385274.0,,,,,Compliant,,,47859812.0
+28,SPS-District K-12,SOUTHEAST,1961,1.0,2,0,56228,K-12 School,58916.0,,,,,Error - Correct Default Data,95.0,,1539478.5
+29,NonResidential,NORTHEAST,2001,1.0,6,30586,58006,Hotel,58006.0,Parking,30586.0,,,Compliant,84.0,,3663534.5
+30,NonResidential,DOWNTOWN,1928,1.0,7,0,126593,College/University,125000.0,,,,,Compliant,,,11343686.0
+31,NonResidential,DOWNTOWN,1930,1.0,2,0,67224,Automobile Dealership,67224.0,,,,,Compliant,,,1310236.625
+32,NonResidential,EAST,1991,1.0,8,30301,128375,Hotel,112676.0,Parking,42000.0,Retail Store,4500.0,Compliant,,,5328051.5
+33,NonResidential,DOWNTOWN,2001,1.0,10,38281,133585,Hotel,128909.0,,,,,Compliant,57.0,,11061916.0
+34,SPS-District K-12,Central,1955,1.0,1,0,126351,K-12 School,126351.0,,,,,Missing Data,,,0.0
+35,NonResidential,DOWNTOWN,1978,1.0,5,16200,52210,Hotel,47994.0,,,,,Compliant,57.0,,4456714.5
+36,SPS-District K-12,NORTH,1949,1.0,2,0,160645,K-12 School,164229.0,,,,,Error - Correct Default Data,75.0,,6779173.0
+37,SPS-District K-12,MAGNOLIA / QUEEN ANNE,1989,1.0,2,0,51582,K-12 School,55166.0,,,,,Missing Data,,,0.0
+38,NonResidential,LAKE UNION,1906,1.0,3,0,87262,Office,40943.0,K-12 School,18153.0,Other - Entertainment/Public Assembly,4307.0,Compliant,,,4145920.5
+40,NonResidential,NORTHEAST,1994,1.0,4,0,81871,Hotel,81871.0,,,,,Compliant,29.0,,6668568.5
+41,NonResidential,NORTHEAST,1955,1.0,2,0,110356,Self-Storage Facility,26225.0,,,,,Compliant,,,318364.8125
+43,Campus,GREATER DUWAMISH,1992,1.0,3,0,494835,Office,757027.0,Laboratory,639931.0,Non-Refrigerated Warehouse,459748.0,Compliant,8.0,,448385312.0
+46,NonResidential,GREATER DUWAMISH,1961,3.0,2,0,714095,Non-Refrigerated Warehouse,616000.0,Refrigerated Warehouse,276000.0,Office,71000.0,Compliant,,,44731160.0
+50,SPS-District K-12,MAGNOLIA / QUEEN ANNE,1990,1.0,2,0,54986,K-12 School,54986.0,,,,,Compliant,97.0,,1650279.25
+51,SPS-District K-12,NORTHEAST,1950,1.0,2,0,175565,K-12 School,182861.0,,,,,Error - Correct Default Data,88.0,,6399127.5
+52,NonResidential,BALLARD,1961,1.0,2,0,94900,Office,55586.0,Non-Refrigerated Warehouse,39314.0,,,Compliant,57.0,,6186461.5
+53,NonResidential,GREATER DUWAMISH,1900,1.0,2,0,52554,Office,51029.0,Other - Education,7849.0,,,Compliant,83.0,,2951331.25
+54,NonResidential,NORTHWEST,1954,1.0,3,0,175015,K-12 School,175015.0,,,,,Compliant,95.0,,6994740.5
+55,NonResidential,DOWNTOWN,1911,1.0,3,0,70586,Self-Storage Facility,38439.0,Vocational School,28197.0,Office,3859.0,Compliant,,,2158629.0
+56,NonResidential,DOWNTOWN,1969,1.0,24,205970,126240,Hotel,348630.0,,,,,Compliant,67.0,,16163194.0
+57,NonResidential,DOWNTOWN,1973,1.0,5,0,168115,Office,103362.0,Retail Store,65676.0,Data Center,493.0,Compliant,78.0,,9536161.0
+58,NonResidential,DOWNTOWN,1920,1.0,2,0,57428,Other - Mall,51747.0,"Personal Services (Health/Beauty, Dry Cleaning, etc)",5681.0,,,Compliant,,,1247362.0
+59,NonResidential,DOWNTOWN,1910,1.0,8,0,59400,Office,34947.0,Retail Store,4993.0,,,Compliant,14.0,,5071974.0
+60,NonResidential,DOWNTOWN,1926,1.0,2,0,52549,Other - Entertainment/Public Assembly,23500.0,Restaurant,23500.0,Office,5459.0,Compliant,,,15026196.0
+62,NonResidential,DOWNTOWN,1930,1.0,20,10043,88591,Hotel,83591.0,Parking,10043.0,Restaurant,5000.0,Compliant,71.0,,4841347.5
+63,NonResidential,DOWNTOWN,1982,1.0,34,146694,847518,Hotel,994212.0,Parking,117668.0,Swimming Pool,0.0,Compliant,63.0,,80469216.0
+65,NonResidential,DOWNTOWN,1985,1.0,7,0,71150,Hotel,41340.0,Parking,13730.0,Retail Store,9604.0,Compliant,98.0,,5348309.0
+66,NonResidential,DOWNTOWN,1908,1.0,7,0,122810,Hotel,88360.0,Other - Entertainment/Public Assembly,26450.0,Retail Store,8000.0,Compliant,99.0,,5401277.5
+67,NonResidential,LAKE UNION,1959,1.0,5,42546,70627,Hotel,70627.0,Parking,42546.0,,,Compliant,86.0,,5284343.5
+68,NonResidential,LAKE UNION,2000,1.0,7,34735,115718,Hotel,107547.0,Restaurant,3000.0,,,Compliant,84.0,,6715187.0
+69,NonResidential,LAKE UNION,1997,1.0,6,28200,88100,Hotel,88490.0,Parking,28300.0,,,Compliant,80.0,,5827595.5
+70,NonResidential,MAGNOLIA / QUEEN ANNE,1998,1.0,6,36744,118858,Hotel,155602.0,,,,,Compliant,81.0,,6836900.0
+73,NonResidential,EAST,1911,1.0,3,0,56072,K-12 School,56072.0,,,,,Compliant,76.0,,3234787.75
+77,NonResidential,MAGNOLIA / QUEEN ANNE,1999,1.0,4,44891,78051,Hotel,78051.0,Parking,44891.0,,,Compliant,94.0,,5337334.0
+82,NonResidential,CENTRAL,1962,1.0,2,0,54984,Office,54984.0,,,,,Compliant,71.0,,3375211.0
+84,NonResidential,SOUTHWEST,1922,1.0,5,0,217603,Senior Care Community,296313.0,Parking,0.0,,,Compliant,54.0,,42792072.0
+85,NonResidential,NORTHWEST,1970,1.0,2,0,93397,Senior Care Community,93397.0,,,,,Compliant,1.0,,16402563.0
+86,NonResidential,LAKE UNION,2008,1.0,6,20732,63371,Hotel,63371.0,Parking,20732.0,,,Compliant,74.0,,3706100.25
+87,SPS-District K-12,SOUTHWEST,1948,1.0,2,0,53352,K-12 School,65568.0,,,,,Missing Data,,,0.0
+89,NonResidential,EAST,1965,0.0,3,0,179014,Medical Office,179014.0,,,,,Compliant,48.0,,16701055.0
+95,NonResidential,EAST,1908,1.0,7,0,76631,Hotel,76631.0,,,,,Compliant,71.0,,7258758.5
+96,NonResidential,EAST,1983,1.0,6,9341,90439,Medical Office,40174.0,Parking,20868.0,Office,17020.0,Compliant,,,15473117.0
+98,NonResidential,LAKE UNION,1929,1.0,2,0,58320,Retail Store,72072.0,,,,,Compliant,96.0,,1049748.625
+100,NonResidential,LAKE UNION,2010,1.0,5,0,316306,Office,261826.0,Parking,150726.0,Other,15139.0,Compliant,96.0,,13795954.0
+102,NonResidential,LAKE UNION,1990,1.0,7,44766,238097,Hotel,235788.0,Parking,51537.0,,,Compliant,37.0,,19459304.0
+103,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1962,1.0,1,0,389000,Other,368000.0,,,,,Compliant,,,23658978.0
+104,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1962,1.0,1,0,91213,Other,65000.0,,,,,Compliant,,,8141155.5
+106,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1938,1.0,5,0,396085,Other,278500.0,,,,,Compliant,,,20955026.0
+107,NonResidential,LAKE UNION,2010,1.0,12,0,571329,Office,598801.0,Parking,310699.0,Other,26203.0,Compliant,91.0,,39605888.0
+110,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1962,1.0,2,0,52000,Other,52000.0,,,,,Compliant,,,2726369.0
+111,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1928,1.0,1,0,60696,Other,108000.0,,,,,Compliant,,,875943.3125
+112,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1928,1.0,2,0,262048,Other,296000.0,,,,,Compliant,,,20723248.0
+113,NonResidential,MAGNOLIA / QUEEN ANNE,1986,0.0,2,2352,63888,Office,45900.0,Data Center,5181.0,Distribution Center,4551.0,Compliant,,,4166306.25
+114,NonResidential,MAGNOLIA / QUEEN ANNE,2010,1.0,6,303707,616891,Office,729584.0,Parking,185014.0,Other,6000.0,Compliant,93.0,,36667044.0
+115,NonResidential,MAGNOLIA / QUEEN ANNE,1970,1.0,4,25930,50283,Office,48546.0,Parking,21454.0,Other,2406.0,Compliant,68.0,,3476212.5
+116,NonResidential,MAGNOLIA / QUEEN ANNE,2002,1.0,6,36934,59976,Hotel,59976.0,Parking,36934.0,,,Compliant,56.0,,5155568.5
+117,NonResidential,NORTHEAST,1962,2.0,4,0,50017,Hotel,50017.0,Swimming Pool,0.0,,,Compliant,53.0,,5448975.0
+118,SPS-District K-12,DELRIDGE,1999,1.0,3,0,74468,K-12 School,75364.0,,,,,Missing Data,,,0.0
+119,NonResidential,EAST,1923,1.0,3,0,67743,K-12 School,67743.0,,,,,Compliant,34.0,,2646879.0
+120,NonResidential,EAST,1908,1.0,6,0,194104,K-12 School,194104.0,,,,,Compliant,100.0,,6219841.5
+121,NonResidential,SOUTHEAST,2003,1.0,3,35752,63681,Office,63681.0,Parking,35752.0,,,Compliant,63.0,,4897760.0
+122,SPS-District K-12,SOUTHEAST,1991,1.0,2,0,58933,K-12 School,60725.0,,,,,Missing Data,,,0.0
+125,SPS-District K-12,GREATER DUWAMISH,1957,1.0,1,0,130862,K-12 School,134446.0,,,,,Error - Correct Default Data,61.0,,6456026.0
+127,SPS-District K-12,SOUTHEAST,1989,1.0,3,0,59955,K-12 School,59955.0,,,,,Error - Correct Default Data,93.0,,1633399.375
+130,SPS-District K-12,MAGNOLIA / QUEEN ANNE,1964,1.0,2,0,93218,K-12 School,93218.0,,,,,Error - Correct Default Data,86.0,,2887392.0
+131,NonResidential,NORTHEAST,1941,1.0,4,0,56521,Other,49000.0,,,,,Compliant,,,6357632.0
+132,NonResidential,NORTHEAST,1929,1.0,2,0,206934,Other,119146.0,Parking,0.0,,,Compliant,,,4253577.5
+136,NonResidential,NORTHWEST,2001,1.0,4,0,51390,Hotel,51390.0,Parking,0.0,,,Compliant,89.0,,3611538.0
+137,SPS-District K-12,NORTHWEST,1963,1.0,2,0,131013,K-12 School,131909.0,,,,,Error - Correct Default Data,88.0,,3894584.5
+138,SPS-District K-12,NORTHWEST,1959,1.0,1,0,245587,K-12 School,245587.0,,,,,Compliant,92.0,,11765682.0
+139,NonResidential,NORTHWEST,2002,1.0,3,0,69138,Hotel,70609.0,,,,,Compliant,78.0,,3242458.0
+140,SPS-District K-12,LAKE UNION,1991,1.0,3,0,66588,K-12 School,66588.0,,,,,Missing Data,,,0.0
+144,NonResidential,DOWNTOWN,1904,1.0,5,0,190980,Hotel,190980.0,Parking,19051.0,,,Compliant,98.0,,6505995.0
+145,Nonresidential COS,DOWNTOWN,1998,1.0,6,0,284100,Other - Entertainment/Public Assembly,189750.0,,,,,Compliant,,,14641502.0
+147,NonResidential,BALLARD,1954,4.0,5,0,285333,Hospital (General Medical & Surgical),302661.0,Parking,148865.0,,,Compliant,14.0,,68090728.0
+148,SPS-District K-12,Ballard,1991,1.0,2,0,55513,K-12 School,59097.0,,,,,Error - Correct Default Data,93.0,,1513570.75
+163,Nonresidential COS,DOWNTOWN,2006,1.0,4,0,61156,Other,42755.0,Office,29219.0,,,Compliant,,,9363374.0
+167,NonResidential,DOWNTOWN,1910,1.0,4,13820,59000,Museum,58000.0,,,,,Compliant,,,2010454.625
+168,NonResidential,MAGNOLIA / QUEEN ANNE,1996,1.0,4,14200,148022,Hotel,113702.0,Parking,32692.0,,,Compliant,76.0,,7946961.0
+169,SPS-District K-12,SOUTHEAST,1990,1.0,4,0,289588,K-12 School,289588.0,,,,,Error - Correct Default Data,90.0,,8819852.0
+170,NonResidential,EAST,1915,1.0,3,0,63330,College/University,64820.0,,,,,Compliant,,,3059758.0
+172,Campus,DELRIDGE,1970,27.0,2,0,441071,College/University,483000.0,,,,,Compliant,,,38301744.0
+173,NonResidential,NORTHEAST,2002,1.0,2,0,96300,Office,92300.0,Data Center,4944.0,,,Compliant,,,16319835.0
+174,Nonresidential COS,GREATER DUWAMISH,1950,1.0,1,0,67356,"Repair Services (Vehicle, Shoe, Locksmith, etc)",68359.0,,,,,Compliant,,,7475577.5
+175,SPS-District K-12,CENTRAL,2008,1.0,3,0,254523,K-12 School,254523.0,,,,,Error - Correct Default Data,60.0,,13567774.0
+176,SPS-District K-12,SOUTHEAST,2001,1.0,3,0,78804,K-12 School,78804.0,,,,,Error - Correct Default Data,92.0,,2499140.0
+177,SPS-District K-12,CENTRAL,2002,1.0,3,0,66994,K-12 School,66994.0,,,,,Error - Correct Default Data,79.0,,2371304.5
+178,SPS-District K-12,GREATER DUWAMISH,2000,1.0,3,0,98357,K-12 School,98357.0,,,,,Error - Correct Default Data,88.0,,3456131.5
+179,NonResidential,GREATER DUWAMISH,1958,1.0,1,0,54765,Office,25765.0,Other,25000.0,,,Compliant,,,4253369.5
+180,NonResidential,GREATER DUWAMISH,2009,1.0,5,0,89821,Other - Lodging/Residential,46483.0,Office,37938.0,Food Service,4579.0,Compliant,,,1950092.5
+182,NonResidential,MAGNOLIA / QUEEN ANNE,1980,1.0,2,0,52611,College/University,52611.0,,,,,Compliant,,,4116871.5
+183,NonResidential,MAGNOLIA / QUEEN ANNE,2001,1.0,4,37500,102100,Residence Hall/Dormitory,135520.0,,,,,Compliant,89.0,,4448582.5
+185,SPS-District K-12,NORTH,2011,1.0,2,0,236758,K-12 School,238550.0,Parking,0.0,,,Compliant,96.0,,8355988.5
+187,NonResidential,CENTRAL,1971,3.0,6,0,250981,Other,137565.0,Courthouse,78357.0,,,Compliant,,,13071700.0
+189,SPS-District K-12,NORTHWEST,2002,1.0,3,0,62526,K-12 School,62526.0,,,,,Error - Correct Default Data,96.0,,1986094.875
+338,NonResidential,DOWNTOWN,2004,1.0,11,68432,230638,Other,250000.0,,,,,Compliant,,,65336980.0
+190,NonResidential,GREATER DUWAMISH,2007,1.0,3,0,64015,Office,30000.0,Non-Refrigerated Warehouse,15000.0,Other - Services,9015.0,Compliant,21.0,,3242077.75
+194,NonResidential,NORTH,1951,1.0,1,0,530039,Retail Store,505103.0,Restaurant,24936.0,,,Compliant,98.0,,27717034.0
+195,NonResidential,NORTH,1964,1.0,3,0,54224,Other/Specialty Hospital,47012.0,,,,,Compliant,,,7265178.0
+197,NonResidential,NORTH,1965,1.0,4,0,124342,Retail Store,122000.0,,,,,Compliant,76.0,,8765978.0
+198,NonResidential,NORTHEAST,1953,6.0,10,0,879000,Hospital (General Medical & Surgical),879000.0,,,,,Compliant,10.0,,253832464.0
+200,NonResidential,NORTHWEST,1996,1.0,3,0,55442,Financial Office,28636.0,Parking,15385.0,Medical Office,8644.0,Compliant,72.0,,3191228.25
+205,SPS-District K-12,BALLARD,1999,1.0,2,0,242795,K-12 School,242795.0,,,,,Error - Correct Default Data,80.0,,9157150.0
+209,NonResidential,EAST,1910,1.0,5,0,84870,Self-Storage Facility,85521.0,,,,,Compliant,,,1381590.125
+211,Campus,NORTHWEST,1970,11.0,2,111625,582447,College/University,667335.0,,,,,Compliant,,,35891484.0
+212,SPS-District K-12,SOUTHEAST,1952,1.0,2,0,173185,K-12 School,173185.0,,,,,Error - Correct Default Data,79.0,,6127771.5
+214,SPS-District K-12,DELRIDGE,1963,1.0,1,0,145341,K-12 School,139069.0,,,,,Error - Correct Default Data,75.0,,5499097.0
+215,NonResidential,GREATER DUWAMISH,1904,1.0,4,0,114297,Non-Refrigerated Warehouse,114297.0,,,,,Compliant,61.0,,2100097.75
+216,SPS-District K-12,SOUTHEAST,1960,1.0,2,0,184125,K-12 School,184125.0,,,,,Error - Correct Default Data,86.0,,8800292.0
+217,SPS-District K-12,BALLARD,1959,1.0,1,0,160270,K-12 School,160270.0,,,,,Missing Data,,,0.0
+220,NonResidential,GREATER DUWAMISH,1937,1.0,1,0,234144,Non-Refrigerated Warehouse,234144.0,,,,,Compliant,87.0,,6744317.0
+223,NonResidential,DELRIDGE,1966,1.0,1,0,64984,Retail Store,65425.0,,,,,Compliant,72.0,,2944296.25
+224,NonResidential,DELRIDGE,1965,1.0,1,0,67745,Retail Store,67782.0,,,,,Compliant,37.0,,9230223.0
+225,SPS-District K-12,DELRIDGE,2010,1.0,2,0,367884,K-12 School,367884.0,,,,,Compliant,97.0,,12265516.0
+226,SPS-District K-12,DELRIDGE,1958,1.0,1,0,46797,K-12 School,46797.0,,,,,Error - Correct Default Data,86.0,,2075891.0
+227,SPS-District K-12,CENTRAL,1963,1.0,3,0,136188,K-12 School,136188.0,,,,,Missing Data,,,0.0
+228,NonResidential,BALLARD,1973,1.0,3,0,56000,Other,56000.0,,,,,Compliant,,,1851260.5
+229,SPS-District K-12,SOUTHEAST,2004,1.0,2,0,67371,K-12 School,67371.0,,,,,Error - Correct Default Data,92.0,,2128459.0
+230,NonResidential,SOUTHWEST,1969,1.0,2,0,52088,Self-Storage Facility,52088.0,,,,,Compliant,,,1377519.5
+231,SPS-District K-12,LAKE UNION,2010,1.0,3,0,127776,K-12 School,127776.0,,,,,Error - Correct Default Data,75.0,,4748137.0
+232,NonResidential,LAKE UNION,1998,1.0,5,30000,93920,Hotel,123920.0,Parking,30000.0,Swimming Pool,0.0,Compliant,79.0,,9373179.0
+233,Nonresidential COS,LAKE UNION,1900,1.0,1,0,50000,Museum,43000.0,,,,,Compliant,,,7548807.0
+234,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1926,1.0,2,0,50292,Non-Refrigerated Warehouse,42345.0,Residence Hall/Dormitory,5000.0,Office,4730.0,Compliant,,,430473.6875
+235,NonResidential,MAGNOLIA / QUEEN ANNE,1998,1.0,7,54341,153315,Hotel,141591.0,,,,,Compliant,76.0,,11171988.0
+237,SPS-District K-12,BALLARD,1999,1.0,2,0,67235,K-12 School,67235.0,,,,,Error - Correct Default Data,89.0,,2284133.75
+238,Nonresidential COS,NORTHWEST,1957,1.0,2,0,91130,Office,57968.0,Distribution Center,32881.0,Parking,11850.0,Compliant,,,9472358.0
+239,SPS-District K-12,SOUTHWEST,1991,1.0,3,0,58118,K-12 School,59014.0,,,,,Error - Correct Default Data,97.0,,1407277.25
+241,NonResidential,NORTHWEST,1968,1.0,4,0,64893,Hotel,64893.0,,,,,Compliant,70.0,,6197825.0
+242,SPS-District K-12,NORTH,1989,1.0,2,0,52792,K-12 School,55480.0,,,,,Missing Data,,,0.0
+243,SPS-District K-12,GREATER DUWAMISH,1925,1.0,1,0,70762,K-12 School,70762.0,,,,,Error - Correct Default Data,87.0,,3606416.0
+244,NonResidential,DOWNTOWN,1900,1.0,3,0,44558,Office,34416.0,Self-Storage Facility,7672.0,Restaurant,2470.0,Compliant,78.0,,1677002.25
+245,NonResidential,GREATER DUWAMISH,1999,1.0,6,327680,1258280,Other - Entertainment/Public Assembly,1585960.0,Parking,0.0,,,Compliant,,,59757440.0
+247,Nonresidential COS,GREATER DUWAMISH,1924,1.0,2,0,179161,Distribution Center,117476.0,Office,37321.0,Other,25543.0,Compliant,,,9436408.0
+248,Nonresidential COS,GREATER DUWAMISH,1965,1.0,2,0,58640,Non-Refrigerated Warehouse,40831.0,Other - Services,16735.0,Office,11533.0,Compliant,,,3928695.25
+249,NonResidential,GREATER DUWAMISH,1999,1.0,3,0,1172127,Other - Entertainment/Public Assembly,1172127.0,,,,,Compliant,,,58761304.0
+250,NonResidential,GREATER DUWAMISH,2005,1.0,9,14567,153882,Hotel,135006.0,Parking,20600.0,Food Service,9216.0,Compliant,64.0,,12726789.0
+257,NonResidential,GREATER DUWAMISH,1916,0.0,4,0,79600,Non-Refrigerated Warehouse,79600.0,,,,,Compliant,34.0,,2411402.25
+260,SPS-District K-12,LAKE UNION,1997,1.0,4,0,241066,K-12 School,241066.0,,,,,Error - Correct Default Data,79.0,,7791957.0
+261,Campus,GREATER DUWAMISH,1980,14.0,2,31874,302494,Office,240984.0,Laboratory,72963.0,Other - Utility,16766.0,Compliant,,,53466684.0
+263,NonResidential,NORTH,2008,1.0,6,335109,84739,Parking,335109.0,Movie Theater,65000.0,Medical Office,13567.0,Compliant,,,9134963.0
+264,NonResidential,MAGNOLIA / QUEEN ANNE,2002,1.0,4,0,110785,Multifamily Housing,58563.0,Supermarket/Grocery Store,48520.0,Parking,29839.0,Compliant,,,10557910.0
+267,NonResidential,DOWNTOWN,1999,1.0,0,0,934292,Hotel,495536.0,Parking,438756.0,Restaurant,49700.0,Compliant,,,65047284.0
+268,NonResidential,CENTRAL,1990,6.0,5,0,597519,Hospital (General Medical & Surgical),601615.0,Parking,48607.0,,,Compliant,34.0,,143423024.0
+273,SPS-District K-12,DELRIDGE,1999,1.0,1,0,71714,K-12 School,71714.0,,,,,Error - Correct Default Data,87.0,,2371358.0
+274,NonResidential,LAKE UNION,1991,1.0,3,8161,67236,Non-Refrigerated Warehouse,67236.0,Parking,8161.0,,,Compliant,91.0,,549181.375
+276,NonResidential,EAST,2000,9.0,8,0,1158691,Hospital (General Medical & Surgical),1350182.0,Parking,387651.0,,,Compliant,29.0,,293090784.0
+278,NonResidential,DOWNTOWN,1999,1.0,5,12611,90185,Senior Care Community,55259.0,Medical Office,40091.0,K-12 School,3231.0,Compliant,,,10105379.0
+279,SPS-District K-12,SOUTHWEST,2002,1.0,2,0,208981,K-12 School,208981.0,,,,,Error - Correct Default Data,80.0,,8164853.0
+281,NonResidential,NORTHEAST,1928,1.0,2,0,55653,K-12 School,55500.0,,,,,Compliant,98.0,,1377627.0
+282,NonResidential,NORTHEAST,1931,1.0,16,0,106860,Hotel,106860.0,,,,,Compliant,49.0,,11935719.0
+283,NonResidential,NORTH,1972,1.0,5,0,50759,Office,47079.0,Restaurant,3680.0,,,Compliant,62.0,,3147042.0
+284,NonResidential,NORTHEAST,1952,1.0,2,0,56772,Worship Facility,56772.0,,,,,Compliant,46.0,,2439484.75
+285,NonResidential,NORTHEAST,1952,1.0,3,0,103000,Worship Facility,103000.0,,,,,Compliant,42.0,,4854429.5
+286,SPS-District K-12,NORTHEAST,2006,1.0,3,0,269297,K-12 School,269297.0,,,,,Error - Correct Default Data,80.0,,10498344.0
+287,SPS-District K-12,NORTHEAST,2001,1.0,3,0,75174,K-12 School,75174.0,,,,,Error - Correct Default Data,77.0,,2733846.0
+289,SPS-District K-12,MAGNOLIA / QUEEN ANNE,2003,1.0,3,0,75214,K-12 School,75214.0,,,,,Error - Correct Default Data,88.0,,2334260.0
+290,SPS-District K-12,SOUTHWEST,2005,1.0,3,0,134918,K-12 School,134918.0,,,,,Error - Correct Default Data,91.0,,3822102.5
+291,SPS-District K-12,CENTRAL,1991,1.0,2,0,64414,K-12 School,65310.0,,,,,Error - Correct Default Data,67.0,,2295176.5
+292,SPS-District K-12,NORTHWEST,1927,1.0,3,0,92437,K-12 School,92437.0,,,,,Error - Correct Default Data,78.0,,4626443.0
+293,NonResidential,DOWNTOWN,1914,1.0,7,0,128766,Other - Entertainment/Public Assembly,109754.0,Other,12876.0,Office,6136.0,Compliant,,,6057410.0
+294,NonResidential,DOWNTOWN,1913,1.0,9,0,107572,Residence Hall/Dormitory,63934.0,Office,27143.0,Retail Store,10568.0,Compliant,76.0,,5572503.0
+295,NonResidential,DOWNTOWN,1955,1.0,15,0,230880,Other,203000.0,,,,,Compliant,,,62197176.0
+300,SPS-District K-12,GREATER DUWAMISH,2007,1.0,3,0,204961,K-12 School,204961.0,,,,,Error - Correct Default Data,94.0,,8190809.0
+302,NonResidential,MAGNOLIA / QUEEN ANNE,1973,1.0,1,0,76086,Other,77810.0,,,,,Compliant,,,3267564.0
+313,NonResidential,MAGNOLIA / QUEEN ANNE,1927,1.0,5,39000,151000,Medical Office,146741.0,Office,9805.0,,,Compliant,1.0,,28731502.0
+314,NonResidential,DOWNTOWN,1961,1.0,4,0,122309,Hotel,122309.0,,,,,Compliant,8.0,,25453690.0
+315,Campus,DOWNTOWN,1995,4.0,3,0,215476,Other,217088.0,,,,,Compliant,,,24017770.0
+316,NonResidential,DOWNTOWN,2003,1.0,8,38800,215473,Hotel,277000.0,,,,,Compliant,29.0,,26659244.0
+317,Nonresidential COS,DOWNTOWN,1980,1.0,2,0,69400,Other - Entertainment/Public Assembly,69400.0,,,,,Compliant,,,14833476.0
+318,NonResidential,DOWNTOWN,1900,1.0,1,0,62900,Restaurant,32494.0,Other,29793.0,Retail Store,3384.300049,Compliant,,,10394330.0
+319,NonResidential,DOWNTOWN,1914,1.0,4,0,56500,Office,33000.0,Retail Store,7000.0,,,Compliant,98.0,,1380293.625
+320,NonResidential,GREATER DUWAMISH,2008,1.0,4,0,203504,Non-Refrigerated Warehouse,159372.0,Other - Services,44132.0,,,Compliant,72.0,,3785282.5
+322,NonResidential,DOWNTOWN,1968,0.0,3,26731,74003,Office,100734.0,,,,,Compliant,20.0,,9788717.0
+323,NonResidential,DOWNTOWN,1981,1.0,4,18504,59158,Office,62108.0,Parking,17570.0,,,Compliant,57.0,,5007401.0
+324,NonResidential,DOWNTOWN,1978,1.0,12,21790,212210,Office,173786.0,Laboratory,29865.0,Parking,25373.0,Compliant,39.0,,18661606.0
+326,NonResidential,DOWNTOWN,1989,1.0,25,0,369996,Office,383942.0,Parking,127192.0,,,Compliant,74.0,,24755086.0
+327,NonResidential,DOWNTOWN,1925,1.0,10,0,693450,Retail Store,361107.0,Office,332343.0,,,Compliant,93.0,,40062888.0
+328,NonResidential,DOWNTOWN,1976,1.0,33,0,791396,Office,622034.0,Parking,132465.0,Other,33110.0,Compliant,89.0,,40847752.0
+329,NonResidential,DOWNTOWN,2000,1.0,23,205076,542671,Office,542461.0,Parking,219045.0,Restaurant,9337.0,Compliant,90.0,,30985420.0
+330,NonResidential,DOWNTOWN,1926,1.0,10,7757,55652,Office,45260.0,Retail Store,6187.0,,,Compliant,90.0,,3444270.0
+331,NonResidential,DOWNTOWN,1930,1.0,17,30000,174790,Office,142034.0,Other - Recreation,17070.0,Retail Store,14666.0,Compliant,91.0,,7739699.0
+332,NonResidential,DOWNTOWN,1916,1.0,5,0,73399,Office,51557.0,Retail Store,9976.0,,,Compliant,61.0,,3757006.0
+333,NonResidential,DOWNTOWN,1969,1.0,20,32334,233517,Office,226454.0,Parking,29214.0,,,Compliant,90.0,,14633233.0
+334,NonResidential,DOWNTOWN,2009,1.0,25,228668,529375,Office,582725.0,Parking,191082.0,,,Compliant,95.0,,27018020.0
+335,NonResidential,DOWNTOWN,1968,1.0,12,0,206000,Office,161000.0,Parking,51250.0,,,Compliant,91.0,,8580279.0
+336,NonResidential,DOWNTOWN,2009,1.0,36,154972,669915,Office,743562.0,Parking,161119.0,,,Compliant,97.0,,39523852.0
+337,NonResidential,DOWNTOWN,1990,1.0,16,141600,339240,Office,311736.0,Parking,123356.0,Fitness Center/Health Club/Gym,18239.0,Compliant,94.0,,17867002.0
+339,NonResidential,DOWNTOWN,1900,1.0,7,0,89550,Office,64712.0,Retail Store,10058.0,Social/Meeting Hall,7030.0,Compliant,85.0,,3903259.75
+340,NonResidential,DOWNTOWN,1900,1.0,6,0,89355,Office,82355.0,Retail Store,7000.0,,,Compliant,66.0,,4178233.5
+341,NonResidential,DOWNTOWN,1922,1.0,15,0,388934,Office,388934.0,,,,,Compliant,89.0,,18576900.0
+342,NonResidential,DOWNTOWN,1929,1.0,22,0,384302,Office,348969.0,Convenience Store without Gas Station,3291.899902,Food Service,1437.0,Compliant,98.0,,10062436.0
+343,NonResidential,DOWNTOWN,1958,1.0,17,84600,293925,Office,236827.0,Parking,83311.0,Restaurant,14679.0,Compliant,69.0,,24906132.0
+345,NonResidential,DOWNTOWN,1983,1.0,47,0,1323055,Office,1011135.0,Parking,272682.0,Restaurant,37595.0,Compliant,94.0,,44683660.0
+346,NonResidential,DOWNTOWN,1986,1.0,41,129432,460489,Office,470416.0,Parking,107667.0,Pre-school/Daycare,10290.0,Compliant,84.0,,24603420.0
+347,NonResidential,DOWNTOWN,1950,1.0,6,1392,89699,Office,89699.0,Parking,1392.0,,,Compliant,,,1835804.875
+348,NonResidential,DOWNTOWN,1968,1.0,8,62993,94948,Office,84838.0,Parking,15401.0,,,Compliant,81.0,,3743228.5
+349,NonResidential,DOWNTOWN,1991,1.0,29,197231,438072,Office,522667.0,Parking,194435.0,Convenience Store without Gas Station,6122.0,Compliant,95.0,,18221224.0
+350,NonResidential,DOWNTOWN,1958,1.0,6,25920,146922,Office,99890.0,Data Center,39336.0,Parking,25000.0,Non-Compliant,,High outlier,41399504.0
+351,NonResidential,DOWNTOWN,1980,1.0,34,162604,614158,Office,606050.0,Parking,154947.0,,,Compliant,81.0,,32552428.0
+352,NonResidential,DOWNTOWN,1972,1.0,14,23775,162993,Office,182540.0,Parking,33671.0,Data Center,240.0,Compliant,95.0,,9641043.0
+353,NonResidential,DOWNTOWN,1969,1.0,49,368980,754455,Office,808980.0,Parking,232248.0,Other,30329.0,Compliant,89.0,,45163308.0
+354,NonResidential,DOWNTOWN,2002,1.0,37,164420,888049,Office,765351.0,Parking,185581.0,Financial Office,103478.0,Compliant,93.0,,41213584.0
+355,NonResidential,DOWNTOWN,1973,1.0,42,171500,446184,Office,581558.0,Parking,189600.0,Retail Store,18026.0,Compliant,28.0,,69519808.0
+356,NonResidential,DOWNTOWN,1907,1.0,8,0,201480,Office,161762.0,Retail Store,29094.0,Non-Refrigerated Warehouse,10624.0,Compliant,91.0,,8921778.0
+357,Nonresidential COS,DOWNTOWN,1990,1.0,63,159600,1195387,Office,1191115.0,Parking,159599.0,Other,18656.0,Compliant,89.0,,61576184.0
+358,Nonresidential COS,DOWNTOWN,2001,1.0,14,0,310490,Office,269284.0,Other,28394.0,Data Center,600.0,Compliant,,,21169502.0
+359,Nonresidential COS,DOWNTOWN,2003,1.0,8,30660,168870,Office,160418.0,Parking,18590.0,Other,17480.0,Compliant,69.0,,13214416.0
+360,NonResidential,DOWNTOWN,2006,1.0,13,52703,319539,Office,319539.0,Parking,52703.0,,,Compliant,98.0,,13843866.0
+361,NonResidential,DOWNTOWN,1909,1.0,7,8296,106099,Office,96582.0,,,,,Compliant,99.0,,2746560.75
+363,NonResidential,NORTHEAST,1978,1.0,2,0,89200,Retail Store,89200.0,,,,,Compliant,83.0,,6461937.0
+364,NonResidential,NORTHEAST,1971,1.0,23,0,474546,Office,474546.0,,,,,Compliant,77.0,,28450436.0
+365,NonResidential,NORTHEAST,1969,1.0,5,0,36000,Data Center,36000.0,,,,,Compliant,96.0,,30038490.0
+366,NonResidential,NORTHEAST,1961,0.0,5,0,99005,Office,79555.0,,,,,Compliant,70.0,,4728488.5
+367,NonResidential,NORTHEAST,2002,1.0,6,44248,90803,Office,95943.0,Parking,42500.0,,,Compliant,88.0,,4426136.0
+368,NonResidential,NORTHEAST,2002,1.0,5,82720,137929,Office,145754.0,Parking,90000.0,,,Compliant,93.0,,7046345.5
+369,NonResidential,DOWNTOWN,1964,1.0,5,0,93660,Self-Storage Facility,93660.0,,,,,Compliant,,,873221.875
+370,NonResidential,DOWNTOWN,1980,1.0,18,64660,349055,Office,348270.0,Parking,69634.0,,,Compliant,79.0,,24224888.0
+371,NonResidential,DOWNTOWN,2000,1.0,11,195621,185760,Parking,182820.0,Office,164192.0,Fitness Center/Health Club/Gym,37782.0,Compliant,94.0,,9765777.0
+372,NonResidential,DOWNTOWN,1988,1.0,20,118744,378769,Office,367623.0,Parking,114510.0,,,Compliant,65.0,,26823218.0
+373,NonResidential,DOWNTOWN,1979,1.0,24,116721,427155,Office,424044.0,Parking,107300.0,,,Compliant,79.0,,25307744.0
+374,NonResidential,DOWNTOWN,1980,1.0,4,38700,70647,Laboratory,42389.0,Parking,38700.0,Office,28258.0,Compliant,,,8218155.5
+375,NonResidential,DOWNTOWN,1982,1.0,6,124216,272410,Office,274002.0,Parking,122624.0,,,Compliant,64.0,,20361158.0
+376,NonResidential,DOWNTOWN,2002,1.0,6,83591,203880,Office,191814.0,Parking,72178.0,Other - Restaurant/Bar,5322.0,Compliant,74.0,,14913424.0
+377,NonResidential,DOWNTOWN,1947,1.0,3,48512,144118,Office,146157.0,Parking,48199.0,,,Compliant,94.0,,5357833.0
+379,NonResidential,DOWNTOWN,1984,1.0,8,61986,191117,Office,158681.0,Parking,70190.0,Other,21782.0,Compliant,3.0,,29949248.0
+381,NonResidential,NORTHWEST,1956,1.0,1,0,60880,Supermarket/Grocery Store,61666.0,,,,,Compliant,54.0,,14293972.0
+382,NonResidential,DOWNTOWN,1900,1.0,5,0,50176,Office,50328.0,Other,8329.0,Restaurant,4253.0,Compliant,77.0,,2933288.75
+383,NonResidential,DOWNTOWN,1912,1.0,42,0,304346,Office,245028.0,Retail Store,8429.0,Other - Restaurant/Bar,7518.0,Compliant,72.0,,23262244.0
+384,NonResidential,GREATER DUWAMISH,1977,1.0,1,0,128800,Non-Refrigerated Warehouse,119200.0,Other,9600.0,,,Compliant,97.0,,1809101.5
+385,NonResidential,DOWNTOWN,1927,1.0,8,0,321945,Office,166919.0,Performing Arts,39355.0,Retail Store,19787.0,Compliant,76.0,,13656587.0
+386,NonResidential,DOWNTOWN,1964,1.0,22,0,336330,Office,256299.0,Parking,66430.0,Other - Restaurant/Bar,7438.0,Compliant,77.0,,18967014.0
+387,NonResidential,DOWNTOWN,1960,1.0,21,0,298426,Office,286538.0,Parking,197750.0,Other - Education,11888.0,Compliant,79.0,,27076922.0
+388,NonResidential,DOWNTOWN,1976,1.0,42,0,635824,Office,718473.0,Parking,40000.0,Restaurant,19671.0,Compliant,69.0,,48479988.0
+389,NonResidential,DOWNTOWN,1923,1.0,12,0,542305,Hotel,542305.0,Swimming Pool,0.0,,,Compliant,45.0,,56485204.0
+390,NonResidential,SOUTHEAST,1980,1.0,2,0,291940,Retail Store,191940.0,Office,100000.0,,,Compliant,80.0,,11688601.0
+391,NonResidential,GREATER DUWAMISH,1970,0.0,1,0,88400,Non-Refrigerated Warehouse,33450.0,Office,29620.0,Distribution Center,27715.0,Compliant,42.0,,4383100.5
+392,NonResidential,NORTHWEST,1960,1.0,1,0,52311,Non-Refrigerated Warehouse,51116.0,,,,,Compliant,96.0,,930611.875
+393,NonResidential,LAKE UNION,2009,1.0,5,69710,71421,Parking,74831.0,Office,71643.0,,,Compliant,,,3085814.0
+394,NonResidential,LAKE UNION,2001,1.0,5,70067,106465,Office,103494.0,Parking,70067.0,,,Compliant,60.0,,5803409.0
+395,NonResidential,BALLARD,1973,1.0,1,0,52500,Non-Refrigerated Warehouse,49395.0,Office,5853.0,,,Compliant,2.0,,3989399.0
+396,NonResidential,BALLARD,1959,1.0,2,0,57300,Non-Refrigerated Warehouse,29001.0,Office,28299.0,,,Compliant,55.0,,4560492.0
+398,NonResidential,DOWNTOWN,1916,1.0,6,0,350310,Office,305233.0,College/University,26900.0,Restaurant,7666.0,Compliant,90.0,,18102026.0
+399,NonResidential,DOWNTOWN,1988,1.0,55,285000,1115000,Office,994116.0,Parking,264481.0,Other,133598.0,Compliant,92.0,,53079164.0
+401,NonResidential,DOWNTOWN,1930,1.0,21,0,305548,Hotel,310000.0,,,,,Compliant,58.0,,33729336.0
+402,NonResidential,DOWNTOWN,1989,1.0,46,512608,1023998,Office,1002403.0,Parking,377046.0,Other,53116.0,Compliant,89.0,,56606136.0
+403,NonResidential,DOWNTOWN,1958,1.0,10,0,135918,Office,144570.0,,,,,Compliant,91.0,,6423556.5
+404,NonResidential,DOWNTOWN,1914,1.0,4,0,79957,Retail Store,35694.0,Office,29723.0,,,Compliant,25.0,,5252131.0
+405,NonResidential,DOWNTOWN,1921,1.0,4,0,127268,Office,62512.0,Retail Store,53971.0,Non-Refrigerated Warehouse,5000.0,Error - Correct Default Data,71.0,,7711757.5
+406,NonResidential,DOWNTOWN,1983,1.0,29,0,500000,Office,411301.0,Parking,80005.0,Retail Store,14528.0,Compliant,93.0,,18848780.0
+408,NonResidential,DOWNTOWN,1926,0.0,10,0,132326,Office,92006.0,Other,12610.0,Retail Store,9835.0,Compliant,72.0,,6029020.0
+409,NonResidential,DOWNTOWN,1984,1.0,6,13200,96630,Office,83485.0,Parking,13200.0,Retail Store,5000.0,Compliant,45.0,,7335905.5
+410,NonResidential,DOWNTOWN,1973,0.0,19,59280,272787,Hotel,332067.0,,,,,Compliant,6.0,,37785552.0
+411,NonResidential,DOWNTOWN,1910,1.0,10,0,130513,Office,87391.0,Retail Store,32264.0,Restaurant,10858.0,Compliant,49.0,,11651200.0
+412,NonResidential,DOWNTOWN,1920,1.0,8,0,60660,Office,41958.0,Retail Store,4800.0,,,Compliant,,,2586116.0
+413,NonResidential,DOWNTOWN,1929,1.0,14,0,137350,Office,124508.0,,,,,Compliant,89.0,,6366084.5
+414,NonResidential,DOWNTOWN,1929,1.0,15,0,151039,Office,125473.0,,,,,Compliant,84.0,,5446624.0
+415,NonResidential,DOWNTOWN,1985,1.0,30,134662,620338,Office,643083.0,Parking,126891.0,Restaurant,13422.0,Compliant,72.0,,52226204.0
+416,NonResidential,DOWNTOWN,1906,1.0,4,0,63540,Office,56747.0,,,,,Compliant,72.0,,3518459.5
+417,NonResidential,DOWNTOWN,1927,1.0,10,0,130893,Office,87925.0,Supermarket/Grocery Store,27177.0,Medical Office,6644.0,Compliant,80.0,,6962073.0
+418,NonResidential,DOWNTOWN,1910,1.0,5,0,79920,Office,39960.0,Retail Store,26640.0,Other,13320.0,Compliant,,,3009463.75
+419,Campus,DOWNTOWN,1908,1.0,4,0,137400,Retail Store,44078.0,Other - Restaurant/Bar,19182.0,Multifamily Housing,14380.0,Compliant,,,14940504.0
+420,NonResidential,DOWNTOWN,1996,1.0,6,86429,61423,Parking,64821.0,Retail Store,40629.0,Other - Restaurant/Bar,13039.0,Compliant,,,9671619.0
+421,NonResidential,DOWNTOWN,1996,0.0,4,166960,100375,Parking,166960.0,Movie Theater,69947.0,Other - Restaurant/Bar,27400.0,Compliant,,,7273155.5
+422,NonResidential,DOWNTOWN,1989,1.0,56,389860,1215718,Office,1314475.0,Parking,389860.0,Other,30744.0,Compliant,97.0,,49517704.0
+423,NonResidential,DOWNTOWN,1980,1.0,36,0,794592,Office,748011.0,Parking,36606.0,Other,9975.0,Compliant,96.0,,26689658.0
+424,NonResidential,DOWNTOWN,1971,1.0,21,93204,363100,Office,342952.0,Parking,106466.0,,,Compliant,74.0,,19397324.0
+425,NonResidential,DOWNTOWN,1986,1.0,12,15140,100717,Office,104788.0,Parking,11844.0,Restaurant,528.0,Compliant,89.0,,4757299.5
+426,NonResidential,DOWNTOWN,1999,1.0,4,17500,70000,Office,70090.0,Other,1672.0,,,Compliant,72.0,,4549892.0
+427,NonResidential,DOWNTOWN,1998,1.0,11,184776,189629,Office,150969.0,Laboratory,41829.0,,,Compliant,72.0,,13329024.0
+428,NonResidential,DOWNTOWN,1985,1.0,12,38000,155500,Other,146689.0,,,,,Compliant,,,14436982.0
+429,NonResidential,DOWNTOWN,1923,1.0,11,0,102846,Office,93879.0,Retail Store,7500.0,,,Compliant,96.0,,5327249.5
+430,NonResidential,DOWNTOWN,1925,1.0,4,0,52800,Office,38880.0,Restaurant,12960.0,,,Compliant,83.0,,2429021.0
+432,Campus,DOWNTOWN,1913,3.0,10,0,258497,Parking,155000.0,Office,145594.0,Retail Store,103200.0,Compliant,,,20779796.0
+433,NonResidential,DOWNTOWN,1929,1.0,8,0,861702,Retail Store,509342.0,Other,380639.0,,,Compliant,,,17666646.0
+434,NonResidential,EAST,1999,1.0,5,97400,109550,Other,206950.0,,,,,Compliant,,,19295226.0
+435,NonResidential,DOWNTOWN,1990,1.0,6,0,1400000,Convention Center,1072000.0,Parking,686750.0,,,Non-Compliant,,,0.0
+436,NonResidential,EAST,1988,1.0,9,0,46710,Urgent Care/Clinic/Other Outpatient,46710.0,,,,,Compliant,,,4169431.5
+437,NonResidential,EAST,1945,1.0,3,104000,162000,Medical Office,162000.0,Parking,104000.0,,,Compliant,65.0,,13911761.0
+438,NonResidential,EAST,1992,1.0,14,407795,282363,Medical Office,270384.0,Parking,270383.0,,,Compliant,58.0,,21156670.0
+439,NonResidential,LAKE UNION,2001,1.0,6,177660,200783,Parking,164332.0,Office,108781.0,Data Center,54184.0,Compliant,100.0,,55073120.0
+440,NonResidential,LAKE UNION,2001,1.0,6,104922,108912,Parking,104922.0,Data Center,54385.0,Office,37721.0,Compliant,100.0,,75073888.0
+441,NonResidential,LAKE UNION,1979,1.0,5,29409,79608,Hotel,109017.0,,,,,Compliant,34.0,,9474745.0
+443,NonResidential,MAGNOLIA / QUEEN ANNE,1981,1.0,5,38452,237282,Office,228504.0,Parking,47404.0,,,Compliant,77.0,,16373232.0
+444,NonResidential,GREATER DUWAMISH,2001,1.0,1,0,123061,Non-Refrigerated Warehouse,123061.0,,,,,Compliant,59.0,,1987934.625
+446,NonResidential,GREATER DUWAMISH,1963,1.0,1,0,59090,Distribution Center,40272.0,Office,18818.0,,,Compliant,45.0,,2756214.75
+447,NonResidential,GREATER DUWAMISH,1963,1.0,1,0,106000,Non-Refrigerated Warehouse,106001.0,,,,,Compliant,93.0,,763364.5
+449,NonResidential,LAKE UNION,1962,1.0,3,38400,120200,Office,125779.0,Parking,32821.0,Laboratory,20000.0,Compliant,19.0,,18309150.0
+451,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,119661,Distribution Center,118733.0,,,,,Compliant,97.0,,775729.1875
+452,NonResidential,LAKE UNION,2001,1.0,7,44728,94472,Office,82098.0,,,,,Compliant,81.0,,4342597.0
+453,NonResidential,MAGNOLIA / QUEEN ANNE,1984,1.0,6,33921,61800,Office,95721.0,Parking,31746.0,,,Compliant,95.0,,3063504.5
+456,NonResidential,MAGNOLIA / QUEEN ANNE,1996,2.0,5,115228,98055,Office,105563.0,Parking,0.0,,,Compliant,83.0,,5661689.5
+457,NonResidential,LAKE UNION,2001,1.0,3,47656,56041,Office,63199.0,,,,,Compliant,7.0,,11319836.0
+458,NonResidential,NORTH,1974,1.0,5,0,74880,Office,71751.0,Parking,0.0,,,Compliant,56.0,,5134607.5
+459,NonResidential,NORTH,1979,1.0,6,0,88774,Office,85339.0,Parking,0.0,,,Compliant,53.0,,6029121.5
+460,NonResidential,NORTH,1983,1.0,5,0,122250,Office,91281.0,Adult Education,30177.0,Bank Branch,5931.0,Compliant,93.0,,5535626.0
+461,NonResidential,NORTH,1979,1.0,4,0,53730,Office,53730.0,Parking,0.0,,,Compliant,20.0,,4742869.0
+462,NonResidential,DELRIDGE,1960,1.0,3,0,55593,Office,55593.0,,,,,Compliant,55.0,,4224872.5
+463,NonResidential,LAKE UNION,1982,1.0,4,60960,73096,Office,72066.0,Parking,59137.0,,,Compliant,54.0,,4695139.0
+464,NonResidential,GREATER DUWAMISH,2005,1.0,1,0,158415,Retail Store,158415.0,,,,,Compliant,25.0,,22394416.0
+465,NonResidential,LAKE UNION,1929,1.0,8,0,287819,Office,155985.0,Data Center,88350.0,Other,15630.0,Compliant,,,48406556.0
+466,NonResidential,EAST,1975,1.0,8,0,158738,Urgent Care/Clinic/Other Outpatient,158738.0,,,,,Compliant,,,61762380.0
+492,NonResidential,MAGNOLIA / QUEEN ANNE,1985,1.0,4,28800,58195,Office,58195.0,Parking,28800.0,,,Compliant,81.0,,2991674.75
+467,NonResidential,BALLARD,1999,1.0,1,0,164437,Retail Store,102653.0,Supermarket/Grocery Store,74102.0,Parking,0.0,Compliant,62.0,,18390344.0
+468,NonResidential,LAKE UNION,2009,1.0,5,66234,118248,Office,118016.0,Parking,66234.0,Other,1595.0,Compliant,95.0,,5671256.0
+469,NonResidential,LAKE UNION,1928,1.0,3,0,55200,Laboratory,54880.0,Data Center,320.0,,,Compliant,,,11594121.0
+470,NonResidential,LAKE UNION,2003,1.0,4,111793,129366,Laboratory,176171.0,,,,,Compliant,,,33713876.0
+471,NonResidential,LAKE UNION,2004,1.0,6,52582,86700,Office,79384.0,Parking,52582.0,Financial Office,3027.0,Compliant,96.0,,3238216.0
+473,NonResidential,LAKE UNION,2009,1.0,5,98700,172371,Office,168132.0,Parking,96918.0,Medical Office,16862.0,Compliant,96.0,,7851334.5
+474,NonResidential,LAKE UNION,1914,1.0,5,0,127800,Non-Refrigerated Warehouse,127800.0,,,,,Compliant,56.0,,2767491.0
+475,NonResidential,LAKE UNION,2002,1.0,5,206597,353919,Office,372503.0,Parking,189133.0,,,Compliant,71.0,,30083496.0
+476,NonResidential,LAKE UNION,2001,1.0,6,95000,131592,Office,131592.0,Parking,83178.0,,,Compliant,49.0,,11963428.0
+477,Campus,LAKE UNION,1997,1.0,5,0,535947,Other,535947.0,Parking,103983.0,,,Compliant,,,131373880.0
+480,NonResidential,LAKE UNION,2003,1.0,5,50654,109046,Other,72407.0,Parking,49314.0,Office,37406.0,Compliant,,,31371618.0
+481,NonResidential,LAKE UNION,2006,1.0,4,73673,136143,Office,113803.0,Parking,79091.0,Fitness Center/Health Club/Gym,15803.0,Compliant,97.0,,6917478.5
+482,NonResidential,LAKE UNION,2006,1.0,6,109905,193198,Office,178628.0,Parking,99368.0,Bank Branch,6015.0,Compliant,97.0,,7519466.5
+484,NonResidential,LAKE UNION,1954,1.0,3,0,67380,Non-Refrigerated Warehouse,29732.0,Office,17372.0,Other - Entertainment/Public Assembly,13639.0,Compliant,66.0,,2755829.0
+487,NonResidential,LAKE UNION,1963,1.0,4,0,102235,Laboratory,103135.0,,,,,Compliant,,,24395228.0
+488,NonResidential,LAKE UNION,2008,1.0,5,153684,282813,Laboratory,175364.0,Parking,173235.0,Office,88901.0,Compliant,,,45252356.0
+489,NonResidential,MAGNOLIA / QUEEN ANNE,1974,1.0,5,20826,67236,Office,64752.0,Parking,21396.0,,,Compliant,80.0,,3415561.25
+490,NonResidential,MAGNOLIA / QUEEN ANNE,1972,1.0,5,20416,66762,Office,66648.0,Parking,15167.0,,,Compliant,69.0,,3632613.75
+491,NonResidential,MAGNOLIA / QUEEN ANNE,1970,1.0,5,20416,66762,Office,66747.0,Parking,28285.0,,,Compliant,86.0,,3493093.75
+493,NonResidential,MAGNOLIA / QUEEN ANNE,1971,1.0,5,21600,66400,Office,69691.0,Parking,17487.0,,,Compliant,75.0,,3484915.5
+494,NonResidential,NORTHEAST,1988,1.0,4,88405,108344,Medical Office,108344.0,Parking,88405.0,,,Compliant,5.0,,19165116.0
+495,NonResidential,NORTHEAST,1994,1.0,4,95281,95995,Medical Office,95995.0,,,,,Compliant,21.0,,8422861.0
+496,NonResidential,BALLARD,1946,2.0,2,0,111445,Fitness Center/Health Club/Gym,111445.0,,,,,Compliant,,,5697472.5
+497,NonResidential,SOUTHWEST,1997,1.0,4,0,98475,Non-Refrigerated Warehouse,98475.0,,,,,Compliant,83.0,,1090496.625
+498,NonResidential,LAKE UNION,2000,1.0,7,150455,201075,Hospital (General Medical & Surgical),215602.0,,,,,Compliant,23.0,,42709624.0
+500,NonResidential,NORTH,1995,1.0,2,187878,121087,Supermarket/Grocery Store,121087.0,Parking,0.0,Parking,0.0,Compliant,78.0,,14512786.0
+503,NonResidential,GREATER DUWAMISH,2008,1.0,1,0,63225,Supermarket/Grocery Store,63225.0,,,,,Compliant,100.0,,6522551.5
+504,Nonresidential COS,DELRIDGE,1955,0.0,1,0,113780,Other - Services,91532.0,Office,22248.0,,,Compliant,,,3574542.25
+507,NonResidential,GREATER DUWAMISH,1999,1.0,1,0,243044,Non-Refrigerated Warehouse,325424.0,,,,,Compliant,100.0,,1396082.25
+508,NonResidential,LAKE UNION,2001,1.0,3,156312,123940,Parking,156312.0,Office,116440.0,Retail Store,7500.0,Compliant,,,11521702.0
+513,NonResidential,MAGNOLIA / QUEEN ANNE,1952,1.0,3,12998,53464,Other,72000.0,Parking,15000.0,,,Compliant,,,6876439.5
+514,NonResidential,NORTHWEST,1997,1.0,1,0,131387,Retail Store,107931.0,,,,,Compliant,72.0,,8773058.0
+515,NonResidential,NORTHWEST,1999,1.0,3,0,94400,Non-Refrigerated Warehouse,67155.0,,,,,Compliant,38.0,,784364.5
+516,NonResidential,NORTHWEST,1964,6.0,1,0,111900,Strip Mall,124231.0,Parking,0.0,,,Compliant,,,9814820.0
+517,NonResidential,NORTHWEST,1984,0.0,1,0,144776,Wholesale Club/Supercenter,144776.0,,,,,Compliant,56.0,,13424079.0
+518,NonResidential,NORTHWEST,1967,1.0,1,0,114000,Retail Store,57805.0,Supermarket/Grocery Store,56312.0,,,Compliant,79.0,,17225444.0
+519,NonResidential,NORTHWEST,1997,1.0,1,0,50083,Supermarket/Grocery Store,50065.0,Parking,0.0,,,Compliant,78.0,,8663691.0
+520,NonResidential,LAKE UNION,1988,1.0,3,28645,95426,Office,96504.0,,,,,Compliant,73.0,,4991360.5
+521,NonResidential,LAKE UNION,2000,1.0,4,36528,53472,Office,90000.0,,,,,Compliant,84.0,,3897738.0
+522,NonResidential,LAKE UNION,2001,1.0,3,33709,62332,Office,62232.0,Parking,33709.0,,,Compliant,70.0,,5413418.0
+523,NonResidential,LAKE UNION,1999,1.0,3,114829,166128,Office,152579.0,Parking,93893.0,Data Center,7500.0,Compliant,96.0,,11325513.0
+524,NonResidential,LAKE UNION,1999,1.0,4,103032,140302,Office,138995.0,Parking,24549.0,,,Compliant,89.0,,8651835.0
+525,NonResidential,DOWNTOWN,1991,1.0,6,0,154660,Other - Entertainment/Public Assembly,119815.0,Other - Recreation,63101.0,Social/Meeting Hall,26380.0,Compliant,,,52960796.0
+526,NonResidential,GREATER DUWAMISH,1982,1.0,5,121375,268920,Office,243018.0,Parking,108408.0,,,Compliant,95.0,,7683885.0
+527,NonResidential,GREATER DUWAMISH,1967,1.0,2,0,90000,Non-Refrigerated Warehouse,70000.0,Office,20000.0,,,Compliant,87.0,,1429146.375
+528,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,50200,Retail Store,50200.0,,,,,Compliant,,,1047461.0
+529,NonResidential,BALLARD,1925,1.0,6,6200,87833,Office,53993.0,Retail Store,24744.0,Parking,4500.0,Compliant,,,4758198.0
+530,NonResidential,BALLARD,1941,1.0,2,0,63240,Non-Refrigerated Warehouse,63240.0,,,,,Compliant,100.0,,227566.7031
+532,NonResidential,BALLARD,2008,1.0,5,182454,140415,Parking,182454.0,Retail Store,130744.0,,,Compliant,,,17085344.0
+533,NonResidential,MAGNOLIA / QUEEN ANNE,1988,1.0,4,23400,106893,Self-Storage Facility,130293.0,Parking,8800.0,,,Compliant,,,465533.3125
+534,NonResidential,MAGNOLIA / QUEEN ANNE,1997,1.0,4,0,106041,Non-Refrigerated Warehouse,106041.0,,,,,Compliant,94.0,,1123943.0
+536,NonResidential,MAGNOLIA / QUEEN ANNE,1956,1.0,3,0,94470,Self-Storage Facility,94470.0,,,,,Compliant,,,1000796.875
+538,NonResidential,DOWNTOWN,2002,1.0,10,38186,143508,Office,150840.0,Parking,26946.0,Other,2155.0,Compliant,88.0,,7637986.0
+539,NonResidential,NORTHEAST,1987,1.0,2,0,69492,Retail Store,69800.0,Other,0.0,,,Non-Compliant,100.0,Low outlier,318962.8125
+540,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,22780,Non-Refrigerated Warehouse,22780.0,,,,,Compliant,33.0,,402051.3125
+543,NonResidential,GREATER DUWAMISH,1967,1.0,1,0,124472,Distribution Center,124423.0,Parking,0.0,,,Compliant,62.0,,5464762.0
+774,NonResidential,DOWNTOWN,1970,1.0,22,98556,129000,Office,227556.0,Parking,77887.79688,,,Compliant,95.0,,8493420.0
+544,NonResidential,GREATER DUWAMISH,1967,1.0,1,0,50065,Distribution Center,49918.0,Parking,0.0,,,Compliant,72.0,,1529510.25
+545,NonResidential,GREATER DUWAMISH,1969,1.0,1,0,57540,Distribution Center,57540.0,,,,,Compliant,26.0,,2582687.0
+546,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,85400,Non-Refrigerated Warehouse,85400.0,,,,,Compliant,49.0,,1536998.25
+547,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,55700,Non-Refrigerated Warehouse,55700.0,,,,,Compliant,63.0,,519806.0938
+548,NonResidential,GREATER DUWAMISH,1964,1.0,1,0,53250,Office,52759.0,Parking,0.0,,,Compliant,96.0,,1794187.25
+549,NonResidential,MAGNOLIA / QUEEN ANNE,1987,1.0,6,28427,50245,Office,78672.0,,,,,Compliant,98.0,,2179719.75
+550,NonResidential,NORTHWEST,1986,1.0,3,0,64660,Non-Refrigerated Warehouse,64660.0,,,,,Compliant,89.0,,325513.0
+551,NonResidential,EAST,1927,1.0,2,19928,55916,Other,28442.0,Office,28441.0,Parking,18961.0,Compliant,,,3684188.5
+552,NonResidential,GREATER DUWAMISH,1968,1.0,1,0,161678,Distribution Center,162425.0,,,,,Compliant,25.0,,9357230.0
+553,NonResidential,GREATER DUWAMISH,1949,1.0,1,0,101101,Distribution Center,101101.0,,,,,Compliant,1.0,,21795830.0
+554,NonResidential,GREATER DUWAMISH,1980,1.0,1,0,52613,Distribution Center,59504.0,,,,,Compliant,80.0,,1061458.25
+555,NonResidential,GREATER DUWAMISH,1940,1.0,1,0,56608,Other,45340.0,Office,11520.0,,,Compliant,,,5094197.0
+556,NonResidential,GREATER DUWAMISH,1953,1.0,1,0,104099,Refrigerated Warehouse,100000.0,Office,4099.0,Parking,0.0,Compliant,,,17695420.0
+557,NonResidential,NORTHWEST,2003,1.0,1,7450,50734,Supermarket/Grocery Store,51722.0,Parking,0.0,,,Compliant,41.0,,14715262.0
+558,NonResidential,NORTH,1980,1.0,1,0,58480,Supermarket/Grocery Store,44431.0,,,,,Compliant,37.0,,11054535.0
+561,NonResidential,LAKE UNION,2005,1.0,6,124800,211900,Office,217977.0,Parking,4569.0,Retail Store,0.0,Compliant,95.0,,9058916.0
+562,NonResidential,LAKE UNION,1996,1.0,4,159994,104014,Retail Store,98863.0,,,,,Compliant,42.0,,9937707.0
+563,NonResidential,CENTRAL,1914,1.0,2,0,62220,Office,60676.0,Parking,13780.0,Other - Services,1324.0,Compliant,32.0,,5444253.5
+564,NonResidential,GREATER DUWAMISH,1970,1.0,1,0,65430,Office,60732.0,Other,8142.0,,,Compliant,89.0,,3181045.5
+565,NonResidential,NORTHEAST,2006,1.0,3,42440,59850,Office,83715.0,Parking,18575.0,,,Compliant,26.0,,6062770.5
+566,NonResidential,CENTRAL,1926,1.0,3,0,80004,Other,74864.0,,,,,Compliant,,,12232124.0
+568,NonResidential,GREATER DUWAMISH,1991,1.0,2,0,323916,Non-Refrigerated Warehouse,263528.0,Office,60388.0,,,Compliant,92.0,,8024064.5
+569,NonResidential,GREATER DUWAMISH,1932,1.0,14,0,304052,Office,218918.0,Parking,156487.0,Medical Office,84051.89844,Compliant,66.0,,21027396.0
+570,NonResidential,LAKE UNION,1978,1.0,4,31210,54175,Office,50235.0,Parking,25525.0,Data Center,2875.0,Compliant,,,4855036.5
+571,NonResidential,GREATER DUWAMISH,1989,1.0,2,0,98024,Distribution Center,63896.0,Office,33712.0,,,Compliant,94.0,,1988334.5
+572,NonResidential,LAKE UNION,1928,1.0,1,15000,50000,Office,20000.0,Parking,15000.0,Other,10000.0,Compliant,,,2603931.25
+573,NonResidential,LAKE UNION,1990,1.0,5,66620,77953,Office,78521.0,Parking,66650.0,,,Compliant,62.0,,5135040.0
+574,NonResidential,NORTH,1950,1.0,2,0,302812,Retail Store,302812.0,,,,,Compliant,97.0,,7290824.5
+575,NonResidential,NORTHWEST,1974,1.0,5,0,86400,Office,78200.0,,,,,Compliant,53.0,,9080022.0
+576,NonResidential,North,1969,0.0,2,0,98539,Strip Mall,98539.0,,,,,Compliant,,,5450441.5
+577,NonResidential,NORTHWEST,1981,1.0,6,0,86483,Office,86483.0,Parking,0.0,,,Compliant,56.0,,6361236.5
+578,NonResidential,DELRIDGE,1976,1.0,1,0,51600,Distribution Center,34400.0,Office,17200.0,,,Compliant,75.0,,1124543.125
+579,NonResidential,DELRIDGE,1968,1.0,1,0,140520,Non-Refrigerated Warehouse,140520.0,,,,,Compliant,61.0,,2225512.0
+580,NonResidential,MAGNOLIA / QUEEN ANNE,1986,1.0,5,62380,91649,Office,91645.0,Parking,66288.0,,,Compliant,95.0,,4636396.5
+581,NonResidential,NORTHWEST,2005,1.0,3,91935,69854,Parking,91935.0,Medical Office,69854.0,,,Compliant,,,6963616.5
+582,NonResidential,NORTHWEST,2005,1.0,3,0,63909,Medical Office,60670.0,Retail Store,3239.0,,,Compliant,,,4765753.5
+583,NonResidential,NORTHWEST,1948,1.0,2,0,53472,Non-Refrigerated Warehouse,46846.0,Office,10033.0,,,Compliant,,,971155.625
+584,NonResidential,GREATER DUWAMISH,1980,1.0,1,0,50417,Non-Refrigerated Warehouse,50417.0,,,,,Compliant,14.0,,1847401.0
+23854,NonResidential,DOWNTOWN,1900,1.0,1,0,43728,Restaurant,43728.0,,,,,Compliant,,,11508035.0
+585,NonResidential,NORTHWEST,1961,1.0,3,0,133298,Medical Office,133298.0,,,,,Compliant,21.0,,15640994.0
+586,NonResidential,NORTH,1965,1.0,2,0,168619,Retail Store,173106.0,,,,,Compliant,78.0,,6455828.5
+588,NonResidential,LAKE UNION,2002,0.0,5,113318,138509,Parking,113318.0,Laboratory,84000.0,Office,84000.0,Compliant,,,47102428.0
+589,NonResidential,LAKE UNION,2000,1.0,4,71385,104500,Office,103970.0,Parking,71390.0,,,Compliant,91.0,,6486377.5
+590,NonResidential,GREATER DUWAMISH,1969,1.0,2,0,104786,Non-Refrigerated Warehouse,104786.0,,,,,Compliant,93.0,,1028376.875
+592,NonResidential,GREATER DUWAMISH,2000,1.0,1,41600,11440,Other,51427.0,,,,,Compliant,,,1770027.5
+594,NonResidential,GREATER DUWAMISH,1973,0.0,1,0,110689,Other,110689.0,,,,,Compliant,,,2339814.25
+595,NonResidential,GREATER DUWAMISH,1948,1.0,1,0,53620,Office,53620.0,,,,,Compliant,86.0,,2058955.25
+596,NonResidential,GREATER DUWAMISH,1938,1.0,1,0,50008,Office,50008.0,,,,,Compliant,62.0,,3202213.0
+597,NonResidential,MAGNOLIA / QUEEN ANNE,2009,1.0,4,100176,191000,Office,194674.0,Parking,111198.0,,,Compliant,98.0,,6657348.5
+598,NonResidential,GREATER DUWAMISH,1957,1.0,1,0,50832,Non-Refrigerated Warehouse,43920.0,Office,6912.0,,,Compliant,63.0,,2551022.25
+599,NonResidential,GREATER DUWAMISH,1971,1.0,1,0,76354,Refrigerated Warehouse,76486.0,,,,,Compliant,70.0,,2843033.5
+600,NonResidential,GREATER DUWAMISH,1956,1.0,1,0,98480,Non-Refrigerated Warehouse,98480.0,,,,,Compliant,65.0,,2831565.5
+601,NonResidential,LAKE UNION,1904,1.0,2,0,53002,Retail Store,31602.0,Parking,27427.0,Multifamily Housing,18130.0,Compliant,75.0,,3441643.25
+602,NonResidential,LAKE UNION,2008,1.0,3,51218,124700,Office,66737.0,Parking,58218.0,Laboratory,30230.0,Compliant,,,22530168.0
+603,NonResidential,LAKE UNION,1920,1.0,3,63782,106003,Other,106003.0,Parking,63782.0,,,Compliant,,,19155416.0
+604,NonResidential,LAKE UNION,1971,1.0,11,0,124721,Office,107594.0,Restaurant,15600.0,Parking,12000.0,Compliant,58.0,,13898181.0
+605,NonResidential,LAKE UNION,1970,1.0,7,0,94002,Office,93905.0,Parking,31348.0,,,Compliant,70.0,,5662234.0
+606,NonResidential,GREATER DUWAMISH,1974,1.0,1,0,93020,Non-Refrigerated Warehouse,93020.0,,,,,Compliant,60.0,,1252323.875
+19746,NonResidential,DOWNTOWN,1946,1.0,1,0,23000,Other,20310.0,Office,2689.600098,,,Compliant,,,711118.375
+607,NonResidential,SOUTHEAST,2002,1.0,1,0,61053,Supermarket/Grocery Store,54434.0,Parking,0.0,,,Compliant,32.0,,13133225.0
+608,NonResidential,DOWNTOWN,1913,5.0,7,0,154159,Office,193154.0,,,,,Non-Compliant,100.0,Low outlier,11195917.0
+609,NonResidential,DOWNTOWN,1904,1.0,5,0,78920,Office,78564.0,,,,,Compliant,88.0,,2830674.75
+610,NonResidential,DOWNTOWN,1906,1.0,7,0,99440,Office,65088.0,Retail Store,23857.0,,,Compliant,64.0,,6606832.5
+611,NonResidential,DOWNTOWN,1907,1.0,6,0,73260,Office,63871.0,,,,,Compliant,82.0,,2853189.5
+612,NonResidential,DOWNTOWN,1900,1.0,4,0,69817,Office,34647.0,Retail Store,26039.0,,,Compliant,87.0,,2178074.5
+613,NonResidential,DOWNTOWN,1900,1.0,4,0,84750,Office,41609.0,Enclosed Mall,28734.0,,,Compliant,,,2094724.625
+614,NonResidential,DOWNTOWN,1900,1.0,6,13320,62176,Office,45799.0,Retail Store,9739.0,Restaurant,4689.0,Compliant,,,3570161.75
+615,NonResidential,DOWNTOWN,1900,1.0,4,0,164380,Office,123607.0,Retail Store,20795.0,,,Compliant,79.0,,7655751.0
+616,NonResidential,DOWNTOWN,1907,1.0,7,0,160580,Office,160580.0,,,,,Compliant,98.0,,4336187.5
+618,NonResidential,DOWNTOWN,1909,1.0,6,0,73470,Office,47145.0,Non-Refrigerated Warehouse,9477.0,Retail Store,9477.0,Error - Correct Default Data,83.0,,3212269.0
+619,Nonresidential COS,DOWNTOWN,1906,1.0,3,0,67755,Other,33647.0,Office,19705.0,Other - Entertainment/Public Assembly,11988.0,Compliant,,,1904480.0
+620,NonResidential,GREATER DUWAMISH,1910,1.0,3,0,56700,Office,26250.0,Distribution Center,18050.0,Non-Refrigerated Warehouse,12400.0,Compliant,37.0,,2371575.0
+621,NonResidential,GREATER DUWAMISH,1922,1.0,1,0,82852,Non-Refrigerated Warehouse,58472.0,Retail Store,23282.0,,,Compliant,83.0,,2153603.5
+622,NonResidential,GREATER DUWAMISH,1953,1.0,2,0,76442,Other,50500.0,Distribution Center,18000.0,Office,7604.0,Compliant,,,3978277.0
+623,NonResidential,GREATER DUWAMISH,1962,1.0,2,0,92792,Distribution Center,85343.0,Office,13435.0,,,Compliant,56.0,,3155496.0
+624,NonResidential,GREATER DUWAMISH,1941,2.0,2,0,125519,Manufacturing/Industrial Plant,142901.0,,,,,Compliant,,,2244317.0
+625,NonResidential,GREATER DUWAMISH,1900,1.0,4,25800,103200,Office,104869.0,,,,,Compliant,80.0,,4374646.0
+626,NonResidential,GREATER DUWAMISH,1954,1.0,1,0,78814,Non-Refrigerated Warehouse,78814.0,,,,,Compliant,69.0,,861972.875
+627,NonResidential,GREATER DUWAMISH,1904,1.0,4,0,58970,Office,39870.0,Non-Refrigerated Warehouse,11600.0,Multifamily Housing,7000.0,Compliant,,,1776411.75
+628,NonResidential,GREATER DUWAMISH,1910,1.0,6,10800,64800,Distribution Center,51040.0,Office,10500.0,Parking,6000.0,Compliant,15.0,,2688675.75
+629,NonResidential,GREATER DUWAMISH,1907,1.0,4,0,56270,Distribution Center,39884.0,Non-Refrigerated Warehouse,9270.0,Office,4116.0,Compliant,,,1056782.125
+630,NonResidential,DOWNTOWN,1904,1.0,4,0,66842,Office,43122.0,Retail Store,10514.0,,,Compliant,31.0,,5608600.5
+632,NonResidential,DOWNTOWN,1909,1.0,6,10800,64488,Office,65508.0,Parking,10918.0,,,Compliant,81.0,,2891605.0
+633,NonResidential,DOWNTOWN,1904,1.0,7,0,184322,Office,183916.0,Data Center,406.0,,,Compliant,81.0,,9722890.0
+634,NonResidential,DOWNTOWN,2009,1.0,7,0,287853,Office,273812.0,Retail Store,12102.0,,,Compliant,43.0,,25567108.0
+635,NonResidential,GREATER DUWAMISH,1914,1.0,2,0,64512,Office,63000.0,,,,,Compliant,53.0,,5968153.5
+637,NonResidential,GREATER DUWAMISH,2009,1.0,6,111774,174226,Parking,111774.0,Office,108747.0,Other,49271.0,Compliant,,,63835192.0
+638,NonResidential,GREATER DUWAMISH,1926,1.0,7,0,144050,Non-Refrigerated Warehouse,144050.0,,,,,Compliant,26.0,,3929371.0
+639,NonResidential,GREATER DUWAMISH,1930,1.0,3,0,60592,Office,60384.0,,,,,Compliant,16.0,,5049446.5
+640,NonResidential,GREATER DUWAMISH,1912,0.0,6,0,1380959,Office,1000730.0,Retail Store,281296.0,Non-Refrigerated Warehouse,220303.0,Compliant,79.0,,74130576.0
+641,NonResidential,GREATER DUWAMISH,1993,1.0,1,0,107930,Retail Store,107704.0,,,,,Compliant,57.0,,7221482.5
+642,NonResidential,GREATER DUWAMISH,1926,1.0,1,0,99084,Non-Refrigerated Warehouse,99084.0,,,,,Compliant,83.0,,1618110.375
+647,NonResidential,Delridge,1953,1.0,1,0,72719,Distribution Center,72719.0,,,,,Compliant,28.0,,2581741.75
+649,NonResidential,EAST,1930,0.0,4,0,76624,Office,76624.0,,,,,Compliant,91.0,,2773647.5
+650,NonResidential,NORTHEAST,2001,1.0,6,36583,55123,Office,53281.0,Parking,34701.0,Other,3724.0,Compliant,2.0,,8570571.0
+651,NonResidential,LAKE UNION,2008,1.0,5,39902,89191,Medical Office,89131.0,Parking,37652.0,Other,5615.0,Compliant,6.0,,19248732.0
+652,NonResidential,DELRIDGE,1991,1.0,5,16221,121885,Office,119083.0,Parking,16221.0,,,Compliant,41.0,,8381834.5
+654,NonResidential,GREATER DUWAMISH,1973,1.0,1,0,56572,Retail Store,56576.0,,,,,Compliant,66.0,,2409429.0
+656,NonResidential,EAST,2004,1.0,0,0,225982,Medical Office,200184.0,,,,,Compliant,53.0,,20560622.0
+657,NonResidential,DOWNTOWN,2006,0.0,0,0,516407,Parking,385196.0,Multifamily Housing,340236.0,Hotel,67627.0,Compliant,31.0,,39403320.0
+658,NonResidential,DOWNTOWN,2000,1.0,11,0,312512,Office,303312.0,Data Center,4738.0,Restaurant,4462.0,Compliant,,,25747022.0
+659,NonResidential,DOWNTOWN,2005,1.0,42,0,1592914,Office,914832.0,Parking,348788.0,Financial Office,303910.0,Compliant,97.0,,56498868.0
+660,NonResidential,DOWNTOWN,1926,1.0,6,0,97720,Office,51881.0,Data Center,11999.0,Retail Store,9713.0,Compliant,,,2478025.25
+661,NonResidential,EAST,1985,1.0,10,206580,215923,Medical Office,197408.0,,,,,Compliant,46.0,,17254810.0
+671,NonResidential,CENTRAL,1987,1.0,7,0,94500,Medical Office,113739.0,,,,,Compliant,68.0,,5792926.0
+673,NonResidential,DELRIDGE,2005,0.0,1,0,94713,Retail Store,109758.0,,,,,Compliant,79.0,,5417598.0
+674,NonResidential,EAST,2008,1.0,9,101342,201560,Medical Office,201365.0,Parking,86270.0,,,Compliant,58.0,,14751117.0
+677,NonResidential,EAST,1973,1.0,19,156407,163504,Medical Office,170727.0,Parking,69171.0,,,Compliant,50.0,,15067340.0
+678,NonResidential,DOWNTOWN,1900,1.0,6,0,205521,Office,114919.0,Retail Store,28643.0,,,Compliant,94.0,,8138616.5
+679,NonResidential,DOWNTOWN,1900,1.0,6,0,56700,Office,46000.0,Retail Store,10500.0,,,Compliant,55.0,,3065954.5
+680,NonResidential,GREATER DUWAMISH,1925,1.0,4,0,72000,Office,72000.0,,,,,Compliant,89.0,,2729167.75
+681,NonResidential,MAGNOLIA / QUEEN ANNE,2000,1.0,4,94892,96254,Office,103000.0,Parking,80000.0,,,Compliant,93.0,,5101504.5
+682,NonResidential,DELRIDGE,2001,1.0,3,11527,57236,Other - Recreation,50000.0,Parking,11527.0,Swimming Pool,0.0,Compliant,,,9029489.0
+683,NonResidential,SOUTHEAST,1994,3.0,1,0,102133,Strip Mall,107427.0,Parking,0.0,,,Compliant,,,20725996.0
+685,NonResidential,DOWNTOWN,2008,1.0,14,0,362046,Office,232443.0,Parking,97874.0,Other,3534.0,Compliant,86.0,,15725581.0
+689,NonResidential,MAGNOLIA / QUEEN ANNE,1994,3.0,2,0,81336,Lifestyle Center,81385.0,,,,,Compliant,,,13085297.0
+690,NonResidential,DOWNTOWN,2001,1.0,23,0,538933,Office,366554.0,Parking,122821.0,,,Compliant,90.0,,16020642.0
+692,NonResidential,DOWNTOWN,1983,1.0,6,197130,78852,Parking,197040.0,Office,78852.0,,,Compliant,,,5233553.5
+693,NonResidential,MAGNOLIA / QUEEN ANNE,1982,1.0,5,0,98668,Office,98668.0,,,,,Compliant,91.0,,4391348.0
+694,NonResidential,GREATER DUWAMISH,2007,1.0,1,28381,130550,Office,80157.0,Multifamily Housing,34302.0,Parking,26937.0,Compliant,12.0,,8751704.0
+696,NonResidential,MAGNOLIA / QUEEN ANNE,1978,1.0,1,0,105100,Office,105100.0,,,,,Compliant,1.0,,22078064.0
+700,NonResidential,MAGNOLIA / QUEEN ANNE,2008,1.0,1,0,57176,Supermarket/Grocery Store,39500.0,Retail Store,15000.0,"Personal Services (Health/Beauty, Dry Cleaning, etc)",5500.0,Compliant,31.0,,12525174.0
+701,NonResidential,MAGNOLIA / QUEEN ANNE,1978,1.0,1,0,50660,Retail Store,50660.0,,,,,Compliant,51.0,,2661488.0
+702,NonResidential,MAGNOLIA / QUEEN ANNE,1937,1.0,2,0,61929,Office,39879.0,,,,,Compliant,59.0,,2203026.5
+703,NonResidential,MAGNOLIA / QUEEN ANNE,2000,1.0,4,55000,110111,Office,104667.0,Parking,55000.0,Data Center,5444.0,Compliant,1.0,,25478086.0
+704,NonResidential,MAGNOLIA / QUEEN ANNE,2000,1.0,4,42500,87051,Office,82273.0,Parking,42500.0,Data Center,4778.0,Non-Compliant,1.0,High outlier,27137190.0
+19755,NonResidential,DOWNTOWN,1925,1.0,3,0,20565,Office,20565.0,,,,,Compliant,65.0,,802312.5
+705,NonResidential,MAGNOLIA / QUEEN ANNE,2000,1.0,5,55971,103966,Office,106449.0,Parking,50258.0,,,Compliant,63.0,,7857972.5
+706,NonResidential,MAGNOLIA / QUEEN ANNE,2008,1.0,5,46763,137201,Office,133451.0,Parking,46763.0,Data Center,3750.0,Compliant,56.0,,14856199.0
+707,NonResidential,MAGNOLIA / QUEEN ANNE,1986,1.0,5,78848,129362,Office,109978.0,Parking,78848.0,,,Compliant,95.0,,5514308.5
+708,NonResidential,DOWNTOWN,1986,1.0,7,80283,197203,Office,178625.0,Parking,87624.0,Other,14653.0,Compliant,63.0,,12729858.0
+709,NonResidential,DOWNTOWN,1993,1.0,3,0,187130,Office,171783.0,Non-Refrigerated Warehouse,9581.0,Other - Recreation,4413.0,Compliant,77.0,,10053489.0
+710,NonResidential,DOWNTOWN,2000,1.0,5,117867,133177,Office,126218.0,Data Center,12717.0,,,Compliant,99.0,,17186624.0
+711,NonResidential,DOWNTOWN,1912,1.0,5,0,154330,Non-Refrigerated Warehouse,95330.0,,,,,Compliant,81.0,,1262235.25
+712,NonResidential,DOWNTOWN,1918,1.0,6,14690,93555,Office,64055.0,Adult Education,14621.0,Parking,12359.0,Compliant,,,4515180.5
+713,NonResidential,DOWNTOWN,1905,1.0,6,0,167860,Office,110370.0,Retail Store,19801.0,Data Center,634.0,Compliant,70.0,,6797647.0
+715,NonResidential,DOWNTOWN,1910,1.0,6,0,112560,Office,80400.0,Retail Store,16080.0,,,Compliant,86.0,,4946798.5
+716,NonResidential,DOWNTOWN,1910,1.0,6,0,86204,Other,67670.0,Retail Store,13534.0,,,Compliant,89.0,,3241917.0
+717,Nonresidential COS,GREATER DUWAMISH,1985,1.0,2,0,145158,Non-Refrigerated Warehouse,101633.0,Office,48544.0,Other,10270.0,Compliant,51.0,,8384523.0
+718,NonResidential,GREATER DUWAMISH,1951,1.0,2,0,112896,Office,110746.0,Parking,57500.0,,,Compliant,66.0,,10287986.0
+719,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,110613,Distribution Center,99551.0,Office,11061.0,,,Compliant,95.0,,1015060.188
+720,NonResidential,GREATER DUWAMISH,1951,1.0,4,0,149881,Non-Refrigerated Warehouse,119593.0,Office,30288.0,,,Compliant,97.0,,2417401.25
+722,NonResidential,GREATER DUWAMISH,1951,1.0,3,0,98220,Non-Refrigerated Warehouse,129420.0,,,,,Compliant,12.0,,6468090.0
+723,NonResidential,GREATER DUWAMISH,1970,1.0,1,0,84420,Distribution Center,44300.0,Office,24838.0,Retail Store,12349.0,Compliant,55.0,,2848317.25
+725,NonResidential,GREATER DUWAMISH,1961,1.0,1,0,73335,Distribution Center,73335.0,Parking,0.0,,,Compliant,,,5197118.0
+727,NonResidential,GREATER DUWAMISH,1928,1.0,2,0,56876,Distribution Center,48400.0,Office,4276.0,Retail Store,4200.0,Compliant,,,1791715.625
+728,NonResidential,GREATER DUWAMISH,1931,1.0,2,0,61200,Non-Refrigerated Warehouse,61200.0,,,,,Compliant,16.0,,4912143.0
+729,NonResidential,GREATER DUWAMISH,1987,1.0,1,0,111908,Distribution Center,109090.0,,,,,Compliant,87.0,,1555420.25
+730,NonResidential,GREATER DUWAMISH,1986,3.0,2,0,63644,Other - Public Services,65700.0,Parking,0.0,,,Compliant,,,6858533.5
+731,NonResidential,GREATER DUWAMISH,1930,3.0,2,18860,89893,Non-Refrigerated Warehouse,58605.0,Multifamily Housing,24338.0,Retail Store,18864.0,Compliant,,,3639670.25
+732,NonResidential,NORTHWEST,1970,1.0,1,35545,106345,Supermarket/Grocery Store,168735.0,Parking,0.0,Parking,0.0,Compliant,91.0,,16865978.0
+734,NonResidential,BALLARD,2001,1.0,4,21055,71037,Office,70074.0,,,,,Compliant,5.0,,4817062.0
+735,NonResidential,MAGNOLIA / QUEEN ANNE,1974,0.0,3,0,56259,Non-Refrigerated Warehouse,31582.0,Retail Store,20962.0,Office,3715.0,Compliant,,,2346571.5
+738,NonResidential,NORTHEAST,2006,1.0,6,0,143439,Other,119570.0,Parking,23869.0,,,Compliant,,,25631512.0
+739,NonResidential,LAKE UNION,2008,1.0,4,88855,113768,Office,105206.0,Parking,31992.0,Fitness Center/Health Club/Gym,6374.0,Compliant,73.0,,8873485.0
+740,NonResidential,LAKE UNION,2000,1.0,2,25800,51374,Office,77174.0,,,,,Compliant,33.0,,5481549.0
+741,NonResidential,MAGNOLIA / QUEEN ANNE,1998,1.0,5,0,110524,Office,98781.0,Other,8634.0,Parking,0.0,Compliant,57.0,,6859198.0
+742,NonResidential,LAKE UNION,2008,1.0,5,103650,183574,Parking,97500.0,Office,88051.0,Other,54106.0,Compliant,,,21042926.0
+743,NonResidential,LAKE UNION,1999,1.0,4,18382,97366,Laboratory,97365.0,,,,,Compliant,,,36436388.0
+744,NonResidential,MAGNOLIA / QUEEN ANNE,2000,1.0,7,84689,157186,Office,163082.0,Parking,83425.0,,,Compliant,88.0,,8655604.0
+745,NonResidential,MAGNOLIA / QUEEN ANNE,1974,1.0,5,18720,84210,Office,89075.0,Parking,15164.0,,,Compliant,85.0,,4750799.0
+748,NonResidential,DOWNTOWN,1902,1.0,3,0,76893,Office,90345.0,Parking,33380.0,Retail Store,15845.0,Compliant,,,12029600.0
+749,NonResidential,DOWNTOWN,1975,1.0,8,23630,126370,Office,126648.0,Parking,23913.0,,,Compliant,65.0,,9343428.0
+750,NonResidential,DOWNTOWN,1953,1.0,7,0,274362,Office,274362.0,,,,,Compliant,82.0,,16540550.0
+751,NonResidential,DOWNTOWN,1983,1.0,15,116280,261722,Office,270237.0,Parking,71602.0,,,Compliant,85.0,,17750994.0
+752,NonResidential,DOWNTOWN,1963,1.0,11,0,169020,Office,156414.0,Bar/Nightclub,10337.0,"Personal Services (Health/Beauty, Dry Cleaning, etc)",8208.0,Compliant,83.0,,11480494.0
+753,NonResidential,DOWNTOWN,1981,1.0,33,0,429405,Data Center,218997.0,Office,210409.0,,,Compliant,98.0,,274682208.0
+775,NonResidential,DOWNTOWN,1985,1.0,76,319400,1632820,Office,1680937.0,Parking,319368.0,,,Compliant,86.0,,92937640.0
+754,NonResidential,DOWNTOWN,1981,1.0,19,89778,293737,Office,312442.0,Parking,84800.0,Medical Office,18799.0,Compliant,90.0,,15878689.0
+755,NonResidential,DOWNTOWN,1925,1.0,18,28870,335064,Medical Office,281598.0,Parking,27597.0,Retail Store,21519.0,Compliant,68.0,,22104512.0
+756,NonResidential,DOWNTOWN,1929,1.0,4,0,78920,Retail Store,78920.0,,,,,Compliant,80.0,,8303666.5
+757,NonResidential,DOWNTOWN,1979,1.0,7,87160,43983,Office,120248.0,Retail Store,10853.0,,,Compliant,93.0,,5177270.5
+758,NonResidential,DOWNTOWN,1999,1.0,0,0,947987,Other - Mall,561684.0,Other - Entertainment/Public Assembly,100000.0,Restaurant,80000.0,Compliant,,,46510960.0
+759,NonResidential,EAST,1908,1.0,4,0,55520,Office,17120.0,Performing Arts,15300.0,Self-Storage Facility,13400.0,Compliant,,,3686962.25
+760,NonResidential,DOWNTOWN,1908,1.0,10,0,132998,Office,138257.0,Retail Store,0.0,,,Compliant,97.0,,3775187.5
+761,NonResidential,DOWNTOWN,1940,1.0,3,0,83118,Retail Store,45000.0,,,,,Compliant,59.0,,2443141.5
+762,NonResidential,DOWNTOWN,1924,1.0,3,0,77555,Retail Store,73563.0,,,,,Compliant,39.0,,7802205.5
+763,NonResidential,DOWNTOWN,1909,1.0,6,0,51218,Office,44913.0,Restaurant,7044.0,,,Compliant,57.0,,2886141.5
+764,NonResidential,DOWNTOWN,1970,1.0,29,0,489182,Office,371450.0,Parking,65451.0,Other - Technology/Science,9295.0,Compliant,43.0,,36378588.0
+765,NonResidential,DOWNTOWN,1929,1.0,27,13320,203251,Office,182604.0,Parking,13320.0,Other - Technology/Science,6246.0,Compliant,62.0,,16246106.0
+766,NonResidential,DOWNTOWN,1921,1.0,13,0,189175,Office,151740.0,Other,12645.0,,,Compliant,13.0,,19036416.0
+767,NonResidential,DOWNTOWN,1998,1.0,13,74481,219322,Office,145491.0,Parking,70603.0,,,Compliant,25.0,,17074142.0
+768,NonResidential,DOWNTOWN,1910,1.0,7,0,122356,Office,95942.0,Retail Store,15523.0,Data Center,182.0,Compliant,91.0,,4585070.5
+769,NonResidential,DOWNTOWN,1921,1.0,3,0,52298,Office,50250.0,,,,,Compliant,89.0,,1968655.125
+771,NonResidential,DOWNTOWN,1911,1.0,17,0,116640,Office,82053.0,Financial Office,6561.0,Food Service,6333.0,Compliant,75.0,,6758565.5
+772,NonResidential,DOWNTOWN,1981,1.0,42,201121,1047934,Office,983697.0,Parking,296815.0,Medical Office,12941.0,Compliant,95.0,,37980712.0
+776,NonResidential,EAST,1988,1.0,5,99314,89025,Medical Office,81873.0,Parking,67000.0,,,Compliant,15.0,,8523594.0
+777,NonResidential,CENTRAL,1916,1.0,2,0,60122,College/University,60122.0,Parking,0.0,,,Compliant,,,690529.5
+778,NonResidential,DOWNTOWN,1910,1.0,6,13700,81300,Office,84481.0,Parking,8474.0,,,Compliant,83.0,,4052720.0
+779,NonResidential,DOWNTOWN,1971,1.0,9,0,224857,Office,204993.0,,,,,Compliant,79.0,,15272491.0
+780,NonResidential,DOWNTOWN,1998,1.0,8,124788,321473,Office,343400.0,Parking,114237.0,,,Compliant,96.0,,13568148.0
+782,NonResidential,GREATER DUWAMISH,1939,1.0,2,0,58492,Other,58500.0,,,,,Compliant,,,1594422.5
+783,NonResidential,GREATER DUWAMISH,1907,1.0,6,0,62370,Office,49473.0,Restaurant,10408.0,,,Compliant,30.0,,4353025.0
+784,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,73296,Non-Refrigerated Warehouse,77800.0,Parking,0.0,,,Compliant,83.0,,2356376.75
+785,Nonresidential COS,GREATER DUWAMISH,1944,1.0,4,0,99122,Other,50036.0,Office,49086.0,,,Compliant,,,14469228.0
+786,NonResidential,GREATER DUWAMISH,1985,1.0,1,0,66133,Other,60787.0,Office,13805.0,Non-Refrigerated Warehouse,2408.0,Compliant,,,6345009.5
+787,NonResidential,GREATER DUWAMISH,1952,1.0,2,0,115668,Non-Refrigerated Warehouse,101752.0,Office,8068.0,Retail Store,4270.0,Compliant,,,3534690.75
+791,NonResidential,GREATER DUWAMISH,1970,1.0,1,0,141686,Other,152511.0,,,,,Compliant,,,6673138.0
+792,NonResidential,GREATER DUWAMISH,1950,1.0,1,0,93610,Office,101278.0,Data Center,502.0,,,Compliant,95.0,,6235947.0
+793,NonResidential,GREATER DUWAMISH,1973,1.0,2,0,156188,Office,141917.0,Parking,0.0,,,Compliant,67.0,,6843855.0
+794,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,115620,Non-Refrigerated Warehouse,56900.0,,,,,Compliant,11.0,,1951856.25
+796,NonResidential,GREATER DUWAMISH,1975,1.0,5,0,238148,Office,245240.0,Parking,5616.0,Parking,5616.0,Compliant,93.0,,10775646.0
+797,NonResidential,GREATER DUWAMISH,1969,1.0,1,0,71718,Distribution Center,71718.0,,,,,Compliant,100.0,,151754.2969
+798,NonResidential,GREATER DUWAMISH,1969,1.0,1,0,55450,Non-Refrigerated Warehouse,34206.0,Office,21244.0,,,Compliant,31.0,,4345698.0
+799,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,54880,Distribution Center,55000.0,,,,,Compliant,32.0,,2763597.0
+800,NonResidential,DELRIDGE,1992,1.0,1,0,102500,Retail Store,99471.0,Parking,0.0,,,Compliant,81.0,,7305474.0
+801,NonResidential,NORTHEAST,2002,1.0,6,272900,88498,Parking,232685.0,Retail Store,63419.0,Non-Refrigerated Warehouse,15757.0,Compliant,,,8915523.0
+802,NonResidential,GREATER DUWAMISH,1963,1.0,1,0,50785,Supermarket/Grocery Store,27382.0,,,,,Compliant,57.0,,7439009.0
+803,NonResidential,Delridge,1929,1.0,3,0,85126,Office,81526.0,,,,,Compliant,1.0,,37951708.0
+804,NonResidential,North,2000,1.0,5,19820,283435,Parking,321828.0,Retail Store,298043.0,Other,5636.0,Compliant,,,11077140.0
+805,NonResidential,GREATER DUWAMISH,1986,1.0,1,0,411584,Distribution Center,288048.0,Non-Refrigerated Warehouse,83683.0,Refrigerated Warehouse,35760.0,Compliant,43.0,,15091579.0
+806,NonResidential,DOWNTOWN,1902,1.0,4,0,73320,Non-Refrigerated Warehouse,27283.0,Office,23277.0,Retail Store,6540.0,Compliant,,,1141189.75
+807,NonResidential,MAGNOLIA / QUEEN ANNE,2008,1.0,4,100176,142510,Office,149081.0,Parking,76364.0,,,Compliant,77.0,,9683979.0
+809,NonResidential,DOWNTOWN,1900,1.0,6,15840,79920,Office,95760.0,,,,,Compliant,83.0,,5392617.5
+811,NonResidential,GREATER DUWAMISH,1946,1.0,1,0,179413,Non-Refrigerated Warehouse,178087.0,,,,,Compliant,57.0,,3459543.0
+812,NonResidential,GREATER DUWAMISH,1917,0.0,1,0,65288,Non-Refrigerated Warehouse,60000.0,Other - Services,5000.0,Retail Store,5000.0,Compliant,,,605971.1875
+813,NonResidential,Delridge,1966,1.0,1,0,170632,Non-Refrigerated Warehouse,164806.0,Office,5826.0,,,Compliant,98.0,,602245.0
+814,NonResidential,MAGNOLIA / QUEEN ANNE,1994,1.0,10,0,381511,Office,220033.0,Parking,168978.0,,,Compliant,87.0,,11410228.0
+815,NonResidential,DOWNTOWN,2009,1.0,17,138098,275166,Office,295494.0,Parking,94781.0,,,Compliant,91.0,,13631141.0
+817,NonResidential,NORTHEAST,2009,1.0,6,54300,68100,Office,41624.0,Parking,33399.0,Multifamily Housing,20740.0,Compliant,63.0,,4865551.5
+819,NonResidential,NORTHEAST,1956,1.0,2,0,93803,Retail Store,85572.0,Restaurant,2950.0,Other,2500.0,Compliant,,,5453438.5
+820,SPS-District K-12,CENTRAL,1988,1.0,1,0,52924,K-12 School,52924.0,,,,,Missing Data,,,0.0
+821,NonResidential,GREATER DUWAMISH,1966,1.0,2,0,123000,Non-Refrigerated Warehouse,112484.0,Office,24433.0,,,Compliant,47.0,,3004271.0
+861,NonResidential,EAST,2003,1.0,5,112980,162150,Medical Office,177748.0,,,,,Compliant,70.0,,9941308.0
+822,NonResidential,GREATER DUWAMISH,1978,1.0,1,0,60448,Non-Refrigerated Warehouse,52702.0,Office,7746.0,,,Compliant,90.0,,1052244.75
+828,NonResidential,EAST,1994,7.0,14,0,1765970,Hospital (General Medical & Surgical),1639334.0,Parking,441551.0,,,Compliant,54.0,,291614432.0
+829,NonResidential,MAGNOLIA / QUEEN ANNE,1928,3.0,4,0,62600,Other,215197.0,,,,,Compliant,,,11147342.0
+830,NonResidential,EAST,2004,1.0,4,21612,55800,Other,26400.0,Office,19200.0,Parking,17000.0,Compliant,,,2655387.5
+831,NonResidential,EAST,1990,1.0,5,159157,130262,Medical Office,146150.0,Parking,139000.0,,,Compliant,59.0,,12731388.0
+832,NonResidential,NORTH,1987,1.0,5,0,90266,Financial Office,87552.0,,,,,Compliant,18.0,,7771933.5
+837,NonResidential,Ballard,2004,1.0,4,6458,80874,Non-Refrigerated Warehouse,87332.0,,,,,Compliant,87.0,,1165598.875
+839,NonResidential,EAST,2003,1.0,6,50017,100528,Hotel,100528.0,Parking,50017.0,,,Compliant,28.0,,13410041.0
+841,NonResidential,MAGNOLIA / QUEEN ANNE,1999,1.0,5,0,141718,Other - Entertainment/Public Assembly,134197.0,Restaurant,5803.0,,,Compliant,,,19085174.0
+843,NonResidential,MAGNOLIA / QUEEN ANNE,2008,1.0,5,21273,90583,Hotel,92000.0,Parking,20000.0,Restaurant,4006.0,Compliant,8.0,,9444484.0
+845,NonResidential,EAST,1988,1.0,4,0,132828,Non-Refrigerated Warehouse,132828.0,,,,,Compliant,83.0,,1083729.625
+847,NonResidential,DELRIDGE,1970,1.0,1,0,70400,Non-Refrigerated Warehouse,58047.0,Office,12353.0,,,Compliant,1.0,,13962749.0
+848,NonResidential,NORTHWEST,1995,1.0,1,0,101830,Retail Store,130767.0,,,,,Compliant,60.0,,10713006.0
+850,SPS-District K-12,CENTRAL,1988,1.0,3,0,55353,K-12 School,55353.0,,,,,Missing Data,,,0.0
+851,NonResidential,CENTRAL,1974,2.0,4,0,114000,College/University,114000.0,,,,,Compliant,,,7575080.0
+854,SPS-District K-12,GREATER DUWAMISH,2002,1.0,3,0,338063,Other,180633.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)",50000.0,Restaurant,50000.0,Compliant,,,20675922.0
+857,NonResidential,SOUTHWEST,1965,1.0,1,0,152365,Non-Refrigerated Warehouse,149293.0,Office,7858.0,,,Compliant,88.0,,1069749.75
+858,NonResidential,CENTRAL,1910,1.0,6,0,320946,Medical Office,236359.0,Laboratory,86298.0,,,Compliant,57.0,,25471308.0
+859,NonResidential,GREATER DUWAMISH,1958,1.0,1,0,74178,Retail Store,74178.0,,,,,Compliant,,,5402181.0
+864,NonResidential,NORTH,1987,1.0,4,0,80360,Non-Refrigerated Warehouse,80360.0,,,,,Compliant,96.0,,686019.1875
+866,SPS-District K-12,SOUTHWEST,1950,1.0,1,0,61183,K-12 School,62975.0,,,,,Error - Correct Default Data,92.0,,2424724.25
+867,NonResidential,EAST,1996,1.0,3,0,119190,Supermarket/Grocery Store,46280.0,,,,,Compliant,71.0,,10077532.0
+868,NonResidential,GREATER DUWAMISH,2008,1.0,2,0,51856,Automobile Dealership,48103.0,Office,3753.0,,,Compliant,,,1938613.125
+1280,NonResidential,GREATER DUWAMISH,1921,1.0,3,12586,53552,Office,26044.0,Manufacturing/Industrial Plant,13884.0,Parking,13858.0,Compliant,3.0,,7070998.5
+1281,NonResidential,NORTHEAST,1960,1.0,3,48510,65434,Office,65434.0,,,,,Compliant,1.0,,17880184.0
+19445,NonResidential,LAKE UNION,2000,1.0,3,36093,56986,Multifamily Housing,91064.0,,,,,Compliant,32.0,,1997181.5
+19461,NonResidential,NORTHEAST,1957,1.0,2,0,22220,Worship Facility,22220.0,,,,,Compliant,90.0,,778355.8125
+19462,SPS-District K-12,NORTHEAST,1955,1.0,1,0,46732,K-12 School,50956.0,,,,,Error - Correct Default Data,87.0,,2331952.75
+19472,NonResidential,GREATER DUWAMISH,1962,1.0,1,0,44700,Office,23751.0,Other,14024.0,Non-Refrigerated Warehouse,10095.0,Compliant,,,2042771.0
+19477,NonResidential,GREATER DUWAMISH,1976,1.0,1,0,44100,Non-Refrigerated Warehouse,40000.0,,,,,Compliant,1.0,,1618916.375
+19481,NonResidential,GREATER DUWAMISH,1965,1.0,1,0,27800,Distribution Center,27800.0,,,,,Compliant,13.0,,1224186.25
+19489,NonResidential,GREATER DUWAMISH,2001,1.0,1,0,46340,Non-Refrigerated Warehouse,46340.0,,,,,Compliant,3.0,,2564004.0
+19491,Campus,GREATER DUWAMISH,1994,3.0,1,0,22800,Manufacturing/Industrial Plant,22800.0,,,,,Compliant,,,2222097.5
+19501,NonResidential,CENTRAL,1910,1.0,3,0,38460,Office,38460.0,,,,,Compliant,69.0,,1950713.25
+19520,NonResidential,NORTHWEST,1922,1.0,2,0,21022,Worship Facility,21022.0,,,,,Compliant,54.0,,945245.625
+19537,SPS-District K-12,SOUTHWEST,1954,1.0,2,0,51489,K-12 School,51489.0,,,,,Error - Correct Default Data,93.0,,1984067.625
+19559,NonResidential,GREATER DUWAMISH,1967,1.0,1,0,48001,Distribution Center,48001.0,,,,,Compliant,49.0,,2143650.75
+19565,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,26380,Non-Refrigerated Warehouse,23620.0,Office,2760.0,,,Compliant,,,509124.0
+19570,NonResidential,GREATER DUWAMISH,1969,1.0,1,0,37351,Non-Refrigerated Warehouse,29551.0,Office,9569.0,,,Compliant,10.0,,2559461.75
+19572,NonResidential,GREATER DUWAMISH,1981,1.0,1,0,30375,Non-Refrigerated Warehouse,30375.0,,,,,Compliant,73.0,,345866.6875
+19576,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,30004,Non-Refrigerated Warehouse,24280.0,Office,4950.0,,,Compliant,,,369291.5
+19584,NonResidential,NORTHEAST,1928,1.0,3,0,39971,Other,36185.0,Retail Store,3142.0,Office,644.0,Compliant,,,10960107.0
+19596,NonResidential,BALLARD,1914,1.0,2,0,33589,Worship Facility,33589.0,,,,,Compliant,90.0,,509836.1875
+19613,NonResidential,BALLARD,1979,1.0,3,0,43500,Office,43495.0,,,,,Compliant,46.0,,3220635.25
+19621,NonResidential,BALLARD,1978,1.0,2,0,28492,Office,28492.0,,,,,Compliant,12.0,,1896298.875
+19623,NonResidential,BALLARD,1963,1.0,3,0,22325,Office,18000.0,Medical Office,1800.0,Other,1000.0,Compliant,,,1401315.875
+19624,NonResidential,BALLARD,1977,1.0,3,0,22719,Restaurant,22719.0,Parking,0.0,,,Compliant,,,1358519.0
+19654,NonResidential,DOWNTOWN,1946,1.0,2,22000,22588,Laboratory,69000.0,,,,,Compliant,,,7251589.0
+19694,SPS-District K-12,CENTRAL,1925,1.0,2,0,37327,K-12 School,48887.0,,,,,Error - Correct Default Data,92.0,,1967476.375
+19696,NonResidential,DOWNTOWN,1917,1.0,2,0,147545,Retail Store,147545.0,,,,,Compliant,69.0,,6787070.0
+19697,Nonresidential COS,NORTH,1923,1.0,2,0,21462,Other,25778.0,Office,200.0,,,Compliant,,,1114384.625
+19728,SPS-District K-12,NORTHWEST,1930,1.0,2,0,47602,K-12 School,46066.0,,,,,Error - Correct Default Data,78.0,,2249592.5
+19730,NonResidential,NORTHWEST,1917,1.0,2,0,28072,Social/Meeting Hall,23835.0,,,,,Compliant,,,1362523.0
+19742,NonResidential,DOWNTOWN,1955,1.0,2,0,31020,Restaurant,31020.0,,,,,Compliant,,,4970047.0
+19743,NonResidential,DOWNTOWN,1917,1.0,2,0,21600,Office,14400.0,Other - Lodging/Residential,7200.0,,,Compliant,,,1636649.125
+19747,NonResidential,DOWNTOWN,1974,1.0,5,13320,48505,Office,37993.0,Bank Branch,3547.0,,,Compliant,59.0,,4322873.0
+19750,NonResidential,DOWNTOWN,1942,1.0,3,0,64630,Office,64630.0,,,,,Compliant,96.0,,1408291.375
+19752,NonResidential,DOWNTOWN,1948,1.0,2,0,20920,Worship Facility,20920.0,,,,,Compliant,15.0,,1042108.5
+19766,NonResidential,SOUTHWEST,1926,1.0,2,0,22128,Worship Facility,22128.0,,,,,Compliant,94.0,,608359.6875
+19774,NonResidential,NORTHWEST,1968,1.0,1,0,48139,Retail Store,40000.0,,,,,Compliant,98.0,,859236.625
+19776,NonResidential,NORTHWEST,2002,1.0,1,0,29924,Other - Education,29924.0,,,,,Missing Data,,,0.0
+19787,NonResidential,SOUTHWEST,1949,1.0,2,0,21364,Worship Facility,15364.0,K-12 School,6000.0,,,Compliant,86.0,,965651.125
+19833,NonResidential,DOWNTOWN,1992,1.0,2,0,28923,College/University,28800.0,,,,,Compliant,,,439311.9063
+19836,NonResidential,DOWNTOWN,1928,1.0,3,0,21600,College/University,21600.0,,,,,Compliant,,,323739.4063
+19845,NonResidential,NORTHEAST,1996,1.0,1,0,25735,Retail Store,25691.0,,,,,Compliant,82.0,,1169394.875
+19847,NonResidential,NORTHEAST,1956,1.0,2,0,25862,Retail Store,25562.0,Other,300.0,,,Compliant,20.0,,4801472.0
+19848,NonResidential,NORTHEAST,2003,1.0,2,0,49965,Retail Store,47465.0,Other,2500.0,,,Compliant,82.0,,3377209.75
+19853,NonResidential,DOWNTOWN,1929,1.0,2,0,20028,Office,20028.0,,,,,Compliant,95.0,,511797.4063
+19855,NonResidential,DOWNTOWN,1900,1.0,7,0,23622,Office,26195.0,Restaurant,2285.0,,,Compliant,100.0,,552007.5
+19856,NonResidential,DOWNTOWN,1902,1.0,3,0,23563,Office,20183.0,Restaurant,3380.0,,,Compliant,67.0,,883197.6875
+19857,NonResidential,DOWNTOWN,1903,1.0,3,0,28600,Office,12000.0,Retail Store,11000.0,Restaurant,3000.0,Compliant,,,1062722.625
+19858,NonResidential,DOWNTOWN,1978,1.0,2,12379,26160,Retail Store,15549.0,Parking,12379.0,Office,10611.0,Compliant,55.0,,2186018.5
+19860,NonResidential,DOWNTOWN,1906,1.0,5,0,26840,Office,29040.0,,,,,Compliant,24.0,,1989287.0
+19861,NonResidential,DOWNTOWN,1906,1.0,2,0,46800,Retail Store,36019.0,Office,10781.0,,,Compliant,86.0,,1245187.5
+19862,NonResidential,DOWNTOWN,1979,1.0,3,26640,37350,Office,39000.0,Parking,26640.0,,,Compliant,51.0,,2067352.5
+19864,NonResidential,DOWNTOWN,1908,1.0,3,0,28800,Office,21600.0,Other,7200.0,Non-Refrigerated Warehouse,6200.0,Compliant,50.0,,1345025.75
+19871,NonResidential,DOWNTOWN,1954,1.0,3,4968,28584,Office,26556.0,Parking,4968.0,,,Compliant,75.0,,1696978.75
+19873,NonResidential,DOWNTOWN,1931,1.0,2,0,26270,Retail Store,26270.0,,,,,Compliant,32.0,,1560461.75
+19874,NonResidential,DOWNTOWN,1926,1.0,3,7820,49800,Office,49800.0,Parking,7820.0,,,Compliant,50.0,,2385395.0
+19876,NonResidential,DOWNTOWN,1954,1.0,2,6080,22616,Other,12960.0,Bank Branch,7760.0,Parking,6080.0,Compliant,,,418348.5
+19878,NonResidential,DOWNTOWN,1990,1.0,5,0,57800,Hotel,57800.0,,,,,Compliant,87.0,,2443065.25
+19894,NonResidential,DOWNTOWN,1955,1.0,2,0,31890,Financial Office,31160.0,,,,,Compliant,2.0,,1858224.625
+19895,NonResidential,DOWNTOWN,1925,1.0,2,13660,30438,Office,25920.0,Parking,13155.0,,,Compliant,53.0,,1441900.5
+19896,NonResidential,DOWNTOWN,1923,1.0,3,0,22381,Restaurant,22381.0,,,,,Compliant,,,3532966.5
+19900,NonResidential,DOWNTOWN,1926,0.0,4,0,49249,Laboratory,40584.0,Office,7165.0,,,Compliant,,,33268410.0
+19902,NonResidential,DOWNTOWN,1925,1.0,1,1263,23562,Retail Store,13940.0,Non-Refrigerated Warehouse,10439.0,,,Compliant,,,439521.0938
+19910,NonResidential,DOWNTOWN,1952,1.0,4,0,26670,Medical Office,26670.0,,,,,Compliant,51.0,,1553208.375
+19917,Nonresidential COS,DOWNTOWN,1922,1.0,2,0,37740,Fire Station,38939.0,,,,,Compliant,,,3095882.0
+19926,NonResidential,DOWNTOWN,1965,1.0,1,0,23752,Office,14317.0,Retail Store,9435.0,Parking,0.0,Compliant,,,1067153.75
+19927,NonResidential,DOWNTOWN,1967,1.0,4,0,44416,Hotel,52668.0,,,,,Compliant,61.0,,2669564.25
+19928,NonResidential,DOWNTOWN,2006,1.0,2,22867,10925,Social/Meeting Hall,8969.0,Parking,8540.0,Other - Entertainment/Public Assembly,1600.0,Compliant,,,2547848.0
+19967,SPS-District K-12,MAGNOLIA / QUEEN ANNE,2001,1.0,1,0,35805,K-12 School,35805.0,,,,,Error - Correct Default Data,100.0,Low outlier,431471.6875
+20000,NonResidential,Northwest,1928,1.0,2,0,45991,Worship Facility,45991.0,,,,,Compliant,77.0,,1145535.75
+20029,NonResidential,NORTHEAST,1921,1.0,3,0,21499,Residence Hall/Dormitory,21499.0,,,,,Compliant,85.0,,605130.6875
+20033,NonResidential,NORTHEAST,1989,1.0,2,0,20384,Office,25021.0,,,,,Compliant,16.0,,1791071.375
+20047,NonResidential,NORTHEAST,1956,1.0,2,0,39265,Retail Store,31905.0,Office,4388.0,Other,2679.0,Compliant,,,5238803.0
+20048,NonResidential,NORTHEAST,1956,1.0,2,0,54284,Retail Store,52784.0,Other,1900.0,,,Compliant,18.0,,6778694.0
+20050,NonResidential,NORTHEAST,1956,1.0,1,0,23409,Retail Store,21909.0,Other,1500.0,,,Compliant,67.0,,2545405.0
+20052,NonResidential,NORTHEAST,1997,1.0,1,0,63153,Retail Store,59396.0,Non-Refrigerated Warehouse,2757.0,Other,1000.0,Compliant,,,4644178.0
+20066,NonResidential,NORTHEAST,1961,2.0,2,0,24100,Hotel,30910.0,,,,,Compliant,91.0,,1587454.75
+20067,NonResidential,DOWNTOWN,1923,1.0,3,0,33600,Restaurant,19200.0,Office,14400.0,,,Compliant,,,4475650.0
+20073,NonResidential,DOWNTOWN,1927,1.0,4,0,32356,Financial Office,25876.0,Bank Branch,6480.0,,,Compliant,81.0,,1857154.75
+20082,NonResidential,DOWNTOWN,1960,1.0,7,12960,48220,Hotel,61180.0,,,,,Compliant,24.0,,3993913.25
+20087,NonResidential,DOWNTOWN,1978,1.0,5,11250,32256,Office,32569.0,Parking,0.0,,,Compliant,51.0,,3460275.5
+20130,NonResidential,Northwest,1910,1.0,2,0,23931,Worship Facility,23931.0,,,,,Compliant,88.0,,496477.3125
+20132,NonResidential,Northwest,1948,1.0,2,0,21393,Worship Facility,21393.0,,,,,Compliant,57.0,,845961.375
+20141,NonResidential,SOUTHEAST,1990,1.0,2,0,47560,Distribution Center,23146.0,Non-Refrigerated Warehouse,15724.0,Office,8255.0,Compliant,80.0,,1132489.625
+20145,NonResidential,EAST,2006,1.0,6,0,62334,Senior Care Community,35696.0,Bank Branch,15661.0,Parking,10877.0,Compliant,100.0,,1076733.25
+20160,NonResidential,NORTHEAST,1930,1.0,3,0,20960,Residence Hall/Dormitory,20960.0,,,,,Compliant,,,1500309.75
+20166,NonResidential,DOWNTOWN,1910,1.0,3,0,28800,College/University,28800.0,,,,,Compliant,,,717056.375
+20167,NonResidential,DOWNTOWN,1957,1.0,2,0,21600,K-12 School,21600.0,,,,,Compliant,72.0,,1261536.75
+20168,NonResidential,DOWNTOWN,1995,1.0,3,0,22860,K-12 School,22860.0,,,,,Compliant,43.0,,931148.625
+20182,NonResidential,NORTHEAST,1972,1.0,1,0,26366,Worship Facility,26386.0,Parking,0.0,,,Compliant,88.0,,888031.875
+20197,NonResidential,SOUTHEAST,1965,1.0,2,0,21732,Worship Facility,21732.0,,,,,Compliant,2.0,,860364.1875
+20211,NonResidential,BALLARD,1945,1.0,1,0,21060,Non-Refrigerated Warehouse,10495.0,Retail Store,10240.0,Office,1890.0,Compliant,,,350264.5938
+20212,NonResidential,BALLARD,1960,1.0,4,0,20539,Retail Store,7387.0,Multifamily Housing,5264.0,Restaurant,3700.0,Compliant,,,1678458.75
+20217,SPS-District K-12,NORTHEAST,1958,1.0,1,0,38624,K-12 School,41408.0,,,,,Error - Correct Default Data,83.0,,1424157.25
+20237,NonResidential,NORTHEAST,1900,1.0,3,0,32960,Retail Store,32960.0,,,,,Compliant,71.0,,813641.0
+20241,NonResidential,NORTHEAST,1921,1.0,3,0,29636,Other - Entertainment/Public Assembly,25096.0,Multifamily Housing,4540.0,,,Compliant,,,688641.8125
+20242,NonResidential,NORTHEAST,1930,1.0,3,0,20571,Hotel,20571.0,,,,,Compliant,72.0,,716279.6875
+20266,NonResidential,NORTHEAST,1926,1.0,2,0,47992,Worship Facility,37800.0,Other,10206.0,,,Compliant,17.0,,3040195.5
+20273,NonResidential,NORTHEAST,1993,1.0,3,0,28572,Residence Hall/Dormitory,22000.0,Parking,7000.0,,,Compliant,16.0,,2717863.25
+20323,NonResidential,EAST,1982,0.0,15,31535,84240,Residence Hall/Dormitory,150000.0,Office,25000.0,,,Compliant,94.0,,2882489.75
+20324,NonResidential,NORTHEAST,2000,1.0,2,0,31386,Worship Facility,30000.0,,,,,Compliant,52.0,,1128179.125
+20325,Campus,NORTHEAST,1989,5.0,3,0,21500,K-12 School,96154.0,,,,,Compliant,44.0,,6689184.0
+20369,NonResidential,LAKE UNION,2012,1.0,2,26497,57619,Office,55000.0,,,,,Compliant,68.0,,2641681.75
+20372,NonResidential,DOWNTOWN,1925,1.0,9,0,104000,Hotel,96000.0,Restaurant,8000.0,,,Compliant,8.0,,8690648.0
+20376,SPS-District K-12,GREATER DUWAMISH,1971,1.0,1,0,55206,K-12 School,55206.0,,,,,Error - Correct Default Data,75.0,,2345752.5
+20377,NonResidential,SOUTHEAST,1981,1.0,3,0,78374,Senior Care Community,58665.0,Parking,0.0,,,Compliant,98.0,,3321035.75
+20387,NonResidential,BALLARD,2007,1.0,2,0,38784,Non-Refrigerated Warehouse,16826.0,Office,16826.0,,,Compliant,,,1841154.25
+20393,NonResidential,GREATER DUWAMISH,1969,1.0,2,0,41790,Social/Meeting Hall,21790.0,Office,20000.0,,,Compliant,,,2177075.0
+20395,NonResidential,DOWNTOWN,1900,1.0,5,0,39960,Office,37120.0,Other,2840.0,,,Compliant,77.0,,2178690.5
+20396,NonResidential,DOWNTOWN,1900,1.0,5,0,33300,Non-Refrigerated Warehouse,24000.0,Retail Store,6000.0,,,Compliant,,,90558.70313
+20397,NonResidential,DOWNTOWN,1926,1.0,11,0,36240,Hotel,36240.0,,,,,Compliant,98.0,,2147968.25
+20398,NonResidential,DOWNTOWN,1922,1.0,3,6960,32360,Social/Meeting Hall,39320.0,,,,,Compliant,,,3042875.5
+20402,NonResidential,DOWNTOWN,1908,1.0,5,0,41536,Performing Arts,41536.0,,,,,Compliant,,,2735166.0
+20406,NonResidential,DOWNTOWN,1909,1.0,6,0,35820,Hotel,35820.0,,,,,Compliant,94.0,,3321603.0
+20415,NonResidential,SOUTHWEST,1922,1.0,2,0,33462,K-12 School,57896.0,,,,,Compliant,76.0,,3987215.5
+20419,NonResidential,SOUTHWEST,1965,1.0,3,0,49744,K-12 School,49744.0,,,,,Compliant,98.0,,2096835.5
+20425,NonResidential,SOUTHWEST,1923,1.0,2,0,37816,Worship Facility,19407.0,K-12 School,18701.0,,,Compliant,60.0,,1411305.5
+20427,NonResidential,SOUTHWEST,1926,0.0,2,0,23315,Office,7758.0,Retail Store,6919.0,Restaurant,1976.0,Compliant,,,1354000.625
+20428,NonResidential,SOUTHWEST,1930,1.0,2,0,20700,Non-Refrigerated Warehouse,6900.0,Restaurant,6900.0,Other - Recreation,4323.0,Compliant,,,4265815.0
+20433,NonResidential,SOUTHWEST,1948,1.0,1,13124,28397,Other - Recreation,26241.0,Parking,13124.0,Restaurant,2574.0,Compliant,,,3343550.0
+20435,NonResidential,SOUTHWEST,1946,1.0,2,0,25762,Supermarket/Grocery Store,25762.0,,,,,Compliant,100.0,,1906384.875
+20439,NonResidential,SOUTHWEST,1984,1.0,1,0,33334,Fitness Center/Health Club/Gym,50000.0,Swimming Pool,0.0,,,Compliant,,,6118300.5
+20440,NonResidential,SOUTHWEST,1981,1.0,3,0,43387,Office,45000.0,,,,,Compliant,60.0,,2686765.0
+20470,NonResidential,NORTH,1979,1.0,1,0,39350,Supermarket/Grocery Store,19271.0,Retail Store,19249.0,Food Service,2663.0,Compliant,,,267135.0938
+20474,NonResidential,NORTH,1949,0.0,1,0,22405,Other,11000.0,Retail Store,7500.0,,,Compliant,,,3498214.75
+20494,SPS-District K-12,NORTH,2013,1.0,1,0,32590,Other,32590.0,,,,,Compliant,,,1361794.25
+20500,NonResidential,GREATER DUWAMISH,1985,1.0,1,0,37500,Non-Refrigerated Warehouse,61419.0,,,,,Compliant,36.0,,1811506.375
+20503,NonResidential,CENTRAL,1990,1.0,2,0,39000,Medical Office,39000.0,,,,,Compliant,25.0,,2615247.75
+20506,NonResidential,SOUTHWEST,1924,1.0,1,0,22180,Other - Mall,14000.0,Restaurant,8180.0,,,Compliant,,,5089083.0
+20515,SPS-District K-12,GREATER DUWAMISH,1971,1.0,1,0,51704,K-12 School,51704.0,,,,,Error - Correct Default Data,62.0,,1799402.75
+20519,NonResidential,GREATER DUWAMISH,1969,1.0,1,0,25920,Distribution Center,19277.0,Refrigerated Warehouse,4051.0,Office,2592.0,Compliant,,,1219744.75
+20520,NonResidential,GREATER DUWAMISH,1953,1.0,1,0,25480,Refrigerated Warehouse,25480.0,,,,,Compliant,,,741287.1875
+20522,NonResidential,GREATER DUWAMISH,1970,1.0,2,0,31000,Non-Refrigerated Warehouse,31000.0,,,,,Compliant,,,2301043.75
+20523,NonResidential,GREATER DUWAMISH,1961,1.0,1,0,29740,Office,17804.0,Non-Refrigerated Warehouse,12208.0,,,Compliant,57.0,,1467060.25
+20525,NonResidential,GREATER DUWAMISH,1954,1.0,1,0,23236,Distribution Center,20736.0,Office,1250.0,Retail Store,1250.0,Compliant,,,433871.0
+20526,NonResidential,SOUTHEAST,2009,1.0,3,0,38075,Office,29035.0,K-12 School,6213.0,Retail Store,2825.0,Compliant,,,1921801.25
+20531,NonResidential,SOUTHEAST,1970,1.0,2,0,39170,Office,35500.0,,,,,Compliant,81.0,,2130673.75
+20532,Nonresidential COS,SOUTHEAST,1977,0.0,1,0,36070,Other - Recreation,66597.0,,,,,Compliant,,,1441665.375
+20541,NonResidential,SOUTHEAST,1963,1.0,2,0,20047,Other - Services,20047.0,,,,,Compliant,,,117438.3984
+20552,NonResidential,GREATER DUWAMISH,1914,1.0,1,0,20000,Retail Store,20000.0,,,,,Compliant,75.0,,557863.6875
+20556,NonResidential,GREATER DUWAMISH,1955,1.0,2,0,32400,Non-Refrigerated Warehouse,32700.0,,,,,Compliant,91.0,,248616.0
+20565,NonResidential,MAGNOLIA / QUEEN ANNE,1962,1.0,1,0,25159,Supermarket/Grocery Store,25883.0,Parking,0.0,,,Compliant,38.0,,8905287.0
+20573,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1948,1.0,1,0,27247,Other - Recreation,14317.0,Fitness Center/Health Club/Gym,7701.0,Pre-school/Daycare,3045.0,Compliant,,,2332996.5
+20604,NonResidential,GREATER DUWAMISH,1955,1.0,1,0,26680,Distribution Center,33987.0,,,,,Compliant,92.0,,243518.2031
+20605,NonResidential,DELRIDGE,1953,1.0,1,0,31521,Non-Refrigerated Warehouse,31521.0,,,,,Compliant,6.0,,1788148.0
+20613,NonResidential,GREATER DUWAMISH,1951,1.0,1,0,24000,Non-Refrigerated Warehouse,20400.0,Office,3600.0,,,Compliant,,,1257033.5
+20614,NonResidential,GREATER DUWAMISH,1952,1.0,1,0,21900,Self-Storage Facility,21900.0,,,,,Compliant,,,1333637.625
+20617,NonResidential,GREATER DUWAMISH,1953,1.0,1,0,39900,Retail Store,25000.0,Non-Refrigerated Warehouse,15000.0,,,Error - Correct Default Data,100.0,Low outlier,145468.7969
+20618,NonResidential,GREATER DUWAMISH,1961,1.0,1,0,38005,Non-Refrigerated Warehouse,21560.0,Self-Storage Facility,10974.0,Office,5471.0,Compliant,,,752093.625
+20620,NonResidential,GREATER DUWAMISH,1998,1.0,1,0,35579,Distribution Center,35579.0,,,,,Compliant,72.0,,1096646.25
+20626,NonResidential,GREATER DUWAMISH,1975,1.0,1,0,49950,Distribution Center,49950.0,,,,,Compliant,77.0,,238969.7031
+20645,SPS-District K-12,EAST,2001,1.0,3,0,62078,K-12 School,62078.0,,,,,Error - Correct Default Data,97.0,,1955013.5
+20659,NonResidential,MAGNOLIA / QUEEN ANNE,1947,1.0,2,0,22612,Worship Facility,22612.0,,,,,Compliant,87.0,,731321.8125
+20685,NonResidential,NORTH,1976,1.0,2,0,38787,Automobile Dealership,38787.0,Parking,0.0,,,Compliant,,,3204685.5
+20686,NonResidential,NORTH,1988,2.0,2,0,50368,Self-Storage Facility,50369.0,,,,,Compliant,,,753275.1875
+20707,NonResidential,GREATER DUWAMISH,1938,1.0,1,0,30545,Non-Refrigerated Warehouse,23545.0,Office,7000.0,,,Compliant,12.0,,1577040.875
+20735,NonResidential,MAGNOLIA / QUEEN ANNE,1922,1.0,3,0,32691,K-12 School,33550.0,,,,,Compliant,99.0,,971990.3125
+20743,NonResidential,MAGNOLIA / QUEEN ANNE,1963,1.0,2,0,24227,Worship Facility,26210.0,,,,,Compliant,55.0,,1086678.125
+20768,NonResidential,GREATER DUWAMISH,1956,1.0,1,0,27000,Distribution Center,27000.0,,,,,Compliant,61.0,,651293.3125
+20811,SPS-District K-12,LAKE UNION,1999,1.0,3,0,95501,K-12 School,95501.0,,,,,Error - Correct Default Data,88.0,,3009967.0
+20815,NonResidential,LAKE UNION,1957,1.0,2,0,21183,Office,13945.0,Parking,7238.0,,,Compliant,99.0,,361542.0938
+20818,NonResidential,LAKE UNION,1961,1.0,3,3834,25558,Office,29392.0,Parking,3834.0,,,Compliant,91.0,,755618.1875
+20836,NonResidential,LAKE UNION,1985,1.0,5,55504,82234,Office,77796.0,Parking,55504.0,Other,4438.0,Compliant,62.0,,4704936.5
+20861,NonResidential,LAKE UNION,1988,1.0,3,0,21118,Residence Hall/Dormitory,21118.0,,,,,Compliant,49.0,,1361427.75
+20868,NonResidential,LAKE UNION,2013,1.0,5,79284,126842,Office,101941.0,Parking,73177.0,Other,8324.0,Compliant,98.0,,4489661.0
+20871,NonResidential,LAKE UNION,1900,1.0,2,0,20500,Office,20500.0,,,,,Compliant,48.0,,1326178.125
+20885,NonResidential,BALLARD,1966,1.0,2,31000,3636,Senior Care Community,36000.0,Parking,0.0,,,Compliant,3.0,,12148720.0
+20888,NonResidential,NORTHEAST,1930,1.0,2,0,25521,Worship Facility,25521.0,,,,,Compliant,82.0,,605186.3125
+20890,NonResidential,NORTHEAST,1986,1.0,1,0,23190,K-12 School,23190.0,,,,,Compliant,79.0,,1705515.25
+20916,NonResidential,NORTHWEST,1960,1.0,1,0,20678,Office,23100.0,,,,,Compliant,98.0,,770333.0
+20917,NonResidential,NORTHWEST,1922,1.0,3,0,28820,K-12 School,33780.0,,,,,Compliant,43.0,,2595783.5
+20928,NonResidential,SOUTHEAST,1954,1.0,2,0,27876,Worship Facility,44816.0,,,,,Compliant,69.0,,1829981.375
+20930,SPS-District K-12,MAGNOLIA / QUEEN ANNE,1925,1.0,1,0,48789,K-12 School,48789.0,,,,,Compliant,94.0,,1298307.625
+20967,SPS-District K-12,SOUTHEAST,1925,1.0,1,0,33105,K-12 School,33105.0,,,,,Error - Correct Default Data,79.0,,1725336.25
+20970,NonResidential,SOUTHEAST,1966,1.0,2,7233,41649,Senior Care Community,41922.0,Parking,9079.0,,,Compliant,51.0,,6782435.0
+20976,NonResidential,GREATER DUWAMISH,1977,1.0,1,0,22320,Non-Refrigerated Warehouse,22320.0,,,,,Compliant,62.0,,439065.9063
+20978,NonResidential,GREATER DUWAMISH,1976,1.0,1,0,47105,Manufacturing/Industrial Plant,45320.0,,,,,Compliant,,,10234721.0
+20979,NonResidential,GREATER DUWAMISH,1982,1.0,2,0,40029,Office,31800.0,Non-Refrigerated Warehouse,8200.0,,,Compliant,69.0,,1471914.25
+20984,NonResidential,GREATER DUWAMISH,1970,1.0,2,0,28304,Office,27185.0,,,,,Compliant,67.0,,1269367.5
+20985,NonResidential,GREATER DUWAMISH,1970,1.0,1,0,26400,Other - Recreation,20560.0,Non-Refrigerated Warehouse,7200.0,,,Compliant,,,452612.5
+20986,NonResidential,GREATER DUWAMISH,1968,1.0,1,0,27680,Non-Refrigerated Warehouse,25000.0,Office,2680.0,,,Compliant,,,1778431.75
+20987,NonResidential,GREATER DUWAMISH,1969,1.0,2,0,25872,Office,23272.0,Non-Refrigerated Warehouse,2600.0,,,Compliant,,,1787119.0
+20988,NonResidential,GREATER DUWAMISH,1969,1.0,2,0,25872,Office,24988.0,,,,,Compliant,41.0,,2399353.5
+20989,NonResidential,GREATER DUWAMISH,1969,1.0,1,0,20500,Non-Refrigerated Warehouse,21386.0,,,,,Compliant,65.0,,222600.0938
+21005,NonResidential,LAKE UNION,1958,1.0,2,0,21436,Office,21436.0,,,,,Compliant,95.0,,534703.6875
+21023,NonResidential,NORTHEAST,1998,1.0,1,0,20233,Office,7245.0,Non-Refrigerated Warehouse,6644.0,Other,6344.0,Compliant,,,630250.125
+21057,NonResidential,LAKE UNION,2006,1.0,4,12400,27526,Office,24335.0,Parking,12400.0,Retail Store,2575.0,Compliant,,,1010967.688
+21088,NonResidential,LAKE UNION,1985,1.0,3,8110,23307,Office,26295.0,Parking,12890.0,,,Compliant,94.0,,1126157.25
+21095,NonResidential,DOWNTOWN,1928,1.0,6,0,46580,Self-Storage Facility,46580.0,,,,,Compliant,,,710275.375
+21097,NonResidential,DOWNTOWN,1916,1.0,2,0,25920,Retail Store,25920.0,,,,,Compliant,5.0,,478690.0938
+21102,NonResidential,DOWNTOWN,1919,1.0,2,0,25920,Retail Store,38880.0,,,,,Compliant,93.0,,1011667.5
+21103,NonResidential,DOWNTOWN,1910,1.0,8,0,61721,Hotel,61721.0,,,,,Compliant,93.0,,2897079.75
+21108,NonResidential,DOWNTOWN,1919,1.0,2,0,25920,Office,23995.0,,,,,Compliant,75.0,,1793851.375
+21115,NonResidential,EAST,1925,1.0,4,0,39760,Office,39760.0,,,,,Compliant,92.0,,2478960.0
+21116,NonResidential,EAST,1920,1.0,3,0,30971,Other,30971.0,,,,,Compliant,,,2823184.0
+21117,NonResidential,EAST,1946,1.0,3,0,22667,Office,22667.0,,,,,Compliant,1.0,,3767135.0
+21119,NonResidential,LAKE UNION,1927,1.0,2,0,33840,Non-Refrigerated Warehouse,18740.0,Office,13660.0,Retail Store,1440.0,Compliant,,,2227638.25
+21122,NonResidential,LAKE UNION,2001,5.0,3,9226,32601,Multifamily Housing,14273.0,Office,14128.0,Parking,9680.0,Compliant,,,4193371.0
+21125,NonResidential,LAKE UNION,2001,1.0,5,6010,27730,Office,15908.0,Retail Store,8762.0,Parking,1500.0,Compliant,79.0,,1291405.25
+21129,NonResidential,LAKE UNION,1911,1.0,2,0,20516,Retail Store,10155.0,Hotel,8000.0,,,Compliant,98.0,,1021796.625
+21133,NonResidential,LAKE UNION,1906,1.0,3,0,27480,Retail Store,22218.0,Office,8668.0,,,Compliant,88.0,,1215156.25
+21138,NonResidential,LAKE UNION,1947,1.0,1,0,46958,Office,40313.0,Parking,33976.0,Bar/Nightclub,4579.0,Compliant,95.0,,1818867.875
+21140,NonResidential,LAKE UNION,1984,1.0,1,0,26532,Distribution Center,26532.0,,,,,Compliant,5.0,,1934224.25
+21141,NonResidential,LAKE UNION,1981,1.0,2,0,22388,Office,19600.0,Multifamily Housing,2788.0,,,Compliant,,,576405.125
+21142,NonResidential,LAKE UNION,1969,1.0,1,0,30730,Other,30730.0,,,,,Compliant,,,3050455.25
+21145,NonResidential,LAKE UNION,1986,1.0,2,0,35600,Office,36839.0,Parking,0.0,,,Compliant,47.0,,2173143.75
+21150,NonResidential,MAGNOLIA / QUEEN ANNE,1949,1.0,3,0,62000,Worship Facility,57200.0,Other,5000.0,,,Compliant,81.0,,1799664.125
+21172,NonResidential,MAGNOLIA / QUEEN ANNE,1981,1.0,2,0,23600,Office,23600.0,,,,,Compliant,82.0,,776248.6875
+21177,NonResidential,MAGNOLIA / QUEEN ANNE,1986,1.0,3,0,40067,Office,40067.0,,,,,Compliant,43.0,,2303732.75
+21178,NonResidential,MAGNOLIA / QUEEN ANNE,1989,1.0,3,6922,19497,Office,26419.0,,,,,Compliant,67.0,,1074989.0
+21179,NonResidential,MAGNOLIA / QUEEN ANNE,1979,1.0,3,0,25262,Office,25262.0,,,,,Compliant,54.0,,1469556.25
+21180,NonResidential,LAKE UNION,1996,0.0,3,0,53103,Other,38723.0,,,,,Compliant,,,4877959.0
+21181,NonResidential,MAGNOLIA / QUEEN ANNE,1980,1.0,3,0,34106,Office,32739.0,,,,,Compliant,57.0,,1619177.125
+21182,NonResidential,MAGNOLIA / QUEEN ANNE,1980,1.0,3,0,34545,Office,34545.0,,,,,Compliant,29.0,,2313978.75
+21183,NonResidential,MAGNOLIA / QUEEN ANNE,1980,1.0,3,0,70296,Office,70296.0,,,,,Compliant,86.0,,2782066.5
+25660,NonResidential,DOWNTOWN,1902,1.0,4,0,27838,Office,27838.0,,,,,Compliant,77.0,,1217509.125
+21192,NonResidential,DELRIDGE,1971,2.0,2,0,28368,Distribution Center,35300.0,Office,9408.0,,,Compliant,,,1856230.625
+21208,NonResidential,NORTHWEST,1964,1.0,2,0,92080,Other,92129.0,,,,,Compliant,,,5155090.5
+21212,NonResidential,NORTHWEST,1961,1.0,1,0,20236,Other - Recreation,20236.0,,,,,Compliant,,,1965182.25
+21213,NonResidential,NORTHWEST,1951,1.0,2,0,39815,Office,27118.0,Non-Refrigerated Warehouse,12697.0,,,Compliant,62.0,,2050600.75
+21216,Nonresidential COS,NORTHWEST,1970,1.0,4,0,25557,Residential Care Facility,25557.0,,,,,Compliant,,,2280352.5
+21218,Nonresidential COS,NORTHWEST,1958,1.0,2,0,26994,Other - Services,16243.0,Office,10751.0,,,Compliant,,,3076813.25
+21219,NonResidential,NORTHWEST,1972,1.0,1,0,48112,Non-Refrigerated Warehouse,48112.0,,,,,Compliant,73.0,,1485945.875
+21221,NonResidential,NORTHWEST,2009,1.0,1,0,20909,Other - Public Services,19050.0,Parking,0.0,,,Compliant,,,1208029.25
+21226,NonResidential,NORTHWEST,2001,1.0,2,16518,26275,Office,26275.0,Parking,16518.0,,,Compliant,27.0,,1772188.5
+21233,NonResidential,NORTHWEST,2007,1.0,2,0,45000,Other - Recreation,45000.0,,,,,Compliant,,,5912066.0
+21236,NonResidential,NORTHWEST,1998,1.0,1,0,26115,Retail Store,26115.0,,,,,Compliant,43.0,,1689372.625
+21239,NonResidential,NORTHEAST,1949,1.0,1,0,26033,Worship Facility,30044.0,Parking,0.0,,,Compliant,78.0,,1149140.25
+21243,NonResidential,MAGNOLIA / QUEEN ANNE,2007,1.0,4,0,48660,K-12 School,49468.0,,,,,Compliant,82.0,,1881516.125
+21244,NonResidential,MAGNOLIA / QUEEN ANNE,1970,1.0,2,0,46539,Senior Care Community,46539.0,,,,,Compliant,73.0,,5400049.5
+21262,NonResidential,DOWNTOWN,1909,1.0,4,0,29796,Residence Hall/Dormitory,29796.0,,,,,Compliant,47.0,,2233262.0
+21265,NonResidential,DOWNTOWN,1920,1.0,2,0,26400,Retail Store,14428.0,Office,7200.0,Parking,2788.0,Compliant,36.0,,983595.875
+21266,NonResidential,DOWNTOWN,1918,1.0,3,0,38148,Office,37853.0,Retail Store,12495.0,,,Compliant,98.0,,1262255.75
+21270,NonResidential,LAKE UNION,1928,1.0,2,0,28800,Non-Refrigerated Warehouse,14400.0,Office,14400.0,,,Compliant,,,456953.0
+21278,NonResidential,MAGNOLIA / QUEEN ANNE,1955,1.0,5,0,31945,Worship Facility,31945.0,Parking,0.0,,,Compliant,4.0,,1806468.0
+21290,NonResidential,MAGNOLIA / QUEEN ANNE,1985,1.0,5,33055,52908,Office,52908.0,Parking,33055.0,,,Compliant,43.0,,4480961.0
+21310,NonResidential,DOWNTOWN,1900,1.0,4,0,34680,Retail Store,34680.0,,,,,Compliant,92.0,,1169948.875
+21313,NonResidential,DOWNTOWN,1968,1.0,3,34510,40548,Worship Facility,75058.0,,,,,Compliant,24.0,,5587347.0
+21315,NonResidential,DOWNTOWN,1903,1.0,3,0,57720,Office,25000.0,,,,,Non-Compliant,,Low outlier,24105.5
+21317,NonResidential,DOWNTOWN,1915,1.0,1,0,36504,Retail Store,16200.0,,,,,Compliant,2.0,,2100982.75
+21318,NonResidential,DOWNTOWN,1907,1.0,6,0,35200,Office,35200.0,,,,,Compliant,8.0,,2998208.25
+21319,NonResidential,DOWNTOWN,1907,1.0,5,0,35840,Office,35840.0,,,,,Compliant,83.0,,1538750.625
+21321,NonResidential,DOWNTOWN,1941,1.0,2,0,25920,Bank Branch,23230.0,,,,,Compliant,60.0,,1333432.125
+21322,NonResidential,DOWNTOWN,1928,1.0,4,0,30525,Office,15609.0,Retail Store,6104.0,,,Compliant,17.0,,2883139.0
+21328,NonResidential,EAST,1964,1.0,4,0,49243,Other/Specialty Hospital,52284.0,,,,,Compliant,,,8476183.0
+21336,NonResidential,EAST,1912,0.0,3,0,20411,Social/Meeting Hall,20411.0,,,,,Compliant,,,2014475.875
+21351,NonResidential,EAST,1962,1.0,2,10285,20570,Medical Office,21571.0,,,,,Compliant,2.0,,2946756.25
+21353,NonResidential,EAST,1910,1.0,3,0,73549,Office,41632.0,Worship Facility,31917.0,,,Compliant,90.0,,2828950.5
+21364,NonResidential,EAST,1988,1.0,5,11400,34380,Other - Education,45780.0,Parking,4500.0,,,Compliant,,,10834087.0
+21365,NonResidential,EAST,1963,0.0,3,0,39115,Medical Office,50000.0,,,,,Compliant,42.0,,3735308.5
+21366,NonResidential,EAST,1916,1.0,3,0,38038,Other - Entertainment/Public Assembly,35886.0,Office,1184.0,Food Service,436.0,Compliant,,,1107290.625
+21367,NonResidential,EAST,1962,1.0,3,0,37796,Worship Facility,53000.0,Parking,17600.0,,,Compliant,55.0,,2465983.5
+21380,Nonresidential COS,Ballard,1993,1.0,1,0,27744,Office,18380.0,Other,6060.0,Data Center,3304.0,Compliant,,,5355753.0
+21382,NonResidential,BALLARD,1960,1.0,1,0,36444,Non-Refrigerated Warehouse,36444.0,,,,,Compliant,80.0,,161311.0938
+21388,NonResidential,BALLARD,1950,1.0,1,0,27553,Non-Refrigerated Warehouse,27553.0,,,,,Compliant,63.0,,966677.125
+21389,NonResidential,BALLARD,1951,3.0,1,0,57310,Distribution Center,57310.0,,,,,Compliant,,,1253745.5
+21391,NonResidential,LAKE UNION,1920,1.0,2,0,25920,Office,10109.0,Other - Services,7016.0,Restaurant,3609.0,Compliant,,,989079.5
+21396,NonResidential,LAKE UNION,1919,1.0,3,0,40686,Restaurant,40686.0,,,,,Compliant,,,2106073.5
+21397,NonResidential,LAKE UNION,1964,1.0,2,0,45271,Retail Store,45271.0,,,,,Compliant,57.0,,2553763.5
+21398,NonResidential,LAKE UNION,1920,1.0,3,12180,16200,Office,28380.0,,,,,Compliant,62.0,,1372213.375
+21399,NonResidential,LAKE UNION,2009,1.0,5,0,508160,Office,329850.0,Parking,162894.0,Food Service,11846.0,Compliant,77.0,,28053172.0
+21401,NonResidential,LAKE UNION,1926,1.0,3,0,26176,Office,23730.0,,,,,Compliant,95.0,,966907.375
+21413,NonResidential,LAKE UNION,1926,1.0,1,0,37740,Office,37481.0,Parking,0.0,,,Compliant,1.0,,7442314.5
+21418,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1961,1.0,1,0,26000,Other,49847.0,,,,,Compliant,,,5277482.5
+21424,NonResidential,MAGNOLIA / QUEEN ANNE,2009,1.0,3,0,23241,Worship Facility,23241.0,,,,,Compliant,66.0,,739210.5
+21425,NonResidential,MAGNOLIA / QUEEN ANNE,1962,1.0,1,0,155795,Other,155795.0,,,,,Compliant,,,17673018.0
+21432,Nonresidential COS,MAGNOLIA / QUEEN ANNE,2002,1.0,1,0,21018,Other,21018.0,,,,,Compliant,,,1761137.5
+21433,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1998,1.0,1,0,30533,Museum,28631.0,,,,,Compliant,,,5903015.0
+21435,NonResidential,MAGNOLIA / QUEEN ANNE,1961,1.0,2,0,33971,Other - Recreation,50000.0,,,,,Compliant,,,17686444.0
+21436,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1992,1.0,2,0,40600,Other,33000.0,,,,,Compliant,,,2485521.0
+21438,NonResidential,LAKE UNION,1999,1.0,4,0,38038,Office,38038.0,Parking,19600.0,,,Compliant,84.0,,2003807.75
+21442,NonResidential,LAKE UNION,2007,1.0,4,24596,40000,Office,41591.0,Parking,21350.0,,,Compliant,92.0,,2524228.25
+21443,NonResidential,LAKE UNION,1928,1.0,3,6062,35404,Office,35404.0,Laboratory,5000.0,Parking,1250.0,Compliant,1.0,,9190442.0
+21445,NonResidential,LAKE UNION,2013,1.0,6,100800,29910,Office,120548.0,Parking,88960.0,Bank Branch,5436.0,Compliant,92.0,,7429423.0
+21447,NonResidential,LAKE UNION,1926,1.0,4,0,35780,Office,22341.0,Retail Store,8214.0,Parking,5225.0,Compliant,77.0,,1912760.75
+21459,NonResidential,MAGNOLIA / QUEEN ANNE,1964,1.0,4,7308,17824,Office,8061.0,Parking,8000.0,Restaurant,2095.0,Compliant,41.0,,564754.1875
+21464,Nonresidential COS,DOWNTOWN,1966,1.0,1,0,49680,Other,49680.0,,,,,Compliant,,,2844685.0
+21465,Nonresidential COS,DOWNTOWN,1962,1.0,1,0,36314,Other,36314.0,,,,,Compliant,,,1832808.75
+21468,NonResidential,DOWNTOWN,1916,1.0,2,0,25920,Other - Entertainment/Public Assembly,11888.0,Restaurant,4329.0,Retail Store,4029.0,Compliant,,,1257774.625
+21469,NonResidential,DOWNTOWN,1919,1.0,4,0,47686,Office,25500.0,Retail Store,8500.0,,,Compliant,72.0,,2071670.25
+21474,NonResidential,DOWNTOWN,1900,1.0,3,0,49760,Other,24019.0,,,,,Non-Compliant,,Low outlier,44293.5
+21478,Campus,DOWNTOWN,1900,1.0,2,0,49280,Retail Store,15614.0,Restaurant,9240.0,Social/Meeting Hall,8199.0,Compliant,,,5437110.5
+21482,Campus,DOWNTOWN,1912,1.0,2,0,25380,Restaurant,17114.0,Food Sales,6426.0,Office,1840.0,Compliant,,,6901554.0
+21483,NonResidential,DOWNTOWN,1915,1.0,6,0,40715,Office,20895.0,Retail Store,16260.0,Non-Refrigerated Warehouse,3560.0,Compliant,,,2827772.75
+21488,NonResidential,DOWNTOWN,1990,1.0,4,34800,47265,Parking,36036.0,Office,27594.0,Retail Store,13945.0,Compliant,91.0,,1717130.875
+21495,NonResidential,DOWNTOWN,1910,1.0,4,0,36160,Office,36160.0,,,,,Compliant,47.0,,1862176.875
+21496,NonResidential,DOWNTOWN,1918,1.0,1,0,34617,Other - Restaurant/Bar,6455.0,Office,5813.0,Manufacturing/Industrial Plant,5581.0,Compliant,,,5136604.5
+21505,NonResidential,DOWNTOWN,1909,1.0,5,0,66900,Office,68048.0,,,,,Compliant,100.0,,1634178.25
+21506,NonResidential,DOWNTOWN,1910,1.0,3,0,29340,Office,12714.0,Multifamily Housing,11592.0,Restaurant,2836.0,Compliant,,,2160420.0
+21508,NonResidential,DOWNTOWN,1930,0.0,2,0,22710,Food Service,22710.0,,,,,Compliant,,,287763.5
+21515,NonResidential,LAKE UNION,2000,1.0,3,13540,36959,Office,36959.0,Parking,13540.0,,,Compliant,13.0,,3205182.5
+21520,NonResidential,LAKE UNION,1964,1.0,5,9605,44860,Office,57972.0,Parking,0.0,,,Compliant,68.0,,3600571.25
+21521,NonResidential,EAST,1930,1.0,2,0,45960,K-12 School,45960.0,,,,,Compliant,56.0,,4167253.75
+21530,NonResidential,LAKE UNION,1959,1.0,2,0,21128,Office,21128.0,,,,,Compliant,97.0,,436604.0938
+21533,NonResidential,LAKE UNION,2008,1.0,4,0,274442,Hotel,108763.0,Parking,105499.0,Multifamily Housing,58152.0,Compliant,,,9155568.0
+21534,NonResidential,LAKE UNION,2013,1.0,3,0,51552,Office,54150.0,Data Center,650.0,,,Compliant,,,1539066.375
+21535,NonResidential,LAKE UNION,1959,1.0,4,0,38520,Hotel,38500.0,,,,,Compliant,37.0,,2804534.0
+21537,NonResidential,LAKE UNION,1961,1.0,3,4256,24930,Hotel,19000.0,,,,,Compliant,95.0,,867184.375
+21546,NonResidential,LAKE UNION,1960,1.0,1,0,27338,Worship Facility,27338.0,,,,,Compliant,56.0,,581289.0
+21795,NonResidential,EAST,1999,1.0,2,65640,20110,Parking,65000.0,K-12 School,20000.0,,,Compliant,,,2045592.0
+21549,NonResidential,MAGNOLIA / QUEEN ANNE,1962,1.0,2,0,34416,Laboratory,20649.0,Office,13767.0,Parking,2000.0,Compliant,,,12015936.0
+21550,NonResidential,MAGNOLIA / QUEEN ANNE,1930,1.0,3,0,45864,Office,45864.0,,,,,Compliant,94.0,,2590622.0
+21557,NonResidential,NORTHWEST,1999,1.0,2,0,49252,K-12 School,61099.0,,,,,Compliant,23.0,,3485865.5
+21570,SPS-District K-12,North,1950,1.0,1,0,34005,K-12 School,50337.0,,,,,Error - Correct Default Data,94.0,,991918.0
+21578,SPS-District K-12,SOUTHWEST,1949,1.0,1,0,41221,K-12 School,60814.0,,,,,Error - Correct Default Data,83.0,,2246747.5
+21580,NonResidential,LAKE UNION,1987,1.0,3,0,33176,Office,33176.0,Parking,15000.0,,,Compliant,89.0,,1426279.5
+21582,NonResidential,LAKE UNION,1993,1.0,3,3764,21430,Retail Store,10751.0,Medical Office,8044.0,Office,2635.0,Compliant,,,1878742.875
+21601,SPS-District K-12,SOUTHEAST,2000,1.0,2,0,75605,K-12 School,75605.0,,,,,Error - Correct Default Data,83.0,,2274873.5
+21604,SPS-District K-12,SOUTHEAST,2008,1.0,2,0,29525,K-12 School,29525.0,,,,,Error - Correct Default Data,77.0,,1297812.75
+21611,NonResidential,GREATER DUWAMISH,1977,1.0,99,0,21948,Worship Facility,21948.0,,,,,Compliant,80.0,,326001.1875
+21613,NonResidential,EAST,1927,1.0,3,0,31191,Other - Recreation,30095.0,Self-Storage Facility,1096.0,,,Compliant,,,5876439.0
+21616,SPS-District K-12,NORTH,1954,1.0,1,0,42292,K-12 School,43188.0,,,,,Error - Correct Default Data,100.0,,0.0
+21617,NonResidential,NORTH,1947,1.0,1,0,37377,"Repair Services (Vehicle, Shoe, Locksmith, etc)",31303.0,Retail Store,3468.0,Office,840.0,Compliant,,,3040978.0
+21622,NonResidential,GREATER DUWAMISH,1977,1.0,1,0,29380,Non-Refrigerated Warehouse,16768.0,Office,6837.0,Other,5775.0,Compliant,33.0,,856088.625
+21656,NonResidential,EAST,1922,1.0,2,0,22688,Worship Facility,22688.0,,,,,Compliant,87.0,,331675.0
+21687,NonResidential,SOUTHEAST,1962,1.0,2,0,22364,Adult Education,22364.0,Parking,0.0,,,Compliant,,,1467029.75
+21689,NonResidential,GREATER DUWAMISH,1982,1.0,2,0,41262,Office,40738.0,,,,,Compliant,84.0,,1903455.875
+21716,NonResidential,LAKE UNION,1953,1.0,2,0,43183,Office,26580.0,Data Center,11497.0,,,Compliant,,,7408342.0
+21723,NonResidential,NORTH,1908,1.0,3,0,45680,Worship Facility,45680.0,,,,,Compliant,79.0,,2077039.375
+21741,NonResidential,LAKE UNION,2006,1.0,14,0,724148,Senior Care Community,726000.0,,,,,Compliant,8.0,,37797084.0
+21768,NonResidential,SOUTHWEST,1957,1.0,1,0,23562,Worship Facility,18278.0,Office,15212.0,,,Compliant,96.0,,531737.1875
+21772,NonResidential,Ballard,1999,1.0,4,0,28844,Office,10292.0,Other,10200.0,,,Compliant,,,910718.6875
+21774,SPS-District K-12,DELRIDGE,1988,1.0,2,0,54528,K-12 School,54285.0,,,,,Error - Correct Default Data,75.0,,1972078.625
+21783,NonResidential,GREATER DUWAMISH,1989,1.0,1,0,21101,Non-Refrigerated Warehouse,18373.0,Office,2728.0,,,Compliant,,,675772.875
+21784,NonResidential,GREATER DUWAMISH,1914,1.0,2,0,45594,Refrigerated Warehouse,45594.0,,,,,Compliant,75.0,,1351267.875
+21785,NonResidential,GREATER DUWAMISH,1950,1.0,1,0,26660,Manufacturing/Industrial Plant,26660.0,,,,,Compliant,,,2241280.5
+21786,NonResidential,GREATER DUWAMISH,1975,1.0,1,0,28126,Non-Refrigerated Warehouse,21780.0,Office,6346.0,,,Compliant,44.0,,870625.8125
+21787,NonResidential,GREATER DUWAMISH,1964,1.0,1,0,35000,Non-Refrigerated Warehouse,35000.0,,,,,Compliant,53.0,,378714.4063
+21792,NonResidential,GREATER DUWAMISH,1962,1.0,1,0,26150,Non-Refrigerated Warehouse,26150.0,,,,,Compliant,6.0,,1208407.625
+21793,NonResidential,GREATER DUWAMISH,1967,1.0,2,0,24000,Office,24000.0,,,,,Compliant,73.0,,1088556.25
+21794,NonResidential,EAST,1968,1.0,5,0,43594,K-12 School,40809.0,,,,,Compliant,38.0,,2478045.5
+21822,NonResidential,LAKE UNION,1912,1.0,1,0,28080,Distribution Center,25580.0,Office,2500.0,,,Compliant,,,794724.625
+21879,NonResidential,NORTHWEST,1954,1.0,2,0,51298,Senior Care Community,51298.0,,,,,Compliant,85.0,,5655578.0
+21883,NonResidential,NORTHWEST,1962,1.0,1,0,22047,Worship Facility,22898.0,Parking,0.0,,,Compliant,100.0,,265774.9063
+21893,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,31600,Non-Refrigerated Warehouse,31600.0,,,,,Compliant,3.0,,3363535.5
+21894,NonResidential,GREATER DUWAMISH,2007,1.0,1,0,35289,Non-Refrigerated Warehouse,35289.0,,,,,Compliant,63.0,,876425.0
+21896,NonResidential,GREATER DUWAMISH,1981,1.0,1,0,28920,Non-Refrigerated Warehouse,30000.0,,,,,Compliant,50.0,,1750419.0
+21897,NonResidential,GREATER DUWAMISH,1978,1.0,1,0,22176,Non-Refrigerated Warehouse,22176.0,,,,,Compliant,60.0,,736428.625
+21898,NonResidential,GREATER DUWAMISH,1978,1.0,1,0,31300,Non-Refrigerated Warehouse,31300.0,,,,,Error - Correct Default Data,89.0,,362874.0
+21902,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,22000,Non-Refrigerated Warehouse,22000.0,Parking,0.0,,,Error - Correct Default Data,14.0,,700627.625
+21904,NonResidential,NORTH,1974,1.0,3,0,39927,Office,39541.0,Parking,0.0,,,Compliant,38.0,,3568419.5
+21905,NonResidential,NORTH,1979,1.0,1,0,30610,Other - Recreation,23320.0,Office,7290.0,,,Compliant,,,4294550.0
+21907,NonResidential,NORTH,1980,1.0,2,6350,20580,Medical Office,26930.0,,,,,Compliant,64.0,,1002995.0
+21909,NonResidential,NORTH,1968,1.0,2,0,38745,Medical Office,65069.0,Parking,0.0,,,Compliant,76.0,,2890379.0
+21913,NonResidential,NORTHEAST,1959,1.0,2,0,20296,Self-Storage Facility,20296.0,,,,,Compliant,,,855665.125
+21916,NonResidential,NORTHEAST,1945,1.0,2,0,22135,Medical Office,10388.0,Office,8116.0,Retail Store,3200.0,Compliant,,,1261634.5
+21917,NonResidential,NORTHEAST,1967,1.0,3,0,38378,Medical Office,35066.0,Parking,3312.0,,,Compliant,86.0,,1645605.125
+21920,NonResidential,NORTHEAST,1980,1.0,2,0,33576,Non-Refrigerated Warehouse,33576.0,,,,,Compliant,64.0,,1275231.75
+21921,NonResidential,NORTHEAST,1975,1.0,1,0,33005,Supermarket/Grocery Store,34982.0,Parking,0.0,,,Compliant,21.0,,10642754.0
+21945,NonResidential,EAST,1981,1.0,1,0,20971,Parking,23483.0,Retail Store,10360.0,Medical Office,8509.0,Compliant,,,729397.1875
+21955,NonResidential,MAGNOLIA / QUEEN ANNE,1927,1.0,3,0,23910,Office,20000.0,Retail Store,3910.0,,,Compliant,,,873577.3125
+21964,NonResidential,BALLARD,1910,1.0,2,0,21765,Worship Facility,21765.0,,,,,Compliant,80.0,,431390.4063
+22062,Campus,EAST,1939,1.0,2,0,2200000,College/University,1719643.0,Parking,318960.0,,,Compliant,,,114648520.0
+22078,NonResidential,CENTRAL,1901,1.0,2,0,26560,Worship Facility,26560.0,,,,,Compliant,1.0,,1751483.875
+22095,NonResidential,LAKE UNION,1957,1.0,2,0,20140,Non-Refrigerated Warehouse,20140.0,,,,,Compliant,49.0,,116486.6016
+22139,NonResidential,GREATER DUWAMISH,1992,1.0,2,0,38845,Retail Store,38845.0,Parking,6000.0,,,Compliant,82.0,,6917280.0
+22142,NonResidential,GREATER DUWAMISH,1953,1.0,1,0,26092,Supermarket/Grocery Store,25946.0,Parking,0.0,,,Compliant,40.0,,7619445.0
+22149,SPS-District K-12,NORTH,1955,1.0,1,0,38582,K-12 School,40374.0,,,,,Error - Correct Default Data,85.0,,1848878.5
+22163,NonResidential,GREATER DUWAMISH,1967,1.0,1,0,25500,Office,25500.0,,,,,Compliant,98.0,,1213869.75
+22165,NonResidential,GREATER DUWAMISH,1961,1.0,1,0,41895,Non-Refrigerated Warehouse,37524.0,Office,2596.0,,,Compliant,,,1242311.5
+22166,NonResidential,GREATER DUWAMISH,1958,1.0,2,0,56193,Retail Store,56193.0,,,,,Compliant,,,2497942.75
+22223,NonResidential,BALLARD,1922,1.0,3,0,35448,K-12 School,35448.0,,,,,Compliant,97.0,,1379932.5
+22230,NonResidential,BALLARD,1966,1.0,1,0,29214,Supermarket/Grocery Store,29214.0,,,,,Compliant,8.0,,9336239.0
+22240,NonResidential,BALLARD,2000,1.0,1,43035,46068,Supermarket/Grocery Store,47034.0,Parking,0.0,,,Compliant,34.0,,14029480.0
+22252,NonResidential,BALLARD,1961,1.0,1,0,32000,Other - Recreation,29880.0,Office,4700.0,,,Compliant,,,1331122.125
+22259,NonResidential,BALLARD,1910,1.0,2,0,31140,Other,14840.0,Retail Store,9400.0,Non-Refrigerated Warehouse,6900.0,Compliant,,,935580.3125
+22261,NonResidential,BALLARD,1975,1.0,3,0,41478,Non-Refrigerated Warehouse,31932.0,Office,9546.0,,,Compliant,3.0,,3035962.25
+22264,NonResidential,BALLARD,1980,1.0,1,0,39840,Non-Refrigerated Warehouse,39840.0,,,,,Compliant,2.0,,752104.0
+22312,Nonresidential COS,BALLARD,2004,1.0,1,15576,15000,Library,15000.0,Other - Services,3100.0,,,Compliant,,,1533245.75
+22327,NonResidential,BALLARD,1924,1.0,2,0,21528,Social/Meeting Hall,21528.0,,,,,Compliant,,,306911.0938
+22332,NonResidential,BALLARD,1928,1.0,2,0,30000,Strip Mall,25828.0,Parking,0.0,,,Compliant,,,1094940.75
+22420,NonResidential,BALLARD,1942,1.0,2,0,30087,Other,30554.0,,,,,Compliant,,,5274642.0
+22438,NonResidential,BALLARD,1975,1.0,1,0,40445,Worship Facility,40445.0,,,,,Compliant,92.0,,786253.6875
+22440,NonResidential,BALLARD,1996,1.0,1,0,23500,Retail Store,23500.0,,,,,Compliant,53.0,,1137967.5
+22454,NonResidential,Ballard,1967,1.0,1,0,22420,Retail Store,23067.0,,,,,Compliant,82.0,,1404253.75
+22479,NonResidential,MAGNOLIA / QUEEN ANNE,1961,1.0,1,0,25842,Supermarket/Grocery Store,25987.0,,,,,Compliant,35.0,,8518313.0
+22480,NonResidential,MAGNOLIA / QUEEN ANNE,1992,1.0,3,0,26389,Office,16766.0,Fitness Center/Health Club/Gym,9623.0,,,Compliant,,,1208035.375
+22486,NonResidential,MAGNOLIA / QUEEN ANNE,1982,1.0,3,0,25859,Office,25859.0,Parking,4000.0,,,Compliant,88.0,,858780.625
+22502,NonResidential,MAGNOLIA / QUEEN ANNE,1974,1.0,1,0,25600,Non-Refrigerated Warehouse,20600.0,Office,5000.0,,,Compliant,1.0,,1730600.625
+22504,NonResidential,MAGNOLIA / QUEEN ANNE,1965,1.0,1,0,23169,Manufacturing/Industrial Plant,10200.0,,,,,Compliant,,,222255.9063
+22509,NonResidential,MAGNOLIA / QUEEN ANNE,2008,1.0,4,8399,33385,Office,33385.0,Parking,8399.0,,,Compliant,89.0,,1294615.25
+22511,NonResidential,MAGNOLIA / QUEEN ANNE,1960,1.0,1,0,56884,Non-Refrigerated Warehouse,56884.0,,,,,Compliant,71.0,,1388345.125
+22519,NonResidential,BALLARD,1989,1.0,1,0,32810,Retail Store,32810.0,,,,,Compliant,66.0,,2017967.75
+22547,NonResidential,MAGNOLIA / QUEEN ANNE,1980,1.0,3,0,30989,Self-Storage Facility,30989.0,,,,,Compliant,,,97690.39844
+22548,NonResidential,MAGNOLIA / QUEEN ANNE,1915,1.0,3,0,39952,Self-Storage Facility,39952.0,,,,,Compliant,,,57133.19922
+22574,NonResidential,MAGNOLIA / QUEEN ANNE,1961,1.0,2,0,20022,Office,20784.0,,,,,Compliant,80.0,,657385.8125
+22577,NonResidential,MAGNOLIA / QUEEN ANNE,1960,1.0,2,0,36498,Distribution Center,18229.0,Non-Refrigerated Warehouse,17200.0,,,Compliant,89.0,,520011.8125
+22579,NonResidential,MAGNOLIA / QUEEN ANNE,1968,1.0,1,0,35946,Distribution Center,31845.0,Office,4101.0,,,Compliant,,,469499.8125
+22585,NonResidential,MAGNOLIA / QUEEN ANNE,2007,1.0,4,5680,24472,Office,25184.0,Parking,4968.0,,,Compliant,96.0,,845044.125
+22607,NonResidential,MAGNOLIA / QUEEN ANNE,1979,1.0,4,0,22365,Office,21617.0,,,,,Compliant,71.0,,727385.8125
+22609,NonResidential,MAGNOLIA / QUEEN ANNE,1994,1.0,4,0,30172,Office,30172.0,,,,,Compliant,82.0,,904059.875
+22650,NonResidential,BALLARD,1927,1.0,4,0,42500,Non-Refrigerated Warehouse,42500.0,Retail Store,5091.0,,,Compliant,100.0,,241478.5938
+22654,NonResidential,BALLARD,1901,1.0,4,0,23032,Office,14448.0,Restaurant,5300.0,Retail Store,1460.0,Compliant,,,1121537.75
+22672,NonResidential,BALLARD,1900,1.0,3,4914,40836,Other,42850.0,Parking,2900.0,,,Compliant,,,7240274.0
+22676,NonResidential,BALLARD,1968,1.0,2,0,23500,Office,23500.0,,,,,Compliant,26.0,,1686405.0
+22678,NonResidential,BALLARD,1966,1.0,1,0,22282,Office,22282.0,,,,,Compliant,93.0,,579888.3125
+22679,NonResidential,BALLARD,1902,1.0,2,0,24000,Self-Storage Facility,24000.0,,,,,Compliant,,,502898.6875
+22684,NonResidential,BALLARD,1909,1.0,3,0,27085,Strip Mall,9500.0,Office,8196.0,Multifamily Housing,6700.0,Compliant,,,1995131.75
+22801,Nonresidential COS,NORTH,1996,0.0,2,0,29258,Other - Recreation,31991.0,Fitness Center/Health Club/Gym,2648.0,Swimming Pool,0.0,Compliant,,,8086943.5
+22804,NonResidential,NORTH,1931,1.0,2,0,37500,Office,37500.0,,,,,Compliant,58.0,,2235765.5
+22810,NonResidential,NORTHWEST,1930,1.0,3,0,23983,K-12 School,23983.0,,,,,Compliant,61.0,,1164364.75
+22818,NonResidential,DELRIDGE,1980,1.0,1,0,24100,Distribution Center,20100.0,Non-Refrigerated Warehouse,3500.0,,,Compliant,22.0,,809870.8125
+22830,NonResidential,SOUTHWEST,1971,1.0,1,0,23772,Worship Facility,23772.0,,,,,Non-Compliant,100.0,Low outlier,100841.7031
+22834,NonResidential,NORTHEAST,2004,3.0,2,0,31343,K-12 School,51515.0,,,,,Compliant,5.0,,3846501.25
+22860,NonResidential,NORTHWEST,1996,1.0,3,22850,33062,Parking,24052.0,Office,23501.0,Retail Store,9561.0,Compliant,,,2450442.75
+22863,NonResidential,MAGNOLIA / QUEEN ANNE,1957,1.0,2,0,20294,Other,18000.0,Office,2294.0,,,Compliant,,,1735995.75
+22866,NonResidential,MAGNOLIA / QUEEN ANNE,1983,1.0,4,10849,29722,Office,24008.0,,,,,Compliant,64.0,,1286817.375
+22867,NonResidential,MAGNOLIA / QUEEN ANNE,1983,1.0,4,15659,26048,Office,41707.0,Parking,12000.0,,,Compliant,78.0,,1755788.5
+22881,NonResidential,MAGNOLIA / QUEEN ANNE,1960,1.0,2,0,57644,Office,20176.0,Other - Services,19440.0,Non-Refrigerated Warehouse,15490.0,Compliant,,,2189735.0
+22883,NonResidential,MAGNOLIA / QUEEN ANNE,1955,1.0,2,0,39497,Non-Refrigerated Warehouse,25547.0,Office,13950.0,,,Compliant,9.0,,1700057.375
+22936,Nonresidential COS,EAST,1932,1.0,1,0,33087,Other - Entertainment/Public Assembly,53776.0,,,,,Compliant,,,3548858.25
+22940,NonResidential,NORTHWEST,1982,1.0,2,0,27574,Office,27574.0,,,,,Compliant,73.0,,1211349.25
+22953,NonResidential,NORTH,1965,1.0,1,0,24982,Retail Store,24982.0,,,,,Error - Correct Default Data,99.0,,335245.0
+22955,NonResidential,North,1998,1.0,5,0,43661,Senior Care Community,43661.0,Parking,0.0,,,Compliant,4.0,,3936421.5
+22962,NonResidential,NORTHWEST,1987,1.0,3,27307,48798,Office,76105.0,,,,,Compliant,91.0,,2472350.25
+23008,NonResidential,North,1952,1.0,2,0,32009,Non-Refrigerated Warehouse,17500.0,Retail Store,15770.0,Office,4000.0,Compliant,,,1998725.25
+23011,NonResidential,NORTH,1966,1.0,1,0,41615,Retail Store,41615.0,,,,,Error - Correct Default Data,69.0,,1900006.25
+23017,NonResidential,NORTH,1988,1.0,3,0,28841,Medical Office,28841.0,,,,,Compliant,55.0,,1459199.75
+23020,NonResidential,NORTH,1977,2.0,2,0,33344,Self-Storage Facility,31360.0,Office,984.0,Parking,0.0,Compliant,,,123767.2031
+23022,Nonresidential COS,NORTH,2005,2.0,1,0,30498,Other - Recreation,30498.0,,,,,Compliant,,,2436063.0
+23040,NonResidential,DELRIDGE,1924,1.0,2,0,42975,K-12 School,21405.0,,,,,Compliant,92.0,,959352.0
+23049,NonResidential,DELRIDGE,1963,1.0,1,0,23260,"Repair Services (Vehicle, Shoe, Locksmith, etc)",13075.0,Office,10185.0,,,Compliant,,,1612105.75
+23051,NonResidential,DELRIDGE,1988,1.0,2,0,30659,Office,27262.0,Non-Refrigerated Warehouse,8653.0,Data Center,285.0,Compliant,88.0,,2619088.5
+23056,NonResidential,MAGNOLIA / QUEEN ANNE,1920,1.0,2,0,27144,Other,27144.0,,,,,Compliant,,,1012024.313
+23064,NonResidential,NORTHWEST,1970,5.0,1,0,23166,Other,23166.0,,,,,Compliant,,,3475804.25
+23065,NonResidential,NORTHWEST,1979,1.0,2,0,34759,Medical Office,44667.0,Parking,0.0,,,Compliant,81.0,,1633105.375
+23071,NonResidential,NORTHWEST,1966,8.0,1,0,415632,Hospital (General Medical & Surgical),483520.0,Parking,266833.0,,,Compliant,85.0,,98960776.0
+23076,NonResidential,NORTHWEST,1965,1.0,2,0,44719,Worship Facility,45909.0,Medical Office,1025.0,Office,972.0,Compliant,,,1614026.25
+23098,NonResidential,GREATER DUWAMISH,1965,1.0,1,0,21603,Supermarket/Grocery Store,21603.0,,,,,Compliant,16.0,,5833800.0
+23113,NonResidential,EAST,1964,1.0,3,0,591981,Medical Office,520187.0,Parking,282392.0,Other/Specialty Hospital,54159.0,Compliant,60.0,,102673696.0
+23115,NonResidential,DELRIDGE,1979,1.0,1,0,42900,Distribution Center,43050.0,,,,,Compliant,53.0,,436252.5
+23117,Campus,DELRIDGE,2005,5.0,1,0,57952,Adult Education,57952.0,,,,,Compliant,,,3091387.5
+23120,NonResidential,DELRIDGE,1971,1.0,1,0,26232,Other - Services,18262.0,Office,7970.0,,,Compliant,,,3094090.0
+23158,NonResidential,DOWNTOWN,1956,1.0,2,0,25840,Non-Refrigerated Warehouse,25840.0,,,,,Compliant,92.0,,313528.0938
+23161,NonResidential,DOWNTOWN,1988,1.0,1,0,45145,Office,43813.0,,,,,Compliant,,,1268459.0
+23164,NonResidential,DOWNTOWN,2001,1.0,5,22095,48237,Office,44417.0,Parking,25915.0,,,Compliant,89.0,,1981115.25
+23204,SPS-District K-12,GREATER DUWAMISH,1971,1.0,1,0,50546,K-12 School,53234.0,,,,,Error - Correct Default Data,94.0,,1155080.5
+23228,NonResidential,BALLARD,1994,1.0,1,0,45522,Supermarket/Grocery Store,45522.0,Parking,0.0,,,Compliant,22.0,,12250422.0
+23231,NonResidential,NORTHWEST,1979,1.0,2,0,20088,Retail Store,16080.0,Office,3500.0,Parking,508.0,Compliant,,,326778.6875
+23265,Campus,GREATER DUWAMISH,1989,5.0,2,0,138907,Other,139557.0,,,,,Compliant,,,7837692.5
+23268,NonResidential,GREATER DUWAMISH,1997,1.0,2,0,40657,Office,40657.0,Parking,0.0,,,Compliant,57.0,,2826828.0
+23277,NonResidential,GREATER DUWAMISH,1900,1.0,1,0,20200,Non-Refrigerated Warehouse,18700.0,Office,1500.0,,,Compliant,,,269016.6875
+23297,NonResidential,EAST,1904,1.0,1,0,44086,Residence Hall/Dormitory,44091.0,,,,,Compliant,29.0,,3652708.75
+23299,NonResidential,EAST,1970,1.0,7,20824,33548,Office,54372.0,Parking,15000.0,,,Compliant,94.0,,1403820.0
+23310,NonResidential,EAST,1951,1.0,1,0,47699,Museum,47000.0,Parking,0.0,,,Compliant,,,14524386.0
+23311,NonResidential,EAST,1945,1.0,0,0,274568,Medical Office,228133.0,Parking,135954.0,,,Compliant,52.0,,25311526.0
+23313,NonResidential,EAST,1956,1.0,3,0,21282,Office,19658.0,,,,,Compliant,69.0,,1245923.75
+23320,NonResidential,SOUTHEAST,1921,1.0,2,0,41022,Other,41022.0,,,,,Compliant,,,3787648.25
+23397,NonResidential,DELRIDGE,1966,1.0,2,0,28109,Other,28109.0,,,,,Compliant,,,3612526.75
+23331,NonResidential,NORTH,1985,1.0,3,12990,20590,Office,20590.0,Parking,12990.0,,,Compliant,100.0,,409578.4063
+23342,NonResidential,NORTH,1977,1.0,1,0,21936,Non-Refrigerated Warehouse,21936.0,,,,,Compliant,100.0,,113130.0
+23343,NonResidential,NORTH,1969,1.0,1,0,30160,Other,30139.0,,,,,Compliant,,,1045838.5
+23368,NonResidential,DOWNTOWN,1909,1.0,11,0,111137,Office,42939.0,Multifamily Housing,40878.0,Bank Branch,10887.0,Compliant,,,9546165.0
+23396,NonResidential,Delridge,1997,1.0,1,0,40189,Other - Utility,28347.0,Office,9113.0,Parking,0.0,Compliant,,,1509292.0
+23400,NonResidential,DELRIDGE,1988,1.0,2,0,66484,Office,49334.0,Non-Refrigerated Warehouse,18000.0,Retail Store,9000.0,Compliant,69.0,,3046543.0
+23404,NonResidential,EAST,1959,1.0,3,0,25151,Office,24155.0,,,,,Compliant,85.0,,1356874.75
+23408,NonResidential,EAST,1928,1.0,6,0,35770,Hotel,35770.0,,,,,Compliant,56.0,,2640980.25
+23410,NonResidential,EAST,1928,1.0,9,0,48006,Hotel,48006.0,,,,,Compliant,85.0,,3239754.0
+23416,NonResidential,DOWNTOWN,1960,1.0,2,0,29631,Supermarket/Grocery Store,16000.0,Office,13000.0,Restaurant,5000.0,Compliant,,,5144392.0
+23418,NonResidential,DOWNTOWN,1989,1.0,2,0,23472,Office,20695.0,Other,1065.0,Retail Store,945.0,Compliant,,,1625308.625
+23419,Nonresidential COS,GREATER DUWAMISH,1973,1.0,2,0,21315,Office,20424.0,,,,,Compliant,34.0,,2796425.0
+23459,NonResidential,MAGNOLIA / QUEEN ANNE,1984,1.0,4,15812,41298,Office,36867.0,Parking,28390.0,,,Compliant,69.0,,2190460.0
+23846,NonResidential,DOWNTOWN,1979,1.0,3,0,34030,Office,34030.0,,,,,Compliant,50.0,,1748629.875
+23503,NonResidential,SOUTHWEST,1902,1.0,2,0,20398,Restaurant,19232.0,Office,1166.0,,,Compliant,,,9313513.0
+23504,NonResidential,GREATER DUWAMISH,1952,1.0,1,0,41308,Distribution Center,41308.0,,,,,Compliant,7.0,,1642471.5
+23562,NonResidential,DOWNTOWN,1913,1.0,3,0,43878,Multifamily Housing,12000.0,Office,8262.0,Retail Store,6312.0,Compliant,,,769771.3125
+23566,NonResidential,MAGNOLIA / QUEEN ANNE,1912,1.0,3,0,34976,Performing Arts,34976.0,,,,,Compliant,,,873711.125
+23618,NonResidential,MAGNOLIA / QUEEN ANNE,1957,1.0,1,0,38255,Non-Refrigerated Warehouse,38255.0,,,,,Compliant,12.0,,985401.8125
+23622,Campus,MAGNOLIA / QUEEN ANNE,1955,23.0,1,0,260241,Other,260241.0,,,,,Compliant,,,34012980.0
+23653,NonResidential,LAKE UNION,1989,1.0,3,0,48924,Office,31325.0,Parking,13143.0,,,Compliant,71.0,,2282551.25
+23671,NonResidential,LAKE UNION,1959,1.0,4,18036,32297,Office,50333.0,,,,,Compliant,88.0,,1602084.375
+23672,NonResidential,LAKE UNION,1986,1.0,4,21906,35526,Office,34160.0,Parking,19650.0,,,Compliant,,,2520483.25
+23673,NonResidential,LAKE UNION,1969,1.0,3,7956,17956,Office,17332.0,Parking,9162.0,,,Compliant,,,666740.3125
+23674,NonResidential,LAKE UNION,2000,1.0,3,21908,35224,Office,33705.0,Parking,21908.0,,,Compliant,73.0,,1994967.75
+23689,NonResidential,DELRIDGE,1957,1.0,2,0,24224,Worship Facility,24224.0,Parking,0.0,,,Compliant,52.0,,968026.3125
+23691,NonResidential,DELRIDGE,1963,1.0,1,0,23706,Worship Facility,23706.0,,,,,Compliant,78.0,,400770.9063
+23701,NonResidential,GREATER DUWAMISH,1963,1.0,1,0,31900,Non-Refrigerated Warehouse,28000.0,Office,4000.0,,,Compliant,,,1964681.25
+23711,NonResidential,SOUTHWEST,1917,1.0,1,0,49066,Social/Meeting Hall,49000.0,,,,,Compliant,,,3835202.0
+23712,NonResidential,SOUTHWEST,1952,1.0,3,0,30740,Worship Facility,28293.0,Other - Recreation,11630.0,,,Compliant,,,1686262.25
+23716,NonResidential,SOUTHEAST,1959,1.0,1,0,67450,Supermarket/Grocery Store,42760.0,,,,,Compliant,97.0,,2842819.5
+23722,SPS-District K-12,BALLARD,1958,1.0,1,0,39971,K-12 School,40867.0,,,,,Missing Data,,,0.0
+23730,NonResidential,MAGNOLIA / QUEEN ANNE,1948,1.0,1,0,46970,Non-Refrigerated Warehouse,46970.0,,,,,Compliant,,,882896.5
+23736,NonResidential,MAGNOLIA / QUEEN ANNE,1931,1.0,1,0,47554,Non-Refrigerated Warehouse,18133.0,Office,8679.0,Retail Store,2388.0,Compliant,,,1035554.688
+23742,NonResidential,MAGNOLIA / QUEEN ANNE,1979,1.0,2,5400,37616,Office,43016.0,,,,,Compliant,100.0,,1234095.5
+23743,NonResidential,MAGNOLIA / QUEEN ANNE,1931,1.0,1,0,24196,Other,8711.0,Non-Refrigerated Warehouse,6792.0,Office,5306.0,Compliant,,,1055033.0
+23744,NonResidential,MAGNOLIA / QUEEN ANNE,1940,1.0,2,0,20671,Office,20671.0,,,,,Compliant,98.0,,638507.125
+23757,NonResidential,GREATER DUWAMISH,1927,1.0,1,0,21600,Non-Refrigerated Warehouse,21600.0,,,,,Compliant,57.0,,499828.5938
+23762,NonResidential,SOUTHWEST,1977,1.0,1,0,35844,Worship Facility,35844.0,,,,,Compliant,14.0,,866126.375
+23768,NonResidential,LAKE UNION,1916,1.0,3,0,31774,Office,19896.0,Retail Store,13941.0,Parking,0.0,Compliant,85.0,,1639136.25
+23834,NonResidential,GREATER DUWAMISH,1953,1.0,1,0,26094,Non-Refrigerated Warehouse,26094.0,,,,,Compliant,19.0,,709990.8125
+23835,NonResidential,GREATER DUWAMISH,1983,1.0,2,0,23687,Office,23687.0,,,,,Compliant,68.0,,1084553.75
+23836,NonResidential,GREATER DUWAMISH,1983,1.0,2,0,24221,Office,24221.0,,,,,Compliant,20.0,,1435562.75
+23857,NonResidential,DOWNTOWN,1900,1.0,2,14083,57836,Office,34550.0,Retail Store,23085.0,Parking,11465.0,Compliant,37.0,,5381105.0
+23858,NonResidential,DOWNTOWN,1900,1.0,2,0,32027,Office,17526.0,Retail Store,14501.0,,,Compliant,54.0,,3999505.25
+23861,NonResidential,DOWNTOWN,1906,1.0,3,0,32160,Office,35693.0,Retail Store,14219.0,,,Compliant,,,2805826.0
+23863,NonResidential,GREATER DUWAMISH,1992,1.0,3,7572,40264,Other - Lodging/Residential,43336.0,Parking,4500.0,,,Compliant,,,3540225.75
+23867,NonResidential,GREATER DUWAMISH,1914,1.0,3,0,34425,Office,34425.0,Non-Refrigerated Warehouse,15536.0,,,Compliant,84.0,,2018385.75
+23877,SPS-District K-12,GREATER DUWAMISH,1971,1.0,2,0,52609,K-12 School,52609.0,,,,,Error - Correct Default Data,67.0,,1801941.75
+23888,NonResidential,SOUTHWEST,1984,1.0,3,12000,28304,Medical Office,20106.0,Parking,16412.0,,,Compliant,5.0,,1961581.5
+23896,NonResidential,GREATER DUWAMISH,1990,1.0,1,0,29619,Distribution Center,15000.0,Office,14619.0,,,Compliant,50.0,,1280263.75
+23906,NonResidential,CENTRAL,1922,1.0,2,0,21592,K-12 School,20700.0,,,,,Compliant,47.0,,1431784.0
+23956,NonResidential,NORTH,1931,1.0,2,0,23923,K-12 School,23923.0,,,,,Compliant,69.0,,805643.5
+23910,NonResidential,CENTRAL,1907,1.0,3,0,25200,Office,16000.0,Retail Store,8000.0,,,Compliant,47.0,,1748444.25
+23912,NonResidential,CENTRAL,1947,1.0,1,0,45068,Office,45068.0,,,,,Non-Compliant,100.0,Low outlier,284857.3125
+23918,NonResidential,CENTRAL,1963,1.0,2,0,28296,Office,26899.0,,,,,Compliant,80.0,,1328461.25
+23928,NonResidential,CENTRAL,1999,1.0,3,0,31357,Office,25500.0,Medical Office,5000.0,Parking,0.0,Compliant,55.0,,1965075.625
+23930,NonResidential,GREATER DUWAMISH,1968,1.0,1,0,160000,Distribution Center,160000.0,,,,,Compliant,94.0,,1157976.5
+23934,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,53550,Non-Refrigerated Warehouse,53550.0,,,,,Compliant,11.0,,4590246.5
+23935,NonResidential,GREATER DUWAMISH,1924,1.0,1,0,38412,Non-Refrigerated Warehouse,32000.0,Office,8000.0,,,Compliant,62.0,,1628540.0
+23936,NonResidential,GREATER DUWAMISH,1930,1.0,1,0,25881,Self-Storage Facility,25881.0,,,,,Compliant,,,545426.375
+23951,NonResidential,GREATER DUWAMISH,1953,1.0,1,0,24291,Office,24023.0,,,,,Compliant,98.0,,655422.375
+23952,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,36544,Non-Refrigerated Warehouse,36544.0,,,,,Compliant,5.0,,1269847.75
+23958,NonResidential,GREATER DUWAMISH,1949,1.0,1,0,20796,Non-Refrigerated Warehouse,20796.0,,,,,Compliant,,,1324092.125
+23960,NonResidential,GREATER DUWAMISH,1947,1.0,1,0,21349,Distribution Center,13000.0,Office,8349.0,,,Compliant,70.0,,659761.875
+23963,NonResidential,GREATER DUWAMISH,1936,1.0,1,0,38630,Non-Refrigerated Warehouse,38500.0,,,,,Compliant,33.0,,416885.5938
+23964,NonResidential,GREATER DUWAMISH,1950,1.0,1,0,20724,Non-Refrigerated Warehouse,19224.0,Office,1500.0,,,Compliant,,,1832031.5
+23969,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,24109,Manufacturing/Industrial Plant,24109.0,Parking,0.0,,,Compliant,,,4747403.5
+23971,NonResidential,GREATER DUWAMISH,1955,1.0,1,0,25375,Refrigerated Warehouse,23419.0,Office,2266.0,,,Compliant,,,4069301.5
+23975,Nonresidential COS,GREATER DUWAMISH,1985,1.0,1,0,22803,Non-Refrigerated Warehouse,19373.0,Other,3430.0,,,Compliant,78.0,,764094.5
+23976,Nonresidential COS,GREATER DUWAMISH,1985,1.0,1,0,23100,Office,11550.0,Other - Public Services,11550.0,,,Compliant,,,4323672.0
+23977,NonResidential,GREATER DUWAMISH,1951,1.0,1,0,41550,Refrigerated Warehouse,41550.0,,,,,Compliant,94.0,,642645.1875
+24009,NonResidential,GREATER DUWAMISH,1994,1.0,2,0,54170,Other,54170.0,,,,,Compliant,,,5804784.5
+24012,SPS-District K-12,GREATER DUWAMISH,2000,1.0,2,0,64493,K-12 School,64493.0,,,,,Error - Correct Default Data,85.0,,1989763.875
+24018,NonResidential,SOUTHEAST,1912,1.0,2,0,42252,K-12 School,42252.0,,,,,Compliant,49.0,,2203758.5
+24026,NonResidential,GREATER DUWAMISH,1955,1.0,1,0,23100,Self-Storage Facility,23250.0,,,,,Compliant,,,863703.0
+24029,NonResidential,SOUTHEAST,1981,1.0,3,0,22895,Worship Facility,22895.0,Parking,0.0,,,Compliant,96.0,,440419.1875
+24030,NonResidential,GREATER DUWAMISH,2002,1.0,2,17471,36740,Retail Store,30000.0,Supermarket/Grocery Store,5000.0,Parking,4000.0,Error - Correct Default Data,100.0,,1267463.125
+24035,SPS-District K-12,SOUTHEAST,1961,1.0,1,0,41428,K-12 School,41428.0,,,,,Error - Correct Default Data,90.0,,1404702.25
+24070,NonResidential,NORTHEAST,2006,1.0,6,7132,41047,Self-Storage Facility,48179.0,,,,,Compliant,,,797170.3125
+24083,NonResidential,GREATER DUWAMISH,1937,1.0,1,0,52325,Non-Refrigerated Warehouse,52325.0,,,,,Compliant,67.0,,808968.1875
+24085,NonResidential,GREATER DUWAMISH,1920,1.0,4,0,20600,"Repair Services (Vehicle, Shoe, Locksmith, etc)",20600.0,,,,,Compliant,,,270838.5
+24086,Campus,GREATER DUWAMISH,1991,10.0,0,0,230971,Other,230970.0,Parking,0.0,,,Compliant,,,21022288.0
+24089,NonResidential,GREATER DUWAMISH,1944,1.0,1,0,25880,Retail Store,25880.0,,,,,Compliant,100.0,,162960.0
+24091,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,45842,Non-Refrigerated Warehouse,49802.0,Office,22198.0,,,Compliant,99.0,,819354.625
+24099,NonResidential,GREATER DUWAMISH,1972,1.0,1,0,31365,Other,31365.0,,,,,Compliant,,,652991.6875
+24100,NonResidential,GREATER DUWAMISH,1910,1.0,1,0,32100,Other,32100.0,,,,,Compliant,,,758008.875
+24102,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,20520,Non-Refrigerated Warehouse,15400.0,Office,5120.0,,,Compliant,20.0,,1167887.75
+24104,NonResidential,GREATER DUWAMISH,1945,1.0,1,0,22972,Non-Refrigerated Warehouse,22972.0,,,,,Compliant,12.0,,495481.0
+24105,NonResidential,GREATER DUWAMISH,1953,1.0,1,0,24990,Non-Refrigerated Warehouse,25649.0,Office,6728.0,,,Compliant,80.0,,523614.0938
+24106,NonResidential,GREATER DUWAMISH,1951,1.0,2,0,24000,Retail Store,22740.0,Office,4860.0,,,Compliant,,,1318947.25
+24108,NonResidential,GREATER DUWAMISH,1963,1.0,1,0,100386,Non-Refrigerated Warehouse,50628.0,Other - Services,49758.0,,,Compliant,,,3626431.5
+24112,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,24354,Distribution Center,18470.0,Office,5884.0,,,Compliant,10.0,,735907.8125
+24115,NonResidential,GREATER DUWAMISH,1959,1.0,1,0,33600,Distribution Center,24000.0,Office,9600.0,,,Compliant,58.0,,847419.375
+24117,NonResidential,GREATER DUWAMISH,1974,1.0,1,0,20819,Manufacturing/Industrial Plant,20819.0,,,,,Compliant,,,1694930.375
+24118,NonResidential,GREATER DUWAMISH,1967,1.0,1,0,23296,Non-Refrigerated Warehouse,19471.0,Office,3825.0,,,Compliant,,,1429855.75
+24123,NonResidential,GREATER DUWAMISH,1954,1.0,1,0,35222,Non-Refrigerated Warehouse,15000.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)",15000.0,Retail Store,4232.0,Compliant,,,1758134.625
+24132,NonResidential,GREATER DUWAMISH,1957,1.0,1,0,25520,Refrigerated Warehouse,25200.0,,,,,Compliant,100.0,,1610794.75
+24950,NonResidential,GREATER DUWAMISH,1952,1.0,1,0,25460,Other,8223.0,,,,,Compliant,,,834711.875
+24164,SPS-District K-12,DELRIDGE,1970,1.0,1,0,41526,K-12 School,41526.0,,,,,Error - Correct Default Data,79.0,,1814947.0
+24170,NonResidential,NORTH,1974,1.0,2,0,24291,Office,24291.0,,,,,Compliant,87.0,,920430.625
+24172,NonResidential,NORTH,1958,1.0,2,0,20738,Retail Store,20738.0,,,,,Compliant,44.0,,526752.8125
+24178,NonResidential,NORTH,2000,1.0,4,0,30948,Office,11729.0,Other,11729.0,,,Compliant,,,919746.3125
+24180,NonResidential,NORTH,1986,1.0,2,7056,21329,Medical Office,20575.0,,,,,Compliant,1.0,,2654316.0
+24202,NonResidential,GREATER DUWAMISH,1978,1.0,1,0,21755,Non-Refrigerated Warehouse,17650.0,Office,2400.0,,,Compliant,,,844076.8125
+24205,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,27933,Other,27933.0,,,,,Compliant,,,6129780.0
+24209,NonResidential,GREATER DUWAMISH,1983,1.0,1,0,23143,Office,15609.0,Non-Refrigerated Warehouse,7534.0,,,Compliant,75.0,,1139980.625
+24216,NonResidential,GREATER DUWAMISH,1962,1.0,1,0,28800,Office,28800.0,Non-Refrigerated Warehouse,7350.0,,,Compliant,73.0,,2107743.75
+24218,NonResidential,GREATER DUWAMISH,1952,1.0,1,0,39600,Non-Refrigerated Warehouse,39600.0,,,,,Compliant,85.0,,405050.4063
+24219,NonResidential,GREATER DUWAMISH,1952,1.0,1,0,39600,Non-Refrigerated Warehouse,39600.0,,,,,Compliant,91.0,,468396.9063
+24225,NonResidential,GREATER DUWAMISH,1937,1.0,1,0,41248,Distribution Center,41430.0,,,,,Compliant,37.0,,1108310.875
+24227,NonResidential,GREATER DUWAMISH,2009,1.0,1,0,36400,Other,21400.0,Retail Store,15000.0,,,Compliant,,,1567746.75
+24240,NonResidential,SOUTHWEST,1920,1.0,1,0,31332,Other,31332.0,,,,,Compliant,,,3573328.25
+24244,NonResidential,SOUTHWEST,1948,1.0,2,0,35864,Worship Facility,35864.0,,,,,Compliant,75.0,,1228113.5
+24250,NonResidential,GREATER DUWAMISH,1954,1.0,1,0,20484,Worship Facility,20484.0,,,,,Compliant,69.0,,822636.625
+24252,NonResidential,NORTHEAST,1984,1.0,4,17622,27642,Medical Office,21743.0,,,,,Compliant,4.0,,1849331.25
+24253,NonResidential,NORTHEAST,1987,2.0,4,14576,22356,Medical Office,27642.0,,,,,Compliant,,,2824096.75
+24259,NonResidential,CENTRAL,1973,1.0,4,0,45082,Other/Specialty Hospital,45082.0,,,,,Compliant,,,4262316.5
+24270,NonResidential,NORTHWEST,1951,0.0,2,0,41600,Worship Facility,41600.0,,,,,Compliant,58.0,,1195165.25
+24274,NonResidential,LAKE UNION,1960,1.0,2,0,34110,Office,34110.0,,,,,Compliant,31.0,,2563985.5
+24332,NonResidential,GREATER DUWAMISH,1970,1.0,1,0,23750,Non-Refrigerated Warehouse,19430.0,Office,1470.0,,,Compliant,,,522972.1875
+24333,NonResidential,GREATER DUWAMISH,1970,1.0,1,0,43390,Non-Refrigerated Warehouse,36430.0,Office,6960.0,,,Compliant,87.0,,533742.8125
+24344,NonResidential,GREATER DUWAMISH,1959,1.0,1,0,35400,Non-Refrigerated Warehouse,35400.0,,,,,Compliant,84.0,,419978.6875
+24348,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,28144,Distribution Center,22201.0,Office,6087.0,,,Compliant,19.0,,858701.0
+24351,NonResidential,GREATER DUWAMISH,1916,1.0,3,0,71283,Non-Refrigerated Warehouse,57910.0,Office,13373.0,,,Compliant,41.0,,2491238.25
+24354,NonResidential,GREATER DUWAMISH,1989,1.0,1,0,23792,Non-Refrigerated Warehouse,22992.0,Office,800.0,,,Compliant,,,2852102.75
+24356,NonResidential,GREATER DUWAMISH,1979,1.0,2,0,47368,Office,47368.0,Parking,0.0,,,Compliant,99.0,,1042652.625
+24358,NonResidential,GREATER DUWAMISH,1931,1.0,1,0,46183,Non-Refrigerated Warehouse,18871.0,Food Service,14000.0,Retail Store,13312.0,Compliant,,,1890502.5
+24359,NonResidential,CENTRAL,1984,1.0,5,22788,49825,Office,49825.0,Parking,22788.0,,,Compliant,84.0,,2602213.75
+24374,NonResidential,SOUTHEAST,1968,1.0,1,0,36071,Retail Store,36071.0,,,,,Error - Correct Default Data,97.0,,1519952.125
+24375,SPS-District K-12,SOUTHEAST,1989,1.0,3,0,51672,K-12 School,51672.0,,,,,Compliant,97.0,,1436510.375
+24376,Nonresidential COS,SOUTHEAST,1990,1.0,2,11082,27270,Medical Office,19987.0,Office,7505.0,,,Compliant,36.0,,2108861.75
+24381,Nonresidential COS,SOUTHEAST,1995,1.0,1,0,28425,Fitness Center/Health Club/Gym,14081.0,Other - Recreation,12824.0,Office,1479.0,Compliant,,,2133797.75
+24406,NonResidential,NORTH,2009,1.0,3,0,35115,Automobile Dealership,35115.0,,,,,Compliant,,,1922953.25
+24415,NonResidential,NORTHWEST,1972,1.0,1,0,66704,Other - Education,23904.0,Distribution Center,18500.0,Non-Refrigerated Warehouse,18500.0,Compliant,,,600516.875
+24418,Nonresidential COS,NORTHWEST,1969,1.0,1,0,25658,Non-Refrigerated Warehouse,18854.0,Office,6804.0,,,Compliant,,,1063960.125
+24435,NonResidential,EAST,1907,1.0,2,0,36000,Office,27600.0,Other,8400.0,,,Compliant,95.0,,1046187.625
+24448,NonResidential,EAST,1913,1.0,1,0,36000,Parking,18000.0,Retail Store,18000.0,,,Compliant,59.0,,1162163.125
+24451,NonResidential,EAST,1915,1.0,2,0,43200,Non-Refrigerated Warehouse,43200.0,,,,,Compliant,38.0,,1929851.5
+24458,NonResidential,GREATER DUWAMISH,1913,1.0,4,12870,40970,Office,42800.0,Parking,10400.0,,,Compliant,71.0,,2912454.75
+24461,NonResidential,GREATER DUWAMISH,1975,1.0,1,0,43794,Retail Store,34038.0,Office,9756.0,,,Compliant,88.0,,1164537.75
+24472,NonResidential,GREATER DUWAMISH,1968,1.0,1,0,48280,Non-Refrigerated Warehouse,40780.0,Office,7500.0,,,Compliant,18.0,,2701833.75
+24473,NonResidential,GREATER DUWAMISH,1954,1.0,1,0,36040,Distribution Center,31476.0,Office,4564.0,,,Compliant,,,363808.1875
+24479,NonResidential,NORTHEAST,1965,1.0,1,0,32822,Supermarket/Grocery Store,35042.0,Parking,0.0,,,Compliant,42.0,,8839812.0
+24482,SPS-District K-12,NORTHEAST,1948,1.0,1,0,64314,K-12 School,65210.0,,,,,Error - Correct Default Data,86.0,,2936336.25
+24484,NonResidential,NORTHEAST,1950,1.0,2,0,20385,Worship Facility,20385.0,,,,,Compliant,65.0,,809291.8125
+24485,NonResidential,NORTHEAST,1946,1.0,1,0,24295,Worship Facility,24295.0,,,,,Compliant,53.0,,216115.0
+24488,NonResidential,NORTHEAST,1967,1.0,2,0,20317,Office,20317.0,,,,,Compliant,83.0,,620994.3125
+24493,NonResidential,NORTHEAST,1973,1.0,1,0,24377,Supermarket/Grocery Store,24377.0,,,,,Compliant,6.0,,9851260.0
+24513,NonResidential,NORTHWEST,1986,1.0,1,0,33392,Movie Theater,33392.0,,,,,Compliant,,,2786648.75
+24514,NonResidential,NORTHWEST,1986,0.0,1,0,45155,Supermarket/Grocery Store,45155.0,,,,,Compliant,6.0,,6674179.5
+24531,NonResidential,GREATER DUWAMISH,1966,1.0,1,0,32000,Non-Refrigerated Warehouse,32040.0,,,,,Compliant,3.0,,2186148.5
+24532,NonResidential,GREATER DUWAMISH,1970,1.0,1,0,44000,Non-Refrigerated Warehouse,45449.0,,,,,Compliant,15.0,,4302455.5
+24534,NonResidential,GREATER DUWAMISH,1973,1.0,1,0,36000,Non-Refrigerated Warehouse,36000.0,,,,,Compliant,44.0,,2771820.5
+24536,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,31360,Non-Refrigerated Warehouse,29640.0,Retail Store,1460.0,,,Compliant,,,1356972.25
+24537,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,33320,Non-Refrigerated Warehouse,32200.0,Office,1200.0,,,Compliant,,,2339234.0
+24538,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,48020,Non-Refrigerated Warehouse,47800.0,,,,,Compliant,71.0,,2373568.25
+24539,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,27420,Non-Refrigerated Warehouse,27850.0,,,,,Compliant,55.0,,1176342.25
+24547,NonResidential,CENTRAL,1929,1.0,2,0,24152,K-12 School,24152.0,,,,,Non-Compliant,100.0,Low outlier,161363.4063
+24560,NonResidential,NORTHEAST,1949,1.0,2,0,43645,K-12 School,37000.0,,,,,Compliant,71.0,,2053956.375
+24563,NonResidential,NORTHEAST,1952,1.0,1,0,26853,Retail Store,20360.0,,,,,Compliant,68.0,,1399062.75
+24710,NonResidential,GREATER DUWAMISH,1909,1.0,4,0,44775,Other,44775.0,,,,,Compliant,,,950695.625
+24579,NonResidential,GREATER DUWAMISH,1916,2.0,1,0,27760,Other,19715.0,Office,12000.0,Retail Store,6000.0,Compliant,,,2833624.5
+24581,NonResidential,GREATER DUWAMISH,1937,1.0,1,0,20975,Other - Entertainment/Public Assembly,13144.0,Other,6600.0,Fast Food Restaurant,1070.0,Compliant,,,347437.6875
+24585,NonResidential,GREATER DUWAMISH,1918,1.0,1,0,26075,Other,26075.0,,,,,Compliant,,,1608508.75
+24587,NonResidential,GREATER DUWAMISH,1992,1.0,1,0,29394,Non-Refrigerated Warehouse,29394.0,Office,16902.0,,,Compliant,60.0,,1486681.75
+24589,NonResidential,GREATER DUWAMISH,1926,1.0,2,0,20400,Non-Refrigerated Warehouse,15000.0,Office,5400.0,,,Compliant,69.0,,438557.0
+24591,NonResidential,GREATER DUWAMISH,1926,1.0,1,0,20460,Office,20460.0,,,,,Compliant,16.0,,903541.875
+24593,NonResidential,GREATER DUWAMISH,1925,1.0,2,0,25821,Self-Storage Facility,25821.0,,,,,Compliant,,,209698.7031
+24598,NonResidential,GREATER DUWAMISH,1955,1.0,2,0,21870,Refrigerated Warehouse,21870.0,,,,,Compliant,45.0,,1074350.375
+24599,NonResidential,GREATER DUWAMISH,1988,3.0,1,0,51664,Non-Refrigerated Warehouse,51664.0,,,,,Compliant,,,3528086.75
+24600,NonResidential,DELRIDGE,1970,1.0,1,0,43615,Medical Office,43615.0,,,,,Compliant,89.0,,3133849.5
+24601,NonResidential,DELRIDGE,1970,1.0,3,0,36879,Office,16855.0,,,,,Compliant,26.0,,1144267.5
+24602,Nonresidential COS,DELRIDGE,2002,1.0,2,0,28531,Other,28303.0,Parking,1100.0,,,Compliant,,,3494929.5
+24603,NonResidential,DELRIDGE,1982,1.0,2,0,36600,Non-Refrigerated Warehouse,43556.0,,,,,Compliant,80.0,,308400.4063
+24604,NonResidential,SOUTHWEST,2004,1.0,5,0,35176,Office,14452.0,Other,14452.0,,,Compliant,,,1011965.375
+24614,SPS-District K-12,NORTH,1959,1.0,1,0,36701,K-12 School,40285.0,,,,,Error - Correct Default Data,87.0,,1564891.75
+24624,NonResidential,LAKE UNION,1940,1.0,2,15243,26050,College/University,26393.0,Medical Office,15000.0,,,Compliant,,,2839882.25
+24629,NonResidential,GREATER DUWAMISH,1941,1.0,1,0,48890,Non-Refrigerated Warehouse,30889.0,Office,18000.0,,,Compliant,49.0,,2100216.5
+24630,NonResidential,GREATER DUWAMISH,2000,1.0,3,0,43473,Office,43473.0,,,,,Compliant,3.0,,4416909.5
+24636,NonResidential,DELRIDGE,1990,1.0,1,0,40265,Retail Store,40793.0,,,,,Compliant,19.0,,3740373.75
+24640,NonResidential,DELRIDGE,2005,1.0,1,0,26208,Retail Store,32427.0,,,,,Compliant,79.0,,1608884.25
+24646,Nonresidential COS,DELRIDGE,1975,0.0,2,0,27227,Other - Recreation,29064.0,Fitness Center/Health Club/Gym,8508.0,Pre-school/Daycare,715.0,Compliant,,,8054334.0
+24649,NonResidential,BALLARD,1926,1.0,1,0,42172,Other - Education,12000.0,Other - Entertainment/Public Assembly,11400.0,Social/Meeting Hall,9100.0,Compliant,,,3275779.25
+24711,NonResidential,DOWNTOWN,1910,1.0,5,0,32250,Office,32250.0,,,,,Compliant,92.0,,796042.375
+24653,NonResidential,NORTHWEST,1953,1.0,1,0,51000,Retail Store,51000.0,,,,,Compliant,95.0,,1298039.875
+24700,NonResidential,GREATER DUWAMISH,1916,1.0,1,0,27000,Other,9000.0,Other - Entertainment/Public Assembly,9000.0,Self-Storage Facility,9000.0,Compliant,,,229856.4063
+24701,NonResidential,GREATER DUWAMISH,1935,1.0,2,0,20747,Other - Entertainment/Public Assembly,11815.0,Restaurant,5120.0,Office,3812.0,Compliant,,,1001964.0
+24705,NonResidential,GREATER DUWAMISH,1928,1.0,2,0,40800,Non-Refrigerated Warehouse,36000.0,Office,4800.0,,,Compliant,,,817255.875
+24708,NonResidential,GREATER DUWAMISH,1920,1.0,2,0,20150,Office,20150.0,,,,,Compliant,80.0,,576174.125
+24712,NonResidential,DOWNTOWN,1909,1.0,7,0,36000,Office,31500.0,,,,,Compliant,40.0,,1682454.875
+24714,NonResidential,GREATER DUWAMISH,1938,1.0,2,0,41276,Non-Refrigerated Warehouse,24300.0,Retail Store,13284.0,Office,3692.0,Compliant,,,2502081.0
+24716,NonResidential,GREATER DUWAMISH,1937,0.0,2,0,24430,Refrigerated Warehouse,15667.0,Other,8690.0,,,Compliant,,,1232822.875
+24717,NonResidential,GREATER DUWAMISH,1910,1.0,3,0,27690,Other,24717.0,Parking,0.0,,,Non-Compliant,,Low outlier,16808.90039
+24720,NonResidential,GREATER DUWAMISH,1927,1.0,1,0,22580,Office,22580.0,,,,,Compliant,90.0,,928584.875
+24725,NonResidential,CENTRAL,1926,1.0,1,0,20000,Non-Refrigerated Warehouse,20000.0,,,,,Compliant,18.0,,743528.125
+24726,NonResidential,CENTRAL,1954,1.0,1,0,42000,Non-Refrigerated Warehouse,38000.0,Office,4000.0,,,Compliant,,,2070005.625
+24758,NonResidential,CENTRAL,1962,1.0,1,0,24248,Self-Storage Facility,21018.0,Parking,3230.0,,,Compliant,,,111969.7031
+24769,NonResidential,NORTH,2009,1.0,6,0,244500,Senior Care Community,244500.0,,,,,Compliant,100.0,,11019641.0
+24778,NonResidential,GREATER DUWAMISH,1932,1.0,1,0,24617,Non-Refrigerated Warehouse,22752.0,,,,,Compliant,,,106918.0
+24780,NonResidential,GREATER DUWAMISH,2009,1.0,3,84710,42355,Parking,84710.0,Office,42355.0,,,Compliant,,,3245111.5
+24781,NonResidential,GREATER DUWAMISH,1964,1.0,1,0,37247,Retail Store,37247.0,,,,,Compliant,69.0,,1748644.5
+24803,NonResidential,BALLARD,1993,1.0,1,0,25384,Retail Store,23468.0,,,,,Compliant,11.0,,3027867.5
+24822,NonResidential,GREATER DUWAMISH,1910,0.0,3,0,49052,Office,32393.0,Retail Store,10057.0,,,Compliant,96.0,,1441445.625
+24823,NonResidential,GREATER DUWAMISH,1900,1.0,2,0,52110,Non-Refrigerated Warehouse,32000.0,,,,,Compliant,34.0,,586589.1875
+24825,NonResidential,GREATER DUWAMISH,1910,1.0,2,0,20970,Office,20970.0,Parking,0.0,,,Non-Compliant,100.0,Low outlier,204499.0938
+24830,NonResidential,GREATER DUWAMISH,1937,1.0,2,0,39036,Office,27636.0,Other,13611.0,,,Compliant,,,1528295.75
+24840,NonResidential,GREATER DUWAMISH,1923,1.0,1,0,26310,Office,24000.0,Non-Refrigerated Warehouse,8874.0,Social/Meeting Hall,1000.0,Compliant,96.0,,771512.6875
+24857,NonResidential,SOUTHEAST,1966,1.0,1,0,37883,Retail Store,28734.0,Supermarket/Grocery Store,24813.0,,,Compliant,88.0,,12434593.0
+24862,NonResidential,DELRIDGE,1962,1.0,3,0,29874,K-12 School,31375.0,,,,,Compliant,95.0,,1274049.75
+24868,NonResidential,MAGNOLIA / QUEEN ANNE,1965,1.0,1,0,20140,Worship Facility,22000.0,Parking,0.0,,,Compliant,35.0,,992794.6875
+24876,NonResidential,NORTHWEST,1990,1.0,2,31389,40485,Self-Storage Facility,71874.0,,,,,Compliant,,,1242811.75
+24886,NonResidential,CENTRAL,1971,1.0,2,0,39953,Office,30100.0,,,,,Compliant,93.0,,1508561.875
+24893,NonResidential,CENTRAL,1998,1.0,2,0,21200,Retail Store,14168.0,Office,7032.0,,,Compliant,15.0,,1676426.5
+24895,NonResidential,CENTRAL,1980,1.0,1,0,30630,Supermarket/Grocery Store,28470.0,Other,2442.0,,,Compliant,27.0,,6058494.0
+24896,NonResidential,CENTRAL,1980,1.0,2,0,23421,Retail Store,19271.0,Bank Branch,4150.0,,,Compliant,25.0,,1896626.375
+24908,SPS-District K-12,BALLARD,1931,1.0,3,0,117116,K-12 School,117116.0,,,,,Compliant,83.0,,5722325.5
+24909,NonResidential,BALLARD,1928,1.0,2,0,24120,Worship Facility,24120.0,,,,,Compliant,66.0,,893053.1875
+24911,NonResidential,BALLARD,1929,1.0,3,0,35736,Worship Facility,28970.0,Office,6766.0,,,Compliant,88.0,,1148202.25
+24943,NonResidential,GREATER DUWAMISH,1941,1.0,1,0,51050,Non-Refrigerated Warehouse,49500.0,,,,,Compliant,10.0,,1206165.75
+24948,NonResidential,GREATER DUWAMISH,1954,1.0,2,0,21900,Retail Store,21900.0,,,,,Compliant,40.0,,1302192.875
+24955,NonResidential,GREATER DUWAMISH,1952,1.0,1,0,16300,Distribution Center,65164.0,,,,,Compliant,100.0,,150167.7969
+24958,NonResidential,GREATER DUWAMISH,1964,1.0,1,0,33462,Non-Refrigerated Warehouse,33462.0,,,,,Compliant,1.0,,1386445.375
+24959,NonResidential,GREATER DUWAMISH,1952,1.0,1,0,35310,Other,10471.0,Non-Refrigerated Warehouse,9875.0,Refrigerated Warehouse,8877.0,Compliant,,,1331469.75
+24991,NonResidential,GREATER DUWAMISH,1962,1.0,3,0,36140,Other,34733.0,,,,,Compliant,,,4653535.0
+24994,NonResidential,DOWNTOWN,1991,1.0,2,21384,26579,Other - Mall,29640.0,Parking,6000.0,,,Compliant,,,8163413.0
+25000,NonResidential,DOWNTOWN,1930,1.0,1,0,23903,Non-Refrigerated Warehouse,18350.0,Worship Facility,4500.0,,,Compliant,65.0,,415364.5938
+25001,NonResidential,NORTHEAST,1947,1.0,3,0,22522,Self-Storage Facility,22522.0,,,,,Compliant,,,561473.875
+25002,NonResidential,NORTHEAST,1996,1.0,4,0,38959,Self-Storage Facility,38959.0,,,,,Compliant,,,905750.375
+25025,NonResidential,GREATER DUWAMISH,1928,1.0,2,0,25955,Non-Refrigerated Warehouse,14150.0,Other - Services,8745.0,Office,3060.0,Compliant,,,1218112.0
+25069,Campus,EAST,1923,1.0,4,0,46100,K-12 School,46100.0,Parking,0.0,,,Compliant,75.0,,2177064.75
+25115,NonResidential,NORTHWEST,1951,1.0,2,0,21936,Worship Facility,21936.0,,,,,Compliant,96.0,,608755.375
+25124,NonResidential,NORTH,1960,1.0,1,0,25406,"Personal Services (Health/Beauty, Dry Cleaning, etc)",25406.0,,,,,Compliant,,,2442220.0
+25148,NonResidential,SOUTHEAST,1967,1.0,2,0,23250,Office,22014.0,,,,,Compliant,55.0,,904236.0
+25163,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,30000,Non-Refrigerated Warehouse,30000.0,Parking,0.0,,,Compliant,32.0,,2794837.0
+25165,Nonresidential COS,GREATER DUWAMISH,1962,1.0,1,0,45036,Non-Refrigerated Warehouse,21110.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)",14074.0,Office,6755.0,Compliant,,,1791697.75
+25217,SPS-District K-12,SOUTHWEST,1962,1.0,1,0,51410,K-12 School,51410.0,,,,,Error - Correct Default Data,87.0,,1968907.25
+25222,NonResidential,DOWNTOWN,2009,1.0,39,112124,962428,Multifamily Housing,311521.0,Hotel,303000.0,Parking,141450.0,Compliant,65.0,,26416770.0
+25250,NonResidential,MAGNOLIA / QUEEN ANNE,1959,1.0,2,0,122679,College/University,101035.0,Restaurant,2000.0,,,Compliant,,,16378152.0
+25251,Campus,MAGNOLIA / QUEEN ANNE,1945,14.0,2,0,537000,College/University,533826.0,,,,,Compliant,,,90609640.0
+25268,NonResidential,NORTH,1980,1.0,4,0,23022,Office,23022.0,,,,,Compliant,78.0,,1027230.875
+25275,NonResidential,GREATER DUWAMISH,1967,1.0,1,0,27263,Refrigerated Warehouse,22000.0,Other,2700.0,Office,2500.0,Compliant,,,2470642.0
+25276,NonResidential,GREATER DUWAMISH,1962,1.0,1,0,31569,Non-Refrigerated Warehouse,33000.0,,,,,Compliant,12.0,,3064039.5
+25277,NonResidential,GREATER DUWAMISH,1956,1.0,1,0,22509,Non-Refrigerated Warehouse,22509.0,,,,,Compliant,57.0,,177812.7969
+25278,NonResidential,GREATER DUWAMISH,1956,1.0,1,0,39984,Non-Refrigerated Warehouse,31184.0,Office,8800.0,,,Compliant,75.0,,1073156.375
+25317,SPS-District K-12,EAST,1925,1.0,2,0,73769,K-12 School,73769.0,,,,,Error - Correct Default Data,92.0,,2556131.0
+25325,NonResidential,EAST,1906,1.0,1,0,26440,Worship Facility,26440.0,,,,,Compliant,91.0,,719905.1875
+25361,SPS-District K-12,NORTHEAST,1961,1.0,1,0,43578,K-12 School,45370.0,,,,,Error - Correct Default Data,83.0,,1436773.875
+25364,NonResidential,GREATER DUWAMISH,1956,1.0,2,0,28800,Self-Storage Facility,28800.0,,,,,Compliant,,,1143826.625
+25371,NonResidential,CENTRAL,2009,4.0,2,0,28500,K-12 School,31100.0,,,,,Compliant,92.0,,1162561.125
+25451,NonResidential,LAKE UNION,1978,1.0,2,0,26519,Restaurant,13592.0,Office,12927.0,,,Compliant,,,3717064.0
+25452,NonResidential,LAKE UNION,1988,1.0,2,15402,19237,Restaurant,23373.0,Other,19659.0,Parking,15402.0,Compliant,,,15480681.0
+25457,NonResidential,MAGNOLIA / QUEEN ANNE,1921,1.0,2,0,26300,Other - Entertainment/Public Assembly,26300.0,,,,,Compliant,,,3537841.5
+25461,NonResidential,LAKE UNION,1962,0.0,2,0,34072,Restaurant,34072.0,,,,,Compliant,,,6584966.5
+25462,NonResidential,LAKE UNION,1949,1.0,3,0,23355,Office,21915.0,,,,,Compliant,77.0,,840549.375
+25464,NonResidential,MAGNOLIA / QUEEN ANNE,1965,1.0,4,0,30840,Office,29255.0,Restaurant,1180.0,,,Compliant,30.0,,3542708.5
+25471,NonResidential,NORTHEAST,1946,1.0,1,0,20332,Other,20332.0,,,,,Compliant,,,392683.6875
+25513,NonResidential,CENTRAL,1900,1.0,1,0,21850,Worship Facility,21850.0,,,,,Compliant,100.0,,317794.4063
+25522,NonResidential,NORTHEAST,1997,1.0,4,6985,25297,Multifamily Housing,12600.0,Parking,6985.0,Other,6576.0,Compliant,,,1391714.25
+25528,NonResidential,DOWNTOWN,1983,1.0,13,83064,224493,Office,162422.0,Parking,83064.0,Multifamily Housing,55065.0,Compliant,,,9512829.0
+25537,NonResidential,MAGNOLIA / QUEEN ANNE,1918,1.0,2,0,28309,Self-Storage Facility,28309.0,,,,,Compliant,,,430308.9063
+25540,NonResidential,DOWNTOWN,1914,1.0,4,0,45500,Hotel,45500.0,,,,,Compliant,77.0,,2799595.0
+25541,NonResidential,DOWNTOWN,1900,1.0,5,0,38376,Office,29258.0,Retail Store,2409.0,,,Compliant,,,2058532.875
+25543,NonResidential,DOWNTOWN,1900,1.0,4,0,42804,Office,24120.0,Retail Store,6583.0,,,Compliant,,,1544501.75
+25546,NonResidential,DOWNTOWN,2005,0.0,5,0,57600,Residence Hall/Dormitory,27600.0,Multifamily Housing,16000.0,Financial Office,7000.0,Compliant,,,6983736.0
+25548,NonResidential,DOWNTOWN,1900,1.0,4,0,33300,Office,26639.0,Restaurant,2820.0,Retail Store,2377.0,Compliant,,,1287497.375
+25553,NonResidential,DOWNTOWN,1900,1.0,3,0,25450,Hotel,25450.0,,,,,Non-Compliant,99.0,Low outlier,503744.6875
+25554,NonResidential,DOWNTOWN,1900,1.0,3,0,22200,Other,22200.0,,,,,Compliant,,,188745.7031
+25563,NonResidential,MAGNOLIA / QUEEN ANNE,1968,1.0,2,0,29498,Non-Refrigerated Warehouse,19749.0,Office,9148.0,,,Compliant,,,3768900.5
+25567,NonResidential,LAKE UNION,1938,1.0,1,0,23050,Non-Refrigerated Warehouse,23050.0,,,,,Compliant,27.0,,466672.6875
+25568,NonResidential,LAKE UNION,2008,1.0,4,0,48350,Office,48350.0,,,,,Compliant,45.0,,3168131.0
+25572,NonResidential,NORTHEAST,1930,1.0,1,0,46059,Retail Store,46000.0,,,,,Compliant,82.0,,1582655.875
+25635,NonResidential,NORTHEAST,1970,1.0,2,0,23595,Medical Office,23595.0,,,,,Compliant,72.0,,817409.625
+25657,NonResidential,DOWNTOWN,1900,1.0,3,0,28142,Office,28142.0,,,,,Compliant,96.0,,847097.8125
+25658,NonResidential,DOWNTOWN,1900,1.0,3,0,28760,Office,12314.0,Retail Store,6020.0,Non-Refrigerated Warehouse,6000.0,Compliant,,,2615973.5
+25659,NonResidential,DOWNTOWN,1902,1.0,4,0,39030,Office,32001.0,Retail Store,6685.0,,,Compliant,99.0,,713326.875
+25661,NonResidential,DOWNTOWN,1909,0.0,3,0,47215,Office,23659.0,Retail Store,22376.0,,,Compliant,58.0,,2092696.0
+25663,Nonresidential COS,EAST,1926,1.0,2,27000,34580,Other,36280.0,Parking,23154.0,,,Compliant,,,4199443.0
+25664,NonResidential,EAST,1917,1.0,3,0,30720,Office,29720.0,Retail Store,1000.0,,,Compliant,,,1288669.5
+25666,NonResidential,EAST,1916,1.0,2,0,20640,Retail Store,9750.0,Office,9212.0,Restaurant,2450.0,Compliant,,,412562.4063
+25667,NonResidential,EAST,1912,1.0,2,0,34914,Retail Store,14983.0,Restaurant,10638.0,Office,5837.0,Compliant,,,1333289.625
+25670,NonResidential,EAST,1906,1.0,3,0,20897,Office,10228.0,Retail Store,3433.0,Non-Refrigerated Warehouse,3400.0,Compliant,,,964923.8125
+25671,NonResidential,EAST,1916,1.0,2,0,36940,Retail Store,36940.0,,,,,Compliant,100.0,,336745.4063
+25672,NonResidential,EAST,1913,1.0,3,0,22866,Office,22866.0,,,,,Compliant,,,1153690.125
+25673,NonResidential,EAST,1920,1.0,1,0,30240,Retail Store,32205.0,Restaurant,714.0,,,Compliant,78.0,,1264626.875
+25674,NonResidential,EAST,1910,1.0,3,0,32100,Multifamily Housing,21400.0,Bar/Nightclub,10700.0,,,Non-Compliant,,Low outlier,108200.3984
+25694,NonResidential,NORTHEAST,1962,1.0,2,0,28586,Other,27022.0,,,,,Compliant,,,5078204.0
+25709,NonResidential,DOWNTOWN,1908,1.0,3,0,28800,Hotel,21600.0,Restaurant,7200.0,,,Compliant,,,4644346.0
+25711,NonResidential,DOWNTOWN,1913,1.0,3,0,28800,Restaurant,28800.0,,,,,Compliant,,,899924.1875
+25713,NonResidential,DOWNTOWN,1979,1.0,3,0,35202,Office,24227.0,Bank Branch,9127.0,,,Compliant,2.0,,3605755.5
+25737,NonResidential,EAST,1969,1.0,6,26082,69035,Senior Care Community,69035.0,Parking,26082.0,,,Compliant,1.0,,7202141.5
+25743,NonResidential,EAST,1910,1.0,2,0,24600,Worship Facility,24600.0,,,,,Compliant,69.0,,331059.5
+25745,NonResidential,EAST,1900,1.0,1,0,48850,Worship Facility,28725.0,Office,4325.0,Other,3700.0,Compliant,,,1063480.5
+25772,NonResidential,SOUTHWEST,1961,0.0,3,0,54863,Hospital (General Medical & Surgical),109726.0,,,,,Compliant,100.0,,2037720.625
+25839,NonResidential,GREATER DUWAMISH,1964,1.0,1,0,25000,Non-Refrigerated Warehouse,13393.0,Food Sales,7500.0,Office,4107.0,Compliant,,,1989103.875
+25842,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,25000,Non-Refrigerated Warehouse,24000.0,Office,1000.0,,,Compliant,,,287132.5
+25844,NonResidential,GREATER DUWAMISH,1927,1.0,1,0,22622,Manufacturing/Industrial Plant,23000.0,,,,,Compliant,,,774075.6875
+25847,NonResidential,EAST,1917,1.0,3,0,27544,Office,22365.0,Parking,3744.0,,,Compliant,94.0,,1031667.5
+25886,NonResidential,DOWNTOWN,1989,1.0,7,0,47415,Office,25884.0,Parking,7000.0,Multifamily Housing,5713.0,Compliant,,,1478979.25
+25907,NonResidential,MAGNOLIA / QUEEN ANNE,1961,1.0,3,0,22960,Other - Entertainment/Public Assembly,22960.0,,,,,Compliant,,,2266983.0
+25914,NonResidential,EAST,1998,1.0,1,0,44739,Supermarket/Grocery Store,44739.0,Parking,0.0,,,Compliant,17.0,,14585813.0
+25932,NonResidential,NORTHEAST,1948,1.0,1,0,22778,Retail Store,21194.0,Office,12923.0,Restaurant,3720.0,Compliant,,,2470566.0
+25935,NonResidential,BALLARD,1956,1.0,2,0,21562,Worship Facility,21052.0,Pre-school/Daycare,400.0,,,Compliant,20.0,,866806.0
+25954,NonResidential,CENTRAL,1959,1.0,1,0,25753,Other - Entertainment/Public Assembly,25753.0,,,,,Compliant,,,1378130.25
+25955,NonResidential,EAST,1928,1.0,3,0,71280,Other - Recreation,71280.0,,,,,Compliant,,,22767828.0
+25956,SPS-District K-12,EAST,1925,1.0,3,0,38297,K-12 School,38297.0,,,,,Error - Correct Default Data,85.0,,1845150.625
+25965,NonResidential,EAST,1963,1.0,16,0,153312,Senior Care Community,148590.0,Parking,72317.0,Worship Facility,4722.0,Compliant,51.0,,20628680.0
+25992,NonResidential,DOWNTOWN,2009,1.0,19,201857,1004813,Office,319361.0,Multifamily Housing,181047.0,Parking,177210.0,Compliant,87.0,,27684480.0
+26002,NonResidential,SOUTHEAST,1968,1.0,1,0,24200,Worship Facility,24200.0,Parking,0.0,,,Compliant,73.0,,826488.6875
+26017,NonResidential,MAGNOLIA / QUEEN ANNE,1981,1.0,4,2211,21302,Residence Hall/Dormitory,15200.0,Office,2600.0,Social/Meeting Hall,1800.0,Compliant,,,1740568.25
+26040,NonResidential,DELRIDGE,1994,1.0,3,0,66610,Self-Storage Facility,66720.0,,,,,Compliant,,,640377.0
+26233,NonResidential,GREATER DUWAMISH,1950,1.0,1,0,36000,Other,34000.0,Office,1400.0,,,Compliant,,,3646053.75
+26098,NonResidential,NORTHWEST,1938,1.0,2,0,23222,K-12 School,15006.0,,,,,Compliant,62.0,,1219863.125
+26115,NonResidential,EAST,1924,1.0,2,0,24476,Fitness Center/Health Club/Gym,7501.0,Office,5872.0,Retail Store,5375.0,Compliant,,,2662054.25
+26119,NonResidential,EAST,1910,0.0,2,0,24750,Retail Store,19240.0,Office,2050.0,Medical Office,1250.0,Compliant,,,782343.8125
+26125,NonResidential,EAST,1904,1.0,3,0,60000,K-12 School,48783.0,,,,,Compliant,52.0,,3625407.5
+26126,NonResidential,EAST,1954,1.0,2,0,46560,Other - Entertainment/Public Assembly,46560.0,,,,,Compliant,,,690557.6875
+26139,NonResidential,MAGNOLIA / QUEEN ANNE,1980,1.0,3,0,30408,Bank Branch,25000.0,Parking,5408.0,,,Compliant,61.0,,1440554.25
+26146,NonResidential,MAGNOLIA / QUEEN ANNE,1920,1.0,3,0,30109,Office,28400.0,Parking,7200.0,,,Compliant,89.0,,1465795.75
+26150,SPS-District K-12,SOUTHWEST,1964,1.0,2,0,39929,K-12 School,39929.0,,,,,Error - Correct Default Data,82.0,,1813718.0
+26154,NonResidential,MAGNOLIA / QUEEN ANNE,1960,1.0,2,0,25481,Office,25481.0,,,,,Compliant,92.0,,917100.3125
+26157,NonResidential,SOUTHEAST,1967,1.0,1,0,141297,Senior Care Community,141297.0,,,,,Compliant,76.0,,19423344.0
+26183,NonResidential,LAKE UNION,1912,1.0,2,0,27788,Office,32610.0,Other - Restaurant/Bar,4874.0,,,Compliant,73.0,,2119806.25
+26218,NonResidential,NORTHWEST,1990,1.0,4,8584,33120,Hotel,41704.0,,,,,Compliant,73.0,,1943899.25
+26235,NonResidential,GREATER DUWAMISH,1941,1.0,2,0,22324,Non-Refrigerated Warehouse,21000.0,,,,,Compliant,53.0,,588856.125
+26236,NonResidential,GREATER DUWAMISH,1946,1.0,2,0,31360,Other - Entertainment/Public Assembly,32000.0,,,,,Compliant,,,1725108.25
+26237,NonResidential,GREATER DUWAMISH,1947,1.0,1,0,30496,Retail Store,14344.0,Manufacturing/Industrial Plant,10272.0,Office,8012.0,Compliant,,,1992158.25
+26254,NonResidential,EAST,1922,1.0,3,0,27600,Office,13175.0,Retail Store,9175.0,,,Compliant,84.0,,1072151.375
+26289,NonResidential,Northwest,1961,1.0,2,0,55974,Senior Care Community,56000.0,,,,,Compliant,98.0,,6135173.0
+26319,SPS-District K-12,GREATER DUWAMISH,1971,1.0,2,0,52901,K-12 School,52901.0,,,,,Error - Correct Default Data,75.0,,2240342.0
+26324,NonResidential,NORTH,1954,1.0,1,0,22583,Senior Care Community,22583.0,,,,,Compliant,95.0,,1981360.0
+26331,NonResidential,LAKE UNION,1997,0.0,3,7358,24328,Office,25927.0,Parking,6750.0,Food Service,3743.0,Compliant,35.0,,2305643.5
+26348,NonResidential,LAKE UNION,1981,1.0,3,6034,20660,Office,24914.0,Parking,4720.0,,,Compliant,92.0,,720170.6875
+26359,NonResidential,NORTHWEST,1972,1.0,1,0,29400,Non-Refrigerated Warehouse,25000.0,,,,,Compliant,69.0,,227509.5
+26379,NonResidential,GREATER DUWAMISH,1992,1.0,3,0,22452,Hotel,22452.0,,,,,Compliant,85.0,,1244150.0
+26392,NonResidential,NORTHEAST,1912,1.0,2,0,25767,Bank Branch,17434.0,,,,,Compliant,22.0,,1581352.75
+26393,NonResidential,NORTHEAST,1953,1.0,4,0,33910,Retail Store,14585.0,Office,14462.0,,,Compliant,75.0,,1822834.25
+26396,NonResidential,NORTHEAST,1927,1.0,2,0,78401,Worship Facility,62400.0,Office,9940.0,K-12 School,4960.0,Compliant,,,2462408.25
+26460,NonResidential,LAKE UNION,1979,1.0,2,0,78716,Non-Refrigerated Warehouse,41275.0,Office,29399.0,Retail Store,6278.0,Compliant,38.0,,4103800.75
+26465,NonResidential,LAKE UNION,1910,1.0,2,0,33300,K-12 School,30740.0,,,,,Compliant,92.0,,1594733.625
+26473,NonResidential,LAKE UNION,1957,1.0,1,0,28808,Supermarket/Grocery Store,31174.0,,,,,Compliant,29.0,,9232576.0
+26528,NonResidential,NORTHEAST,1957,1.0,1,7004,20962,Office,20962.0,Parking,7004.0,,,Compliant,58.0,,1100499.75
+26529,NonResidential,NORTHEAST,1950,1.0,1,0,26226,Supermarket/Grocery Store,25828.0,Parking,0.0,,,Compliant,37.0,,7588060.5
+26535,NonResidential,NORTHEAST,1976,1.0,2,15755,19193,Bank Branch,19183.0,Parking,19183.0,,,Compliant,17.0,,1159807.125
+26587,NonResidential,LAKE UNION,1998,1.0,3,9999,27640,Office,20434.0,Laboratory,7557.0,,,Compliant,,,6197824.5
+26593,NonResidential,DOWNTOWN,1900,1.0,4,0,22840,Office,18400.0,Other,4440.0,,,Error - Correct Default Data,64.0,,881386.1875
+26594,NonResidential,DOWNTOWN,1900,1.0,1,0,21420,Museum,10420.0,Bar/Nightclub,5000.0,Supermarket/Grocery Store,2000.0,Compliant,,,810636.875
+26596,NonResidential,DOWNTOWN,1900,1.0,1,0,20880,Office,20880.0,,,,,Compliant,94.0,,683274.0
+26600,NonResidential,DOWNTOWN,1966,1.0,3,0,26000,Office,13000.0,Other - Entertainment/Public Assembly,13000.0,,,Compliant,,,1063035.875
+26601,NonResidential,DOWNTOWN,1900,1.0,3,0,38675,Office,12100.0,Restaurant,4281.0,,,Compliant,,,1938776.75
+26602,Nonresidential COS,DOWNTOWN,1929,1.0,4,0,49951,Office,32039.0,Other,24035.0,,,Compliant,,,5134446.0
+26611,NonResidential,SOUTHEAST,2010,1.0,2,0,25880,Medical Office,25880.0,,,,,Compliant,8.0,,1941728.75
+26657,NonResidential,NORTHEAST,1927,1.0,3,0,41013,Worship Facility,32098.0,Office,2310.0,,,Compliant,,,1080821.0
+26667,NonResidential,NORTHEAST,2004,1.0,2,0,21075,Social/Meeting Hall,18075.0,Office,3000.0,,,Compliant,,,1581036.75
+26670,NonResidential,NORTHEAST,1950,1.0,3,0,46485,Worship Facility,63922.0,,,,,Compliant,83.0,,1544995.75
+26681,NonResidential,NORTHWEST,1965,1.0,4,0,56896,Office,40768.0,Parking,16128.0,,,Compliant,96.0,,1402048.5
+26695,NonResidential,NORTHWEST,1978,1.0,2,0,27500,Worship Facility,27500.0,,,,,Compliant,60.0,,577123.125
+26705,NonResidential,DOWNTOWN,1930,1.0,2,0,36630,Office,22000.0,Distribution Center,11000.0,,,Compliant,90.0,,541943.3125
+26706,NonResidential,DOWNTOWN,1900,0.0,3,0,26830,Office,16838.0,Other,10000.0,,,Compliant,,,2099386.75
+26708,NonResidential,DOWNTOWN,1906,1.0,5,0,41920,Office,41920.0,,,,,Compliant,95.0,,1103594.75
+26710,NonResidential,DOWNTOWN,1905,1.0,5,0,36879,Office,44000.0,,,,,Compliant,92.0,,1537570.25
+26711,NonResidential,DOWNTOWN,1904,1.0,6,0,29820,Other - Lodging/Residential,29820.0,,,,,Compliant,,,1601955.625
+26719,NonResidential,DOWNTOWN,1905,0.0,2,0,33640,Office,27322.0,,,,,Compliant,70.0,,1078535.75
+26720,NonResidential,DOWNTOWN,1906,1.0,4,0,43484,Non-Refrigerated Warehouse,26416.0,Retail Store,9531.0,Office,7537.0,Compliant,18.0,,1567040.75
+26726,NonResidential,DOWNTOWN,1900,1.0,3,0,22480,Office,10800.0,Other,10800.0,Retail Store,7200.0,Compliant,,,981009.125
+26728,NonResidential,DOWNTOWN,1925,1.0,4,0,33018,Hotel,23193.0,Retail Store,6165.0,,,Compliant,49.0,,4857581.5
+26731,NonResidential,DOWNTOWN,1970,1.0,2,0,26510,Office,30800.0,,,,,Compliant,91.0,,987063.6875
+26759,NonResidential,LAKE UNION,1938,1.0,1,0,40028,Non-Refrigerated Warehouse,33222.0,Retail Store,10208.0,Office,6200.0,Compliant,80.0,,942415.1875
+26761,NonResidential,LAKE UNION,2007,1.0,3,18228,26282,Office,26282.0,Parking,18228.0,,,Compliant,23.0,,2188051.25
+26773,NonResidential,NORTH,1954,1.0,1,0,21624,Worship Facility,21624.0,,,,,Compliant,90.0,,666687.5
+26808,SPS-District K-12,NORTHWEST,1970,1.0,1,0,42239,K-12 School,48799.0,,,,,Error - Correct Default Data,83.0,,2145603.5
+26821,SPS-District K-12,Northwest,1925,1.0,3,0,51360,K-12 School,51026.0,,,,,Error - Correct Default Data,89.0,,1403094.75
+26833,NonResidential,DOWNTOWN,1993,0.0,3,0,21600,Office,11600.0,Restaurant,10000.0,,,Compliant,,,1539176.625
+26834,NonResidential,DOWNTOWN,1909,1.0,3,0,20620,Multifamily Housing,10060.0,Retail Store,5280.0,Social/Meeting Hall,5280.0,Compliant,,,747456.875
+26838,NonResidential,DOWNTOWN,1910,1.0,5,0,40552,Hotel,40552.0,,,,,Compliant,99.0,,1200180.875
+26847,NonResidential,DOWNTOWN,1909,1.0,3,0,31432,Office,23059.0,Other,7125.0,Multifamily Housing,1248.0,Compliant,,,1439572.375
+26849,NonResidential,DOWNTOWN,1917,1.0,2,0,24550,Retail Store,13500.0,Office,11050.0,,,Compliant,100.0,,977230.3125
+26870,SPS-District K-12,LAKE UNION,2000,1.0,2,0,61052,K-12 School,61052.0,,,,,Error - Correct Default Data,80.0,,2366929.5
+26883,NonResidential,CENTRAL,1908,1.0,3,0,25864,Social/Meeting Hall,13364.0,Office,8420.0,,,Compliant,,,1028277.313
+26905,NonResidential,NORTHEAST,1924,1.0,3,0,20686,Other - Lodging/Residential,20686.0,,,,,Compliant,,,1207504.0
+26906,NonResidential,NORTHEAST,1929,1.0,3,0,22124,Residence Hall/Dormitory,22124.0,,,,,Compliant,82.0,,637685.0
+26909,NonResidential,NORTHEAST,1926,1.0,3,0,27487,Residence Hall/Dormitory,27487.0,,,,,Compliant,82.0,,1594504.875
+26911,NonResidential,NORTHEAST,1926,1.0,4,0,23616,Residence Hall/Dormitory,23616.0,,,,,Compliant,55.0,,1656420.25
+26922,NonResidential,NORTHEAST,1976,1.0,3,0,33448,Residence Hall/Dormitory,33448.0,,,,,Compliant,78.0,,998633.5
+26924,Nonresidential COS,EAST,2005,0.0,2,7120,22388,Other - Recreation,11074.0,Fitness Center/Health Club/Gym,8183.0,Parking,6569.0,Compliant,,,2217620.0
+26930,NonResidential,CENTRAL,1987,1.0,2,0,74840,Senior Care Community,74840.0,,,,,Compliant,48.0,,8268496.5
+26933,Nonresidential COS,CENTRAL,1913,1.0,3,0,20992,Performing Arts,24600.0,Social/Meeting Hall,4625.0,Other - Education,1665.0,Compliant,,,2473302.0
+26939,NonResidential,CENTRAL,1925,1.0,2,0,22344,K-12 School,22344.0,,,,,Compliant,40.0,,1522596.75
+26956,NonResidential,EAST,1921,1.0,3,0,31900,College/University,26000.0,,,,,Compliant,,,2466100.0
+26961,Nonresidential COS,BALLARD,1950,1.0,2,0,29417,Other - Recreation,18489.0,Fitness Center/Health Club/Gym,8946.0,Pre-school/Daycare,1445.0,Compliant,,,1631479.125
+26973,NonResidential,DOWNTOWN,1909,1.0,3,0,49299,Office,24099.0,Multifamily Housing,23632.0,Restaurant,5320.0,Compliant,,,4729846.5
+26986,NonResidential,SOUTHWEST,1997,1.0,1,0,31841,Supermarket/Grocery Store,30899.0,Office,942.0,,,Compliant,,,13140574.0
+26994,NonResidential,EAST,1988,1.0,2,0,21036,Parking,11021.0,Fitness Center/Health Club/Gym,8164.0,Office,7280.0,Compliant,,,2735811.5
+26997,NonResidential,NORTHEAST,1999,1.0,2,0,32928,Parking,24288.0,Retail Store,16710.0,Office,16128.0,Compliant,9.0,,5652231.0
+27007,NonResidential,NORTHEAST,1954,1.0,2,0,20039,Worship Facility,20039.0,,,,,Non-Compliant,100.0,Low outlier,104722.2969
+27008,SPS-District K-12,NORTHEAST,1928,1.0,2,0,54943,K-12 School,57247.0,,,,,Error - Correct Default Data,94.0,,2155390.25
+27013,NonResidential,GREATER DUWAMISH,1960,1.0,1,0,44476,Non-Refrigerated Warehouse,41256.0,,,,,Compliant,33.0,,1368120.5
+27016,NonResidential,GREATER DUWAMISH,1969,1.0,1,0,35017,Office,19785.0,Non-Refrigerated Warehouse,10234.0,Parking,0.0,Compliant,66.0,,1295485.25
+27020,NonResidential,NORTHEAST,1950,1.0,3,0,29084,Residence Hall/Dormitory,26000.0,,,,,Compliant,66.0,,1632498.625
+27080,NonResidential,SOUTHEAST,1963,1.0,2,0,22952,Worship Facility,22962.0,Parking,0.0,,,Compliant,98.0,,470666.6875
+27117,NonResidential,GREATER DUWAMISH,1976,1.0,1,0,21040,Non-Refrigerated Warehouse,21040.0,,,,,Compliant,43.0,,592088.125
+27122,NonResidential,GREATER DUWAMISH,1951,1.0,2,0,28032,Non-Refrigerated Warehouse,30000.0,,,,,Compliant,52.0,,1321065.0
+27131,NonResidential,GREATER DUWAMISH,1974,1.0,1,0,25620,Distribution Center,25620.0,,,,,Compliant,82.0,,550324.1875
+27141,NonResidential,DOWNTOWN,1992,1.0,3,0,33238,Non-Refrigerated Warehouse,33238.0,,,,,Compliant,14.0,,1632472.0
+27142,NonResidential,EAST,1912,1.0,4,0,27800,K-12 School,11093.0,,,,,Compliant,8.0,,1181428.75
+27145,NonResidential,DOWNTOWN,2000,1.0,6,0,706176,Office,222807.0,Parking,78049.0,Bank Branch,5171.0,Compliant,82.0,,13270687.0
+27162,NonResidential,SOUTHWEST,1998,1.0,1,0,33706,Supermarket/Grocery Store,31746.0,,,,,Compliant,22.0,,8687690.0
+27184,NonResidential,MAGNOLIA / QUEEN ANNE,1961,1.0,2,0,37600,Non-Refrigerated Warehouse,18400.0,Other,16200.0,Office,3000.0,Compliant,,,2171751.5
+27205,SPS-District K-12,NORTHWEST,1954,1.0,1,0,42128,K-12 School,42128.0,,,,,Compliant,93.0,,1709307.5
+27231,SPS-District K-12,BALLARD,1932,1.0,2,0,44753,K-12 School,46545.0,,,,,Error - Correct Default Data,96.0,,1638691.625
+27244,NonResidential,EAST,1912,1.0,3,0,33708,Other,33708.0,,,,,Compliant,,,786324.0
+27303,NonResidential,North,1948,1.0,2,0,47237,Other,47661.0,,,,,Compliant,,,5981430.0
+27365,SPS-District K-12,BALLARD,1989,1.0,2,0,57298,K-12 School,60882.0,,,,,Error - Correct Default Data,91.0,,1586388.75
+27378,NonResidential,NORTHEAST,1997,1.0,1,38585,38000,Supermarket/Grocery Store,41447.0,Parking,0.0,,,Compliant,18.0,,13906080.0
+27381,NonResidential,NORTHEAST,1938,1.0,3,0,26373,Worship Facility,26373.0,,,,,Compliant,75.0,,964236.0
+27389,NonResidential,CENTRAL,1956,6.0,2,0,75868,Office,50379.0,Restaurant,12622.0,Retail Store,6662.0,Compliant,,,3605749.75
+27406,NonResidential,EAST,1947,1.0,2,0,21656,Other - Entertainment/Public Assembly,5656.0,Other - Public Services,5561.0,Restaurant,5090.0,Compliant,,,1607972.25
+27455,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1921,1.0,3,0,23040,Distribution Center,23040.0,,,,,Compliant,,,421430.0
+27456,NonResidential,MAGNOLIA / QUEEN ANNE,1956,1.0,2,0,36771,Other,34856.0,,,,,Compliant,,,5447076.5
+27482,NonResidential,GREATER DUWAMISH,1977,1.0,1,0,24024,Non-Refrigerated Warehouse,14314.0,Other - Services,9710.0,,,Compliant,,,375773.5938
+27488,NonResidential,GREATER DUWAMISH,1953,1.0,1,0,42420,Non-Refrigerated Warehouse,27420.0,Other,10000.0,Office,5000.0,Compliant,34.0,,965425.1875
+27494,NonResidential,GREATER DUWAMISH,1979,1.0,1,0,36982,Distribution Center,34382.0,Office,2600.0,,,Compliant,,,374753.8125
+27504,NonResidential,GREATER DUWAMISH,1964,1.0,2,0,23400,Non-Refrigerated Warehouse,20002.0,Office,3374.0,Parking,0.0,Compliant,,,439266.9063
+27532,NonResidential,MAGNOLIA / QUEEN ANNE,1948,1.0,2,0,30720,Other,28120.0,Parking,1600.0,Office,1000.0,Compliant,,,1683064.25
+27553,NonResidential,GREATER DUWAMISH,1972,1.0,1,0,23232,Non-Refrigerated Warehouse,23232.0,,,,,Compliant,,,127374.0
+27554,NonResidential,GREATER DUWAMISH,1974,1.0,1,0,35046,Non-Refrigerated Warehouse,32546.0,,,,,Compliant,100.0,,1063269.125
+27561,NonResidential,GREATER DUWAMISH,1961,1.0,1,0,25577,Refrigerated Warehouse,13349.0,Non-Refrigerated Warehouse,8228.0,Office,4000.0,Compliant,,,895784.6875
+27562,NonResidential,GREATER DUWAMISH,1974,1.0,1,0,43380,Non-Refrigerated Warehouse,42844.0,,,,,Compliant,89.0,,405062.0
+27567,NonResidential,LAKE UNION,1995,1.0,3,0,20410,Office,20410.0,,,,,Compliant,8.0,,2720238.25
+27587,NonResidential,NORTHWEST,1983,1.0,3,6300,18396,Office,18396.0,Parking,6300.0,,,Compliant,87.0,,624125.625
+27597,SPS-District K-12,NORTHWEST,1956,1.0,1,0,45174,K-12 School,45174.0,,,,,Error - Correct Default Data,84.0,,1980825.25
+27598,NonResidential,NORTHWEST,2002,1.0,1,0,24955,Worship Facility,24955.0,,,,,Compliant,47.0,,689803.0
+27668,NonResidential,Central,1991,1.0,3,0,34074,Other/Specialty Hospital,34074.0,,,,,Compliant,,,8521989.0
+27673,NonResidential,DOWNTOWN,2006,0.0,10,22225,370327,Hotel,198400.0,Parking,52400.0,,,Compliant,23.0,,17457560.0
+27703,NonResidential,North,1961,1.0,2,0,76475,Worship Facility,45442.0,Other - Education,31033.0,,,Compliant,,,1765813.625
+27704,NonResidential,North,1988,1.0,2,0,32961,K-12 School,32961.0,,,,,Compliant,86.0,,1573155.0
+27721,Nonresidential COS,NORTHWEST,2004,1.0,1,14570,12806,Library,12806.0,Parking,0.0,,,Compliant,,,1082920.125
+27799,Campus,CENTRAL,1950,1.0,1,0,109794,K-12 School,109794.0,,,,,Compliant,87.0,,3296526.25
+27816,NonResidential,Central,1911,1.0,3,0,25200,Other - Lodging/Residential,25200.0,,,,,Compliant,,,1242666.25
+27821,NonResidential,North,1996,1.0,1,0,44755,Supermarket/Grocery Store,46978.0,,,,,Compliant,56.0,,11521140.0
+27825,NonResidential,EAST,1907,1.0,2,0,22320,"Repair Services (Vehicle, Shoe, Locksmith, etc)",22320.0,,,,,Compliant,,,209644.9063
+27828,NonResidential,EAST,1912,1.0,3,0,24000,Office,12000.0,Other,6000.0,Retail Store,6000.0,Compliant,,,932083.5
+27830,NonResidential,EAST,1920,1.0,3,0,23422,Office,23422.0,,,,,Compliant,65.0,,2701872.0
+27833,NonResidential,EAST,1975,5.0,2,11328,27551,Urgent Care/Clinic/Other Outpatient,38879.0,,,,,Compliant,,,3371659.75
+27838,NonResidential,EAST,1998,1.0,5,14625,38409,Multifamily Housing,22486.0,Supermarket/Grocery Store,14257.0,Parking,13308.0,Compliant,93.0,,3392129.0
+27869,NonResidential,EAST,1920,1.0,2,0,23040,Non-Refrigerated Warehouse,23040.0,,,,,Compliant,99.0,,79711.79688
+27874,NonResidential,EAST,1958,1.0,2,0,61880,Non-Refrigerated Warehouse,61880.0,,,,,Compliant,66.0,,595936.5
+27882,NonResidential,EAST,1925,1.0,2,0,27938,Office,13917.0,Retail Store,13188.0,,,Compliant,97.0,,1027394.313
+27891,NonResidential,NORTHEAST,1924,1.0,2,0,21600,Other - Services,32580.0,Retail Store,9650.0,,,Compliant,,,1623657.0
+27892,Nonresidential COS,NORTHEAST,1929,1.0,3,0,27908,Other,21886.0,,,,,Compliant,,,2028125.625
+27901,Campus,CENTRAL,2000,1.0,2,0,30562,K-12 School,30562.0,,,,,Compliant,69.0,,1622231.375
+27903,NonResidential,DOWNTOWN,2000,1.0,3,0,54969,Retail Store,54969.0,,,,,Compliant,67.0,,3724098.25
+27922,NonResidential,CENTRAL,1951,1.0,2,0,36825,K-12 School,44340.0,Worship Facility,10415.0,Social/Meeting Hall,4925.0,Compliant,,,1755072.75
+27928,NonResidential,EAST,1958,1.0,3,0,25834,Office,31822.0,,,,,Compliant,73.0,,2076289.625
+27947,NonResidential,EAST,1929,1.0,1,0,37700,Worship Facility,52225.0,,,,,Compliant,38.0,,3481727.5
+27955,SPS-District K-12,EAST,1925,1.0,2,0,27273,K-12 School,27273.0,,,,,Error - Correct Default Data,90.0,,1258619.125
+27969,NonResidential,Central,2004,1.0,6,0,97229,Multifamily Housing,45300.0,Parking,35973.0,Retail Store,16956.0,Compliant,100.0,,1021754.688
+27982,NonResidential,NORTHWEST,1982,1.0,3,0,25111,Office,14256.0,Non-Refrigerated Warehouse,7850.0,Parking,0.0,Compliant,77.0,,954352.6875
+28019,NonResidential,MAGNOLIA / QUEEN ANNE,1953,1.0,2,0,31805,Worship Facility,31805.0,,,,,Compliant,10.0,,1641667.0
+28020,NonResidential,MAGNOLIA / QUEEN ANNE,1953,1.0,1,0,20811,K-12 School,20811.0,,,,,Compliant,95.0,,1267348.5
+28025,Nonresidential COS,GREATER DUWAMISH,1967,1.0,2,0,22058,Non-Refrigerated Warehouse,12644.0,Office,7286.0,,,Compliant,1.0,,1987334.75
+28029,NonResidential,GREATER DUWAMISH,1970,1.0,1,0,22890,Refrigerated Warehouse,43452.0,Office,2890.0,,,Compliant,,,10005787.0
+28030,NonResidential,GREATER DUWAMISH,1907,1.0,5,0,36000,Other,36000.0,,,,,Compliant,,,1111293.75
+28033,NonResidential,GREATER DUWAMISH,1971,1.0,1,0,28320,Distribution Center,28320.0,Parking,0.0,,,Compliant,1.0,,4236396.5
+28053,NonResidential,NORTHEAST,1955,1.0,1,0,29079,Worship Facility,29079.0,,,,,Compliant,78.0,,861643.6875
+28066,NonResidential,EAST,1982,1.0,3,9616,19232,Office,19232.0,Parking,9616.0,,,Compliant,82.0,,726917.5
+28081,NonResidential,Ballard,1988,1.0,2,0,20535,Office,13600.0,Distribution Center,8200.0,,,Compliant,7.0,,1835804.0
+28086,NonResidential,MAGNOLIA / QUEEN ANNE,1985,1.0,2,0,43025,Laboratory,29527.0,Other,13498.0,,,Compliant,,,9393108.0
+28476,NonResidential,GREATER DUWAMISH,1965,1.0,1,0,30800,Non-Refrigerated Warehouse,30800.0,,,,,Compliant,65.0,,485971.0
+29170,NonResidential,EAST,1900,1.0,3,0,22168,Multifamily Housing,11084.0,Other - Entertainment/Public Assembly,11084.0,,,Compliant,,,1784385.25
+29214,NonResidential,GREATER DUWAMISH,1922,1.0,1,0,37400,Non-Refrigerated Warehouse,27271.0,Supermarket/Grocery Store,5706.0,Distribution Center,4473.0,Compliant,73.0,,924192.6875
+29550,NonResidential,DOWNTOWN,2000,1.0,11,0,268130,Office,268130.0,,,,,Compliant,88.0,,15026352.0
+29551,NonResidential,DOWNTOWN,2000,1.0,11,0,68452,Office,61665.0,Bank Branch,6787.0,,,Compliant,79.0,,3782378.25
+29552,NonResidential,DOWNTOWN,2000,1.0,11,0,273185,Office,281566.0,,,,,Compliant,88.0,,14709151.0
+29612,NonResidential,NORTHEAST,1924,1.0,3,0,97500,K-12 School,97500.0,,,,,Compliant,97.0,,3736960.0
+29788,NonResidential,MAGNOLIA / QUEEN ANNE,1982,1.0,5,0,54015,Office,54015.0,,,,,Compliant,75.0,,3020001.5
+32429,NonResidential,DOWNTOWN,1985,1.0,13,0,42000,Other - Restaurant/Bar,26554.0,Other,15310.0,Strip Mall,7673.0,Compliant,,,7798464.0
+33289,NonResidential,DOWNTOWN,1982,0.0,24,0,119701,Office,102878.0,Retail Store,16823.0,,,Compliant,67.0,,8382140.5
+33408,Nonresidential COS,NORTH,1965,1.0,1,0,24697,Library,15300.0,Other - Services,4717.0,,,Compliant,,,1295685.75
+33527,NonResidential,CENTRAL,2013,2.0,1,0,57468,College/University,67750.0,,,,,Compliant,,,3543985.5
+33548,NonResidential,EAST,2006,1.0,5,0,84000,College/University,84300.0,,,,,Compliant,,,12184124.0
+34348,NonResidential,DOWNTOWN,1991,1.0,3,0,103000,Retail Store,103000.0,,,,,Compliant,89.0,,5214621.5
+34891,NonResidential,SOUTHWEST,2008,1.0,1,0,37864,Supermarket/Grocery Store,37864.0,,,,,Compliant,61.0,,8025696.0
+34908,NonResidential,EAST,1950,1.0,2,0,66497,Supermarket/Grocery Store,66497.0,,,,,Compliant,84.0,,9290214.0
+35391,NonResidential,MAGNOLIA / QUEEN ANNE,2006,1.0,4,0,34010,Retail Store,38428.0,,,,,Compliant,,,3560614.25
+35392,NonResidential,MAGNOLIA / QUEEN ANNE,2006,1.0,4,0,45980,Supermarket/Grocery Store,45980.0,,,,,Compliant,79.0,,8305255.0
+36034,NonResidential,EAST,1996,0.0,3,0,45743,Retail Store,45243.0,,,,,Compliant,88.0,,5313217.0
+36587,NonResidential,CENTRAL,1991,1.0,1,0,45000,Fitness Center/Health Club/Gym,45000.0,Swimming Pool,0.0,,,Compliant,,,3505497.0
+37008,NonResidential,GREATER DUWAMISH,1999,1.0,6,0,333698,Parking,432903.0,Other - Entertainment/Public Assembly,333698.0,,,Compliant,,,13730204.0
+37248,NonResidential,GREATER DUWAMISH,1904,1.0,4,0,72859,Non-Refrigerated Warehouse,72859.0,,,,,Compliant,55.0,,1498457.875
+39332,SPS-District K-12,SOUTHEAST,2009,1.0,2,0,138705,K-12 School,138705.0,,,,,Error - Correct Default Data,84.0,,4959298.0
+40008,NonResidential,GREATER DUWAMISH,2004,1.0,3,0,21947,Other,14877.0,Office,12023.0,Parking,4920.0,Compliant,,,1554599.25
+40028,NonResidential,NORTHEAST,1940,1.0,0,0,384772,Non-Refrigerated Warehouse,349953.0,Office,63872.0,,,Compliant,69.0,,15206762.0
+40031,NonResidential,NORTHEAST,1960,1.0,0,0,30287,Medical Office,28050.0,,,,,Compliant,32.0,,2193115.0
+40034,NonResidential,NORTHEAST,1960,1.0,0,0,21931,Office,31845.0,Office,31845.0,,,Compliant,32.0,,3947209.25
+40067,NonResidential,DOWNTOWN,1985,1.0,6,0,73102,Office,92723.0,Parking,18364.0,,,Compliant,84.0,,4307238.5
+40348,NonResidential,EAST,1916,1.0,2,59401,81422,Parking,89820.0,Supermarket/Grocery Store,64000.0,Multifamily Housing,41014.0,Compliant,,,2762846.0
+40447,Nonresidential COS,GREATER DUWAMISH,1966,5.0,1,0,87458,Office,41097.0,Distribution Center,39772.0,Other,6275.0,Compliant,,,8475238.0
+41928,NonResidential,NORTH,2011,1.0,1,0,51400,Supermarket/Grocery Store,51841.0,Parking,0.0,,,Compliant,74.0,,11702959.0
+42069,NonResidential,LAKE UNION,1993,1.0,1,0,26263,Office,26263.0,,,,,Compliant,64.0,,1634669.375
+43948,Nonresidential COS,GREATER DUWAMISH,1906,1.0,2,0,39212,Other,39212.0,,,,,Non-Compliant,,Low outlier,72370.39844
+45287,Nonresidential COS,CENTRAL,1968,0.0,1,0,21400,Other - Recreation,11737.0,Fitness Center/Health Club/Gym,9003.0,Swimming Pool,0.0,Compliant,,,5170809.5
+45927,NonResidential,EAST,2000,1.0,8,0,178000,Laboratory,181930.0,,,,,Compliant,,,53166156.0
+48287,NonResidential,GREATER DUWAMISH,2005,1.0,4,0,162157,Office,88698.0,Other - Services,72726.0,,,Compliant,,,40613740.0
+49687,NonResidential,MAGNOLIA / QUEEN ANNE,2003,1.0,4,0,33997,Supermarket/Grocery Store,33997.0,Parking,30000.0,,,Compliant,23.0,,8926736.0
+49695,NonResidential,LAKE UNION,2012,1.0,11,0,526423,Office,400536.0,Parking,182439.0,Other,7177.0,Compliant,97.0,,17463744.0
+49697,NonResidential,DOWNTOWN,1902,1.0,6,0,74211,Office,33279.0,Multifamily Housing,29878.0,Parking,8421.0,Compliant,97.0,,1357119.875
+49699,NonResidential,SOUTHEAST,1988,1.0,2,0,45700,Non-Refrigerated Warehouse,293707.0,,,,,Compliant,99.0,,1544193.75
+49703,SPS-District K-12,MAGNOLIA / QUEEN ANNE,1952,1.0,1,0,116101,K-12 School,119685.0,,,,,Missing Data,,,0.0
+49705,Nonresidential COS,NORTHEAST,1929,8.0,0,0,502030,Other - Recreation,564258.0,,,,,Compliant,,,18470340.0
+49709,NonResidential,NORTHWEST,2012,1.0,2,0,53575,Urgent Care/Clinic/Other Outpatient,53575.0,,,,,Compliant,,,31803568.0
+49712,NonResidential,GREATER DUWAMISH,2012,1.0,6,0,157345,Office,157345.0,,,,,Compliant,63.0,,11624548.0
+49715,NonResidential,NORTHEAST,2012,1.0,5,0,136758,Residence Hall/Dormitory,207017.0,,,,,Compliant,90.0,,6275367.5
+49716,NonResidential,NORTHEAST,2012,1.0,7,0,192259,Residence Hall/Dormitory,188118.0,Supermarket/Grocery Store,7000.0,,,Compliant,72.0,,8767617.0
+49718,Nonresidential COS,GREATER DUWAMISH,2012,2.0,2,0,137138,Other - Utility,138602.0,,,,,Compliant,,,5475367.0
+49725,NonResidential,EAST,2012,1.0,7,0,267470,Other,160482.0,Hospital (General Medical & Surgical),106988.0,,,Compliant,,,42584028.0
+49732,NonResidential,NORTHEAST,2013,1.0,8,0,330000,Hospital (General Medical & Surgical),241500.0,,,,,Compliant,58.0,,57764408.0
+49737,NonResidential,MAGNOLIA / QUEEN ANNE,1918,1.0,3,0,43832,Retail Store,24588.0,Hotel,17558.0,Parking,1686.0,Compliant,67.0,,3886545.0
+49738,NonResidential,SOUTHWEST,1987,1.0,6,0,146363,Strip Mall,146363.0,,,,,Compliant,,,11730555.0
+49775,NonResidential,SOUTHWEST,2011,1.0,1,0,67263,Supermarket/Grocery Store,67263.0,,,,,Compliant,78.0,,14697487.0
+49776,NonResidential,DOWNTOWN,1988,1.0,13,149326,204760,Office,193393.0,Parking,149326.0,Multifamily Housing,38225.0,Compliant,88.0,,13458948.0
+49778,NonResidential,NORTHEAST,2008,1.0,2,0,70292,Worship Facility,70292.0,,,,,Compliant,37.0,,1933811.625
+49780,NonResidential,DOWNTOWN,1975,1.0,7,35120,55559,Data Center,60000.0,Parking,30700.0,,,Compliant,100.0,,41680640.0
+49783,NonResidential,LAKE UNION,2013,0.0,8,114010,225581,Laboratory,172793.0,Parking,139241.0,Convenience Store without Gas Station,294.0,Compliant,,,41696464.0
+49784,NonResidential,CENTRAL,2013,1.0,6,0,52000,Office,48159.0,,,,,Compliant,100.0,,342726.0938
+49858,NonResidential,EAST,2014,1.0,2,0,35780,K-12 School,38000.0,,,,,Compliant,22.0,,2912264.0
+49793,NonResidential,MAGNOLIA / QUEEN ANNE,2013,1.0,3,28217,76844,Office,83533.0,Parking,28217.0,,,Compliant,100.0,,1363191.625
+49797,NonResidential,DOWNTOWN,2013,1.0,3,14989,47673,Office,47000.0,,,,,Compliant,67.0,,2502131.0
+49802,NonResidential,BALLARD,2013,1.0,4,22948,39433,Hotel,60245.0,Parking,26067.0,Swimming Pool,0.0,Compliant,62.0,,3497215.5
+49829,NonResidential,Central,2013,1.0,6,0,79805,Senior Care Community,79805.0,Parking,7000.0,,,Compliant,25.0,,7531325.0
+49850,NonResidential,NORTHWEST,2014,1.0,2,0,48925,K-12 School,63500.0,,,,,Compliant,82.0,,1662054.125
+49862,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1962,0.0,1,0,29000,Other,25100.0,,,,,Compliant,,,2429214.0
+49865,NonResidential,NORTHEAST,2013,1.0,6,239252,65773,Lifestyle Center,318986.0,Medical Office,19909.0,,,Compliant,,,25959642.0
+49867,NonResidential,GREATER DUWAMISH,2014,1.0,7,146687,187027,Office,191333.0,Parking,133432.0,,,Compliant,,,4581493.0
+49872,NonResidential,GREATER DUWAMISH,2014,1.0,2,0,56988,Automobile Dealership,24520.0,Parking,0.0,,,Compliant,,,544172.375
+49909,Campus,GREATER DUWAMISH,2007,4.0,2,0,149856,College/University,149856.0,,,,,Compliant,,,6335315.5
+49911,NonResidential,DELRIDGE,2010,1.0,2,0,44162,Pre-school/Daycare,44162.0,Parking,15761.0,,,Compliant,,,1546484.875
+49918,Nonresidential COS,SOUTHEAST,2013,1.0,1,0,53775,Other - Recreation,35361.0,Fitness Center/Health Club/Gym,12689.0,Office,2110.0,Compliant,,,12095818.0
+49924,NonResidential,EAST,1912,0.0,2,0,64820,Office,37668.0,Movie Theater,11500.0,Vocational School,10000.0,Compliant,,,2274296.75
+49925,NonResidential,EAST,1993,1.0,2,0,99765,College/University,99765.0,,,,,Compliant,,,3185005.25
+49926,NonResidential,EAST,1925,1.0,3,0,428347,College/University,472384.0,,,,,Compliant,,,37022180.0
+49940,NonResidential,EAST,1920,1.0,8,0,374466,Hospital (General Medical & Surgical),1010135.0,,,,,Compliant,74.0,,163945984.0
+49945,NonResidential,DOWNTOWN,1989,1.0,3,156000,41395,Senior Care Community,38800.0,Other - Public Services,3650.0,Office,586.0,Compliant,,,2737534.5
+49946,NonResidential,BALLARD,2010,1.0,8,0,41198,Supermarket/Grocery Store,41198.0,,,,,Compliant,44.0,,7768057.5
+49958,Nonresidential COS,GREATER DUWAMISH,2014,1.0,1,0,20993,"Repair Services (Vehicle, Shoe, Locksmith, etc)",20983.0,,,,,Compliant,,,923812.8125
+49966,NonResidential,SOUTHEAST,2009,1.0,0,0,40265,Pre-school/Daycare,40265.0,,,,,Compliant,,,2159170.25
+49967,Campus,NORTHEAST,1900,111.0,0,0,9320156,College/University,9320156.0,,,,,Compliant,,,873923712.0
+49968,NonResidential,NORTHEAST,1969,1.0,4,0,58779,College/University,58779.0,,,,,Compliant,,,5000717.0
+49970,NonResidential,NORTHEAST,2011,1.0,0,0,176225,Residence Hall/Dormitory,176225.0,Parking,24000.0,,,Compliant,91.0,,4926695.0
+49972,NonResidential,NORTHEAST,1998,1.0,6,0,203030,College/University,203030.0,,,,,Compliant,,,51168308.0
+49979,NonResidential,NORTHEAST,1953,1.0,0,0,166991,Residence Hall/Dormitory,166991.0,,,,,Compliant,19.0,,15965859.0
+49980,NonResidential,NORTHEAST,1970,1.0,0,0,89392,Residence Hall/Dormitory,89392.0,,,,,Compliant,16.0,,6960904.5
+49983,NonResidential,NORTHEAST,2011,1.0,0,0,97040,Residence Hall/Dormitory,97040.0,,,,,Compliant,69.0,,3894142.5
+49985,NonResidential,LAKE UNION,2014,1.0,6,0,427181,Office,427181.0,Parking,169195.0,,,Compliant,99.0,,16371039.0
+49998,NonResidential,SOUTHEAST,2014,1.0,4,14004,87576,Self-Storage Facility,87576.0,,,,,Compliant,,,940844.6875
+50002,NonResidential,NORTHEAST,2014,1.0,3,0,33648,Parking,83600.0,Automobile Dealership,39000.0,,,Compliant,,,1399581.625
+50026,NonResidential,EAST,2015,1.0,5,0,37873,Office,25927.0,Parking,5834.0,Multifamily Housing,5160.0,Compliant,,,2346692.5
+50031,NonResidential,MAGNOLIA / QUEEN ANNE,2015,1.0,10,0,513816,Office,359040.0,Parking,151658.0,Restaurant,1087.0,Compliant,,,18760766.0
+50035,NonResidential,DOWNTOWN,2015,1.0,14,0,144614,Hotel,159500.0,,,,,Compliant,89.0,,5525072.5
+50037,NonResidential,LAKE UNION,2014,1.0,12,163260,317442,Office,341897.0,Parking,136594.0,,,Compliant,99.0,,12720069.0
+50038,NonResidential,MAGNOLIA / QUEEN ANNE,2014,1.0,2,0,25532,Office,11745.0,"Repair Services (Vehicle, Shoe, Locksmith, etc)",11745.0,,,Compliant,,,627854.125
+50039,NonResidential,GREATER DUWAMISH,2015,1.0,2,0,108036,Parking,202171.0,Automobile Dealership,108036.0,,,Compliant,,,4991893.5
+50045,NonResidential,LAKE UNION,2015,1.0,12,166208,317189,Office,342173.0,Parking,147597.0,,,Compliant,98.0,,13998638.0
+50054,Nonresidential COS,LAKE UNION,2014,1.0,13,197659,339038,Office,342838.0,Parking,202178.0,Retail Store,6313.200195,Compliant,98.0,,13239050.0
+50062,NonResidential,LAKE UNION,2014,1.0,4,41539,85284,Hotel,88157.0,Parking,41539.0,Swimming Pool,0.0,Compliant,72.0,,6042399.5
+50068,NonResidential,GREATER DUWAMISH,1955,1.0,1,4222,47863,Non-Refrigerated Warehouse,52085.0,,,,,Compliant,37.0,,3605855.5
+50069,NonResidential,GREATER DUWAMISH,1929,1.0,2,0,24990,Office,24990.0,,,,,Compliant,9.0,,4420650.5
+50070,NonResidential,NORTHEAST,2013,1.0,1,0,72000,Other - Recreation,72000.0,,,,,Compliant,,,2925780.0
+50081,NonResidential,GREATER DUWAMISH,2015,1.0,3,0,45000,K-12 School,45728.0,Parking,0.0,,,Compliant,77.0,,1325972.75
+50094,NonResidential,LAKE UNION,2015,1.0,6,85028,260262,Laboratory,151523.0,Office,106498.0,Parking,84002.0,Compliant,,,39364116.0
+50101,Nonresidential WA,NORTHEAST,1962,1.0,1,0,68072,College/University,68916.0,,,,,Compliant,,,3180819.25
+50196,Nonresidential COS,NORTH,2005,1.0,1,0,20616,Other - Recreation,9900.0,Fitness Center/Health Club/Gym,8577.0,Pre-school/Daycare,1364.0,Compliant,,,636965.5
+50198,Nonresidential COS,CENTRAL,2013,1.0,1,0,11685,Prison/Incarceration,11685.0,,,,,Compliant,,,851053.8125
+50201,Nonresidential COS,BALLARD,2010,1.0,1,0,11968,Prison/Incarceration,11968.0,,,,,Compliant,,,783423.0
+50204,Nonresidential COS,NORTH,1949,1.0,1,0,11285,Prison/Incarceration,11285.0,,,,,Compliant,,,645665.375
+50207,Nonresidential COS,BALLARD,1911,1.0,1,0,16795,Other - Recreation,8680.0,Fitness Center/Health Club/Gym,7014.0,Pre-school/Daycare,535.0,Compliant,,,936616.5
+50208,Nonresidential COS,BALLARD,1972,1.0,1,0,12769,Other - Recreation,10912.0,Fitness Center/Health Club/Gym,1670.0,Office,187.0,Compliant,,,5117308.5
+50210,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1952,1.0,1,0,13661,Office,13661.0,,,,,Error - Correct Default Data,75.0,,502667.6875
+50212,Nonresidential COS,EAST,1912,1.0,1,0,23445,Other - Recreation,23445.0,,,,,Compliant,,,5976246.0
+50219,Nonresidential COS,CENTRAL,1994,1.0,1,0,20050,Other - Recreation,8108.0,Fitness Center/Health Club/Gym,7726.0,Office,3779.0,Compliant,,,1813404.0
+50220,Nonresidential COS,SOUTHEAST,1960,1.0,1,0,15398,Office,15398.0,,,,,Error - Correct Default Data,93.0,,387810.0
+50221,Nonresidential COS,DELRIDGE NEIGHBORHOODS,1982,1.0,1,0,18261,Other - Recreation,18261.0,,,,,Compliant,,,932082.125
+50222,Nonresidential COS,GREATER DUWAMISH,1990,1.0,1,0,12294,Office,12294.0,,,,,Error - Correct Default Data,46.0,,849745.6875
+50223,Nonresidential COS,DOWNTOWN,2004,1.0,1,0,16000,Other - Recreation,16000.0,,,,,Compliant,,,950276.1875
+50224,Nonresidential COS,MAGNOLIA / QUEEN ANNE,1974,1.0,1,0,13157,Other - Recreation,7583.0,Fitness Center/Health Club/Gym,5574.0,Swimming Pool,0.0,Compliant,,,5765898.0
+50225,Nonresidential COS,GREATER DUWAMISH,1989,1.0,1,0,14101,Other - Recreation,6601.0,Fitness Center/Health Club/Gym,6501.0,Pre-school/Daycare,484.0,Compliant,,,719471.1875
+50226,Nonresidential COS,GREATER DUWAMISH,1938,1.0,1,0,18258,Other - Recreation,8271.0,Fitness Center/Health Club/Gym,8000.0,Pre-school/Daycare,1108.0,Compliant,,,1152896.25
